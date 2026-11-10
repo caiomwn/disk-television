@@ -4,7 +4,7 @@ Data: 10 de novembro de 2026. Projeto preservado em `C:/Users/padoka77/disk-tele
 
 ## Estado de lançamento
 
-**Versão local e build de produção validados. Autenticação GitHub confirmada na conta caiomwn; repositório público novo criado e relido: https://github.com/caiomwn/disk-television. Implantação Pages em preparação; URL de transmissão ainda não verificada.** Nenhum repositório preexistente foi sobrescrito. A implantação deve configurar Pages e ler novamente a URL HTTPS e `release.json` antes de declarar ON AIR.
+**DISK TELEVISION 0.3 — CH 99 ON AIR.** URL pública verificada: https://caiomwn.github.io/disk-television/. Repositório: https://github.com/caiomwn/disk-television. Autenticação confirmada na conta caiomwn; repositório criado vazio, sem sobrescrever trabalho preexistente. Fontes em `main`; runtime em `gh-pages`.
 
 Não houve teste em Samsung física; não há alegação de homologação.
 
@@ -28,9 +28,9 @@ As aberturas são animações web com identificação do bloco e continuidade or
 
 ## QA realmente executado
 
-`tools/check.py --browser --live`: **69 testes, todos aprovados**, mais dois diagnósticos reais de rede aprovados. Log integral: `docs/evidence/test-run.json`. Métricas reproduzíveis: `tools/report_launch.py` → `docs/evidence/launch/metrics.json`.
+`tools/check.py --browser --live`: **75 testes, todos aprovados**, mais dois diagnósticos reais de rede aprovados. Log integral: `docs/evidence/test-run.json`. Métricas reproduzíveis: `tools/report_launch.py` → `docs/evidence/launch/metrics.json`.
 
-- 46 Node: relógio/grade/player/áudio, contrato legado e modo novo. Varredura de cada segundo das 24 horas; isso não é uma sessão de reprodução com 24 horas de duração.
+- 52 Node: relógio/grade/player/áudio, contrato legado, modo novo e alinhamento inicial limitado. Varredura de cada segundo das 24 horas; isso não é uma sessão de reprodução com 24 horas de duração.
 - 4 assets, 1 launcher, 1 validador de evidência de embed.
 - 9 regressões de navegador, 2 integração editorial, 3 apresentações, 1 build, 1 bundle de produção e 1 Web Audio real.
 - Testes determinísticos usam um duplo explícito somente da API externa quando necessário. Não são apresentados como reprodução real do YouTube.
@@ -46,13 +46,19 @@ As aberturas são animações web com identificação do bloco e continuidade or
 
 ## Build e publicação
 
+Pages relido com status `built`, branch `gh-pages`, raiz `/`, HTTPS ativo. Workflow do commit de produção `aef4fefbc5f8e1250951816e94513d6449b6c24d` concluído com sucesso: https://github.com/caiomwn/disk-television/actions/runs/42925160223. A URL HTTPS respondeu; manifesto e 20 hashes de recursos corresponderam ao build local.
+
+Teste adicional na origem pública, sem relógio simulado nem API falsa: Rayearth episódio 7 (`E6R2j2cablI`) carregado na posição correspondente ao horário real, com duas amostras crescentes e posição compatível com a grade. Guia e retorno confirmados; três variantes de áudio prontas e zero pageErrors. Evidência atual: `docs/evidence/launch/public-site.json` e `public-on-air.png`. Reprodução posterior: `python tools/verify_public_site.py`; aceita `gh` no PATH/variável `GH_EXECUTABLE`. Nesta execução, a consulta anônima da API de CI retornou 404, então o verificador de manutenção utilizou `gh` autenticado; os arquivos HTTPS e o player foram acessados sem login do espectador. O repositório público também respondeu HTTP 200.
+
+Correção de implantação: o Git normalizava CRLF→LF em sete recursos textuais, invalidando hashes calculados no Windows. A diferença foi reproduzida byte a byte; o builder passou a canonicalizar LF antes de calcular hashes, com regressão validada. Também foi observada uma tentativa em que o YouTube reiniciou no zero apesar do offset. Há uma única tentativa limitada de alinhamento inicial quando o primeiro estado coerente de conteúdo começa no zero após pedido de entrada no meio; ela não faz correção periódica, não identifica/remove anúncios e não altera pausas/seeks posteriores do espectador. Anúncios e comportamento do provedor ainda impedem garantia de sincronismo em todas as tentativas.
+
 `python tools/build.py` gera `_site/` com 21 arquivos estáticos, bundle IIFE alvo Chrome 69, caminhos relativos e manifesto SHA-256 `release.json`. Há fallbacks para globalThis, Array.at, replaceChildren e Promise.allSettled, e foco visível em motores sem :focus-visible. Esse alvo é preparo técnico, não emulação nem teste Samsung.
 
 O build não leva `.venv`, `node_modules`, ferramentas de autenticação, pesquisa ou credenciais. Uma varredura detecta padrões de tokens e chaves privadas. Nenhum backend, computador ligado, API de IA ou serviço pago é necessário na reprodução.
 
 `python tools/package.py` gera os ZIPs `dist/disk-television-0.3-pages.zip` (runtime) e `dist/disk-television-0.3-source.zip` (fontes). O ZIP Pages deve ser extraído na raiz da branch escolhida; não publicar a pasta envolvente `_site` nem apenas o ZIP fechado. Instruções de publicação e edição no README.
 
-A confirmação de lançamento precisa incluir leitura remota de Pages, HTTP 200 da URL e conferência de `release.json`, além de um teste real do player nessa origem HTTPS. Não inferir sucesso de publicação apenas de `git push`.
+A confirmação acima incluiu leitura remota de Pages, HTTP 200 da URL, conferência de `release.json` e teste real do player nessa origem HTTPS, não apenas `git push`.
 
 ## Curadoria e direitos
 

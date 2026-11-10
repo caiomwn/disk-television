@@ -29,8 +29,14 @@ files={}
 for path in OUT.rglob('*'):
     if not path.is_file():continue
     data=path.read_bytes();name=path.relative_to(OUT).as_posix()
+    # Git commonly normalizes CRLF on Windows. Hash canonical deployment bytes,
+    # not workstation line endings, so Pages and the local artifact are identical.
+    if path.suffix in ['.html','.css','.js','.json','.svg'] or name in ['LICENSE','.nojekyll']:
+        canonical=data.replace(b'\r\n',b'\n')
+        if canonical!=data:path.write_bytes(canonical)
+        data=canonical
     if re.search(rb'(gh[pousr]_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----)',data):raise SystemExit('Potential secret found in production output: '+name)
     files[name]=hashlib.sha256(data).hexdigest()
 release={'version':json.loads((ROOT/'package.json').read_text())['version'],'generatedAt':datetime.now(timezone.utc).isoformat(),'syntaxTarget':'chrome69','samsungPhysicallyTested':False,'files':files}
-(OUT/'release.json').write_text(json.dumps(release,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+(OUT/'release.json').write_bytes((json.dumps(release,ensure_ascii=False,indent=2)+'\n').encode('utf-8'))
 print(json.dumps({'output':str(OUT),'files':len(files)+1,'version':release['version'],'secretScan':'passed','requiresLocalServerInProduction':False},indent=2))

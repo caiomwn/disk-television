@@ -1,5 +1,9 @@
 # DISK TELEVISION 0.3 — CH 99
 
+ON AIR: https://caiomwn.github.io/disk-television/
+
+Publicação HTTPS e reprodução oficial do YouTube verificadas. Samsung física ainda não testada; abra a URL no navegador da TV e selecione “Sintonizar CH 99”.
+
 Emissora pessoal estática: a grade depende do relógio, não do momento em que você abre a página. Não há catálogo para selecionar nem servidor de vídeo próprio.
 
 Lançamento 0.3: três apresentações A/B/C, sete blocos, abertura única de 18 segundos e links de quatro segundos entre programas, trilhas originais MP3/WAV e grade reorganizada para no máximo dois episódios seguidos da mesma série. O catálogo permanece com 48 vídeos anteriormente verificados; os oito títulos prioritários receberam nova auditoria sem inclusão de uploads não comprovados. Estado desta entrega: `docs/LAUNCH-REPORT.md`; fontes e pendências: `docs/LAUNCH-CONTENT-AUDIT.md`. Os relatórios DT-001/DT-002 são históricos.

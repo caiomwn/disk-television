@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {JoinAlignment} from '../src/join-alignment.js';
+const sample={videoId:'abcdefghijk',time:.5,duration:1500,expectedDuration:1500,elapsed:95};
+test('ignored initial midpoint is corrected once at current broadcast time',()=>{const j=new JoinAlignment(),calls=[];j.load('abcdefghijk',80);assert.equal(j.playing(sample,t=>calls.push(t)),true);assert.deepEqual(calls,[95]);assert.equal(j.playing(sample,t=>calls.push(t)),false);assert.equal(calls.length,1);});
+test('matching initial offset is left untouched, including later user seek to zero',()=>{const j=new JoinAlignment(),calls=[];j.load('abcdefghijk',80);j.playing({...sample,time:82},t=>calls.push(t));j.playing(sample,t=>calls.push(t));assert.deepEqual(calls,[]);});
+test('wrong video or duration is not treated as confirmed content',()=>{const j=new JoinAlignment(),calls=[];j.load('abcdefghijk',80);j.playing({...sample,videoId:'wrong-id'},t=>calls.push(t));j.playing({...sample,duration:30},t=>calls.push(t));assert.deepEqual(calls,[]);j.playing(sample,t=>calls.push(t));assert.deepEqual(calls,[95]);});
+test('start-of-programme joins do not seek and stop clears pending correction',()=>{const j=new JoinAlignment(),calls=[];j.load('abcdefghijk',0);j.playing(sample,t=>calls.push(t));j.load('abcdefghijk',80);j.stop();j.playing(sample,t=>calls.push(t));assert.deepEqual(calls,[]);});
+test('new load gets its own one-shot alignment without a recurring drift loop',()=>{const j=new JoinAlignment(),calls=[];j.load('abcdefghijk',80);j.playing(sample,t=>calls.push(t));j.load('abcdefghijk',100);j.playing({...sample,elapsed:120},t=>calls.push(t));assert.deepEqual(calls,[95,120]);});
+test('invalid timings and a rejected seek remain nonfatal',()=>{const j=new JoinAlignment();j.load('abcdefghijk',80);assert.equal(j.playing({...sample,time:NaN},()=>{}),false);assert.doesNotThrow(()=>j.playing(sample,()=>{throw Error('seek unavailable')}));assert.equal(j.playing(sample,()=>{}),false);});

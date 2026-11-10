@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:39:44.929787+00:00",
+  "generatedAt": "2026-11-10T23:47:47.398087+00:00",
   "catalogItems": 48,
   "usedDistinct": 46,
   "blocks": 7,
@@ -15,7 +15,7 @@
   "physicalSamsung": false,
   "noNewSeedUploadsAdded": true,
   "testCounts": {
-    "unit": 46,
+    "unit": 52,
     "assets": 4,
     "launcher": 1,
     "embed-evidence": 1,
@@ -26,7 +26,7 @@
     "production-browser": 1,
     "real-audio-browser": 1
   },
-  "totalTests": 69,
+  "totalTests": 75,
   "qaAllPassed": true,
   "diagnostics": [
     {

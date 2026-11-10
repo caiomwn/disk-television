@@ -12,7 +12,12 @@ class BuildTests(unittest.TestCase):
         for name in ['index.html','legal.html','styles.css','presentation.css','app.bundle.js','data/catalog.json','data/schedule.json','.nojekyll','release.json']:
             self.assertTrue((out/name).is_file(),name)
         self.assertFalse((out/'.venv').exists());self.assertFalse((out/'node_modules').exists());self.assertFalse((out/'research').exists())
-        self.assertTrue(json.loads((out/'release.json').read_text())['files'])
+        release=json.loads((out/'release.json').read_text())
+        self.assertTrue(release['files'])
+        for name in release['files']:
+            path=out/name
+            if path.suffix in ['.html','.css','.js','.json','.svg'] or name in ['LICENSE','.nojekyll']:
+                self.assertNotIn(b'\r\n',path.read_bytes(),'Git CRLF normalization would invalidate deployed hash: '+name)
         bundle=(out/'app.bundle.js').read_text(encoding='utf-8')
         self.assertNotIn('C:\\Users\\padoka77',bundle)
         self.assertNotIn('BEGIN PRIVATE KEY',bundle)

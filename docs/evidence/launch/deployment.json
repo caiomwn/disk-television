@@ -1,10 +1,16 @@
 {
   "version": "0.3.0",
-  "status": "preparing_pages_deployment",
-  "published": false,
-  "url": null,
+  "status": "built_and_verified",
+  "published": true,
+  "url": "https://caiomwn.github.io/disk-television/",
+  "productionCommit": "aef4fefbc5f8e1250951816e94513d6449b6c24d",
+  "workflow": "https://github.com/caiomwn/disk-television/actions/runs/42925160223",
+  "workflowConclusion": "success",
+  "resourceHashesVerified": 20,
+  "releaseManifestMatches": true,
+  "realCurrentClockPlaybackConfirmed": true,
   "remoteRepositoryCreated": true,
   "repository": "https://github.com/caiomwn/disk-television",
   "physicalSamsungTested": false,
-  "nextVerification": "Read back repository and Pages configuration; request live HTTPS site; compare release.json and bundle SHA-256; test official YouTube player at public origin."
+  "nextVerification": "Physical Samsung TV: tune, audio, guide, return, fullscreen, compare A/B/C and wait for automatic next programme."
 }

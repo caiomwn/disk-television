@@ -1,0 +1,64 @@
+{
+  "checkedAt": "2026-11-10T23:51:45.095801+00:00",
+  "url": "https://caiomwn.github.io/disk-television/",
+  "mockedYouTube": false,
+  "clockSimulated": false,
+  "physicalSamsung": false,
+  "pageErrors": [],
+  "pages": {
+    "status": "built",
+    "source": {
+      "branch": "gh-pages",
+      "path": "/"
+    },
+    "httpsEnforced": true,
+    "head": "aef4fefbc5f8e1250951816e94513d6449b6c24d",
+    "workflowUrl": "https://github.com/caiomwn/disk-television/actions/runs/42925160223",
+    "conclusion": "success"
+  },
+  "version": "0.3.0",
+  "verifiedResourceHashes": 20,
+  "manifestMatches": true,
+  "samples": [
+    {
+      "state": 3,
+      "time": 0,
+      "videoId": "E6R2j2cablI",
+      "duration": 0,
+      "title": "MAGIC KNIGHT RAYEARTH - EP07 Ferio in Desperation - A Romance in the Desert | English Dub",
+      "elapsed": 947.677,
+      "slotType": "video"
+    },
+    {
+      "state": 1,
+      "time": 948.1721830534058,
+      "videoId": "E6R2j2cablI",
+      "duration": 1478.121,
+      "title": "MAGIC KNIGHT RAYEARTH - EP07 Ferio in Desperation - A Romance in the Desert | English Dub",
+      "elapsed": 949.17,
+      "slotType": "video"
+    },
+    {
+      "state": 1,
+      "time": 949.6822639961853,
+      "videoId": "E6R2j2cablI",
+      "duration": 1478.121,
+      "title": "MAGIC KNIGHT RAYEARTH - EP07 Ferio in Desperation - A Romance in the Desert | English Dub",
+      "elapsed": 950.668,
+      "slotType": "video"
+    }
+  ],
+  "requestedLoads": [
+    {
+      "videoId": "E6R2j2cablI",
+      "startSeconds": 947.418
+    }
+  ],
+  "stationState": "NO AR",
+  "receptionMessage": "",
+  "playbackConfirmed": true,
+  "uncovered": true,
+  "guideAndReturnConfirmed": true,
+  "audioReadyVariants": "next,station,night",
+  "success": true
+}

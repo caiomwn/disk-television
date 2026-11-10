@@ -2,6 +2,7 @@ import {compileSchedule, locate} from './schedule.js';
 import {Playout} from './playout.js';
 import {PresentationController} from './presentation.js';
 import {StationAudio} from './station-audio.js';
+import {JoinAlignment} from './join-alignment.js';
 
 const $ = id => document.getElementById(id);
 const timeFormat = new Intl.DateTimeFormat('pt-BR',{timeZone:'America/Sao_Paulo',hour:'2-digit',minute:'2-digit',hourCycle:'h23'});
@@ -9,6 +10,7 @@ const clockFormat = new Intl.DateTimeFormat('pt-BR',{timeZone:'America/Sao_Paulo
 let config, catalog, slots, epoch, tuned=false, player=null, playerReady=false, apiPromise=null;
 let playout, lastSlotKey='', guideOpen=false, muted=false, lastGuideIndex=-1;
 const stationAudio=new StationAudio({baseUrl:new URL('./assets/audio/',document.baseURI)});
+const joinAlignment=new JoinAlignment();
 let connection=null;
 let suspendedForView=false;
 let clock;
@@ -43,9 +45,10 @@ const adapter={
   load(videoId,offset){
     if (!playerReady || !pictureVisible()) return;
     $('player-shell').hidden=false;
+    joinAlignment.load(videoId,Math.max(0,offset));
     player.loadVideoById({videoId,startSeconds:Math.max(0,offset)});
   },
-  stop(){ if(playerReady) player.stopVideo(); }
+  stop(){joinAlignment.stop();if(playerReady)player.stopVideo();}
 };
 
 async function connectPlayer() {
@@ -60,6 +63,10 @@ async function connectPlayer() {
         onReady(){clearTimeout(timeout);playerReady=true; muted?player.mute():player.unMute(); resolve();},
         onStateChange(event){
           if (!playout || guideOpen || presentationOpen || suspendedForView || document.hidden) return;
+          if(event.data===1&&clock?.slot.type==='video'&&pictureVisible()){
+            const item=catalog.find(item=>item.id===clock.slot.contentId);
+            joinAlignment.playing({videoId:player.getVideoData?.()?.video_id,time:player.getCurrentTime?.(),duration:player.getDuration?.(),expectedDuration:item?.durationSeconds,elapsed:(Date.now()-clock.startMs)/1000},offset=>player.seekTo(offset,true));
+          }
           playout.state(event.data,Date.now());
           renderSignal();
         },
