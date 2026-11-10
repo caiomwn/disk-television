@@ -1,0 +1,49 @@
+/* A/B/C compare composition only; all decoration is outside the YouTube iframe. */
+.receiver{--receiver-top:58px;--receiver-bottom:100px;--mode-rail:44px;--block-color:#a89bc8}
+.receiver .station-bar{height:var(--receiver-top);padding:0 3%;gap:16px}
+.receiver .small-logo{width:112px;height:42px}
+.receiver .programme-bar{min-height:var(--receiver-bottom);padding:12px 3%;gap:24px}
+.receiver .stage{height:calc(100vh - var(--receiver-top) - var(--receiver-bottom) - var(--mode-rail));min-height:240px}
+.receiver iframe#youtube-player{max-width:calc((100vh - var(--receiver-top) - var(--receiver-bottom) - var(--mode-rail))*16/9);width:100%;height:100%}
+.presentation-rail{height:var(--mode-rail);min-height:44px;flex:none;display:flex;align-items:center;justify-content:flex-end;gap:14px;padding:0 3%;border-top:1px solid #252938;background:#0a0c13;color:var(--muted)}
+.presentation-rail>span{margin-right:auto;font-size:10px;letter-spacing:.15em}
+.presentation-rail button{min-height:40px;padding:7px 13px;font-size:11px;border-color:transparent}
+#reveal-controls{display:none}
+.presentation-choices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:25px;max-width:700px}
+.presentation-choices button{text-align:left;padding:14px;min-height:76px;background:#0e111c;border-color:#3b4055}
+.presentation-choices button strong{display:block;font-size:12px;letter-spacing:.04em;font-weight:600}
+.presentation-choices button span{display:block;font-size:11px;color:var(--muted);line-height:1.5;margin-top:7px}
+.presentation-choices button[aria-pressed=true]{border-color:var(--ice);background:#202737;box-shadow:inset 0 -2px 0 #c5c9e4}
+.presentation-note{max-width:650px;margin-top:12px;color:var(--muted);font-size:11px;line-height:1.5}
+.presentation-dialog{position:fixed;inset:0;z-index:12;background:#0b0d16;display:flex;align-items:center;justify-content:center;padding:5vh 7%;overflow:auto}
+.presentation-panel{width:min(1050px,100%)}
+.presentation-panel h2{font-size:clamp(26px,3.8vw,52px);font-weight:400;letter-spacing:-.04em;max-width:850px}
+.presentation-panel>p:not(.eyebrow){margin-top:20px;color:var(--muted);line-height:1.7}
+.presentation-panel .presentation-choices{max-width:none;margin:35px 0 24px}
+.presentation-panel .presentation-choices button{min-height:150px;padding:26px}
+.presentation-panel .presentation-choices strong{font-size:16px}
+.presentation-panel .presentation-choices span{font-size:14px;margin-top:17px}
+.presentation-panel>button{margin-top:28px}
+.receiver[data-presentation=A] #player-shell{inset:0}
+.receiver[data-presentation=A].chrome-hidden{--receiver-top:0px;--receiver-bottom:0px}
+.receiver[data-presentation=A].chrome-hidden .station-bar,.receiver[data-presentation=A].chrome-hidden .programme-bar{height:0;min-height:0;padding:0;border:0;overflow:hidden;visibility:hidden}
+.receiver[data-presentation=A] #reveal-controls{display:block}
+.receiver[data-presentation=B] #player-shell{inset:12px 24px;border:1px solid #3b4054;background:#000}
+.receiver[data-presentation=B] iframe#youtube-player{max-width:calc((100vh - var(--receiver-top) - var(--receiver-bottom) - var(--mode-rail) - 26px)*16/9)}
+.experimental-mark{display:none;position:absolute;z-index:1;pointer-events:none;color:#b9c3d8;font-size:10px;letter-spacing:.18em}
+.receiver[data-presentation=C] .stage{background:radial-gradient(ellipse at 7% 65%,#9fa9d01b,transparent 44%),#070912;border-top:1px solid #3b3a53;border-bottom:1px solid #3b3a53}
+.receiver[data-presentation=C] #player-shell{inset:42px 56px 52px 84px;border:1px solid #555a73;background:#000;box-shadow:0 0 22px #a99ec010}
+.receiver[data-presentation=C] iframe#youtube-player{max-width:calc((100vh - var(--receiver-top) - var(--receiver-bottom) - var(--mode-rail) - 96px)*16/9)}
+.receiver[data-presentation=C] .experimental-mark{display:flex}
+.experimental-top{top:8px;left:84px;right:56px;height:26px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--block-color)}
+.experimental-top span{font-size:9px;color:var(--block-color)}
+.experimental-left{top:42px;bottom:52px;left:15px;width:45px;writing-mode:vertical-rl;justify-content:center;align-items:center;border-left:1px solid #3d425d;color:var(--block-color)}
+.experimental-bottom{bottom:8px;left:84px;right:56px;height:32px;align-items:center;justify-content:space-between;border-top:1px solid #43475e;font-size:9px}
+.receiver .continuity,.receiver .gate{z-index:3}
+.continuity[data-role=block-opening] .ident-content h1{font-style:italic;font-weight:600;letter-spacing:.035em;text-transform:uppercase;font-size:clamp(32px,5.5vw,86px)}
+.continuity[data-role=block-opening] .ident-content:before{content:'DISK TELEVISION / PROGRAMME SERVICE';display:block;color:var(--block-color);font-size:10px;letter-spacing:.23em;margin-bottom:25px}
+.continuity[data-role=programme-link] .ident-content{animation-duration:.45s}
+@media(min-width:1600px){.receiver{--receiver-top:64px;--receiver-bottom:104px}.receiver .frequency{font-size:12px}.receiver .on-air h2{font-size:22px}.receiver .up-next h3{font-size:17px}.receiver .controls button{font-size:12px;padding:10px 13px}.receiver .eyebrow{font-size:10px}}
+@media(max-width:1100px){.receiver .programme-bar{gap:15px}.receiver .controls{max-width:260px}.receiver .stage{min-height:240px}.receiver[data-presentation=B] iframe#youtube-player,.receiver[data-presentation=C] iframe#youtube-player{max-width:100%}.presentation-choices button{padding:12px}.presentation-choices button strong{font-size:10px}}
+@media(max-width:650px){.receiver{--receiver-top:56px;--receiver-bottom:150px}.receiver .station-bar{padding:0 18px;gap:10px}.receiver .small-logo{width:85px;height:38px}.receiver .programme-bar{padding:18px;gap:14px}.receiver .stage{aspect-ratio:auto;min-height:240px}.receiver:not(.is-tuned) .stage{min-height:560px}.receiver .gate-content{width:100%}.receiver .gate{padding:22px}.receiver .gate-logo{width:200px;max-height:75px}.presentation-choices{gap:7px;margin-top:20px}.presentation-choices button{min-height:80px;padding:9px}.presentation-choices button strong{font-size:9px}.presentation-choices button span{font-size:9px}.presentation-note{font-size:9px}.presentation-rail{padding:0 12px;gap:6px}.presentation-rail>span{font-size:8px;max-width:100px}.presentation-rail button{padding:7px;font-size:10px}.receiver[data-presentation=C] .stage{min-height:320px}.receiver[data-presentation=C] #player-shell{inset:38px 22px 42px 44px}.experimental-top{left:44px;right:22px;top:7px;height:24px;font-size:8px}.experimental-top span{display:none}.experimental-left{left:7px;top:38px;bottom:42px;width:26px;font-size:7px}.experimental-bottom{left:44px;right:22px;bottom:7px;height:28px;font-size:6px}.experimental-bottom span{display:none}.receiver[data-presentation=A] .stage{min-height:200px}.receiver[data-presentation=A].chrome-hidden .stage{height:calc(100vh - 44px)}.presentation-dialog{padding:26px 20px;align-items:flex-start}.presentation-panel .presentation-choices{grid-template-columns:1fr;margin:22px 0}.presentation-panel .presentation-choices button{min-height:90px;padding:18px}.presentation-panel .presentation-choices strong{font-size:13px}.presentation-panel .presentation-choices span{font-size:12px;margin-top:8px}.presentation-panel>p:not(.eyebrow){font-size:12px}.presentation-panel>button{margin-top:15px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

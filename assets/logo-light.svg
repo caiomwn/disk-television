@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">DISK TELEVISION — CH 99</title>
+  <desc id="desc">Letras originais desenhadas em caminhos editáveis: DISK e TELEVISION completos; disco óptico, órbita diagonal e CH 99. Sem fontes nem imagem embutida.</desc>
+  <defs>
+    <linearGradient id="alloy" x1="0" y1="0" x2="0.12" y2="1">
+      <stop offset="0" stop-color="#465368" />
+      <stop offset=".40" stop-color="#293349" />
+      <stop offset=".57" stop-color="#6e6b82" />
+      <stop offset=".83" stop-color="#50576d" />
+      <stop offset="1" stop-color="#252d40" />
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#27344d" stop-opacity=".65" />
+      <stop offset="1" stop-color="#35415a" stop-opacity=".15" />
+    </linearGradient>
+    <linearGradient id="orbit" x1=".05" y1=".8" x2=".95" y2=".2">
+      <stop stop-color="#536eab" />
+      <stop offset=".43" stop-color="#8a61ad" />
+      <stop offset=".73" stop-color="#a25e8c" />
+      <stop offset="1" stop-color="#7163a1" />
+    </linearGradient>
+    <linearGradient id="disc-metal" x1=".1" y1=".1" x2=".9" y2=".9">
+      <stop stop-color="#e7eaf5" />
+      <stop offset=".22" stop-color="#91b1dc" />
+      <stop offset=".43" stop-color="#c5b2dd" />
+      <stop offset=".57" stop-color="#e8c0d9" />
+      <stop offset=".74" stop-color="#b1bbd9" />
+      <stop offset="1" stop-color="#e8e5f2" />
+    </linearGradient>
+    <radialGradient id="disc-ray" cx=".5" cy=".5" r=".5">
+      <stop offset=".1" stop-color="#f8f5ff" stop-opacity="0" />
+      <stop offset=".62" stop-color="#b4c6e6" stop-opacity=".12" />
+      <stop offset="1" stop-color="#fcfaff" stop-opacity=".60" />
+    </radialGradient>
+  </defs>
+  <path id="orbit-back" d="M89 284C163 184 465 72 683 62C830 53 918 87 882 151" fill="none" stroke="url(#orbit)" stroke-width="3" />
+  <g id="optical-disc" transform="translate(706 185) rotate(-16)">
+    <path id="disc-annulus" fill="url(#disc-metal)" fill-rule="evenodd" stroke="#798ba7" stroke-width="1.2" d="M107 0A107 107 0 1 0 -107 0A107 107 0 1 0 107 0ZM23 0A23 23 0 1 0 -23 0A23 23 0 1 0 23 0Z" />
+    <path id="disc-refraction" fill="url(#disc-ray)" fill-rule="evenodd" d="M102 0A102 102 0 1 0 -102 0A102 102 0 1 0 102 0ZM31 0A31 31 0 1 0 -31 0A31 31 0 1 0 31 0Z" />
+    <path id="disc-reflection-a" d="M-13 -30L-71.69 -73.83A102 102 0 0 1 -20.33 -100.58L-2 -32Z" fill="#f5f4ff" opacity=".28" />
+    <path id="disc-reflection-b" d="M14 30L71.69 73.83A102 102 0 0 1 20.33 100.58L3 32Z" fill="#eecee3" opacity=".32" />
+    <circle r="103" fill="none" stroke="#f7f3ff" stroke-opacity=".65" stroke-width=".8" />
+    <circle r="32" fill="none" stroke="#7184ad" stroke-width="1.4" />
+    <circle r="25.5" fill="none" stroke="#f2e9fa" stroke-width="1" />
+  </g>
+  <path id="speed-cuts" d="M120 139H132L86 247H74ZM138 139H151L105 247H92ZM157 139H170L124 247H111Z" fill="url(#orbit)" />
+  <g id="disk" transform="translate(181 139) skewX(-23)" fill="url(#alloy)" fill-rule="evenodd" stroke="url(#edge)" stroke-width=".65" stroke-linejoin="round">
+    <path id="disk-0-D" d="M0 0H111Q158 0 158 43V66Q158 108 111 108H0ZM38 28V80H100Q119 80 119 61V47Q119 28 100 28Z" />
+    <path id="disk-1-I" d="M174 0H214V108H174Z" />
+    <path id="disk-2-S" d="M266 0H403V28H277Q266 28 266 37Q266 43 277 43H351Q390 43 390 74Q390 108 350 108H222V80H342Q353 80 353 71Q353 65 342 65H267Q228 65 228 34Q228 0 266 0Z" />
+    <path id="disk-3-K" d="M419 0H458V43L523 0H597L501 58L576 108H518L458 69V108H419Z" />
+  </g>
+  <g id="television" transform="translate(142 263) skewX(-23) scale(.688 .40)" fill="url(#alloy)" fill-rule="evenodd">
+    <path id="television-0-T" transform="translate(0 0)" d="M0 0H90V22H56V100H34V22H0Z" />
+    <path id="television-1-E" transform="translate(102 0)" d="M0 0H85V21H23V39H75V60H23V79H85V100H0Z" />
+    <path id="television-2-L" transform="translate(199 0)" d="M0 0H24V78H80V100H0Z" />
+    <path id="television-3-E" transform="translate(291 0)" d="M0 0H85V21H23V39H75V60H23V79H85V100H0Z" />
+    <path id="television-4-V" transform="translate(388 0)" d="M0 0H25L47 72L69 0H94L59 100H35Z" />
+    <path id="television-5-I" transform="translate(494 0)" d="M0 0H25V100H0Z" />
+    <path id="television-6-S" transform="translate(531 0)" d="M22 0H90V22H29Q23 22 23 28V33Q23 39 29 39H66Q90 39 90 63V76Q90 100 66 100H0V78H61Q67 78 67 72V67Q67 61 61 61H24Q0 61 0 37V24Q0 0 22 0Z" />
+    <path id="television-7-I" transform="translate(633 0)" d="M0 0H25V100H0Z" />
+    <path id="television-8-O" transform="translate(670 0)" d="M24 0H71Q95 0 95 24V76Q95 100 71 100H24Q0 100 0 76V24Q0 0 24 0ZM29 22Q23 22 23 28V72Q23 78 29 78H66Q72 78 72 72V28Q72 22 66 22Z" />
+    <path id="television-9-N" transform="translate(777 0)" d="M0 0H24L72 62V0H95V100H71L23 38V100H0Z" />
+  </g>
+  <path id="orbit-front" d="M882 151C854 219 614 311 380 351C202 381 66 362 66 319C66 304 75 291 89 277" fill="none" stroke="url(#orbit)" stroke-width="6" stroke-linecap="round" />
+  <path id="channel-frame" d="M781 263H909L891 307H763Z" fill="none" stroke="url(#orbit)" stroke-width="1.8" />
+  <g id="channel" transform="translate(788 272) skewX(-14) scale(.25)" fill="url(#alloy)" fill-rule="evenodd">
+    <path id="channel-0-C" transform="translate(0 0)" d="M24 0H85V22H30Q23 22 23 29V71Q23 78 30 78H85V100H24Q0 100 0 76V24Q0 0 24 0Z" />
+    <path id="channel-1-H" transform="translate(94 0)" d="M0 0H24V39H71V0H95V100H71V61H24V100H0Z" />
+    <path id="channel-2-9" transform="translate(198 0)" d="M24 0H66Q90 0 90 24V76Q90 100 66 100H6V78H60Q67 78 67 71V62H24Q0 62 0 38V24Q0 0 24 0ZM29 21Q23 21 23 27V35Q23 41 29 41H67V27Q67 21 61 21Z" />
+    <path id="channel-3-9" transform="translate(297 0)" d="M24 0H66Q90 0 90 24V76Q90 100 66 100H6V78H60Q67 78 67 71V62H24Q0 62 0 38V24Q0 0 24 0ZM29 21Q23 21 23 27V35Q23 41 29 41H67V27Q67 21 61 21Z" />
+  </g>
+  <path id="disc-glint" d="M812 81C808 111 807 115 785 118C807 119 808 122 810 145C813 120 815 119 838 116C816 116 814 113 812 81Z" fill="url(#alloy)" />
+</svg>

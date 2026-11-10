@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080910">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="description" content="DISK TELEVISION. CH 99. Uma frequência para quem ainda está acordado.">
+  <title>DISK TELEVISION — CH 99</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./presentation.css">
+  <script defer src="./app.bundle.js"></script>
+</head>
+<body>
+  <div id="app" class="receiver">
+    <header class="station-bar">
+      <img class="small-logo" src="./assets/logo.svg" alt="DISK TELEVISION">
+      <div class="frequency"><span class="live-dot"></span><span>CH 99</span><span class="separator">/</span><span id="station-state">SINAL ABERTO</span></div>
+      <time id="clock">--:--:--</time><span class="timezone">BRASÍLIA</span>
+    </header>
+    <main id="main">
+      <section id="stage" class="stage" aria-label="Transmissão do CH 99">
+        <div class="experimental-mark experimental-top" aria-hidden="true">DISK TELEVISION <span>OPTICAL SIGNAL / CH 99</span></div>
+        <div class="experimental-mark experimental-left" aria-hidden="true">ALTERNATE FREQUENCY · 99</div>
+        <div class="experimental-mark experimental-bottom" aria-hidden="true">THE TRANSMISSION CONTINUES <span>CH 99 / 2026</span></div>
+        <div id="player-shell" hidden><div id="youtube-player"></div></div>
+        <div id="continuity" class="continuity" data-variant="station" hidden>
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+          <div class="ident-grid"></div>
+          <div class="ident-corner">CH 99 <span>·</span> CONTINUIDADE DIGITAL</div>
+          <div class="ident-content">
+            <p id="ident-label" class="eyebrow">IDENTIFICAÇÃO</p>
+            <img class="ident-logo" src="./assets/logo.svg" alt="DISK TELEVISION">
+            <h1 id="ident-title">Uma frequência fora do tempo.</h1>
+            <p id="ident-subtitle">VOCÊ ENCONTROU O CH 99</p>
+          </div>
+          <div class="ident-bottom"><span id="ident-block">TRANSMISSÃO CONTÍNUA</span><span id="ident-countdown"></span></div>
+          <div class="ident-line"></div>
+        </div>
+        <div id="gate" class="gate">
+          <div class="gate-disc" aria-hidden="true"></div>
+          <div class="gate-content">
+            <p class="eyebrow">CH 99 / TRANSMISSÃO CONTÍNUA</p>
+            <img class="gate-logo" src="./assets/logo.svg" alt="DISK TELEVISION">
+            <h1>O sinal já está no ar.</h1>
+            <p class="gate-copy">Entre no meio de uma história.<br>O próximo encontro fica por nossa conta.</p>
+            <div class="presentation-choices" role="group" aria-label="Comparar apresentações">
+              <button data-presentation="A" aria-pressed="false" aria-label="PLAYER A — CLEAN"><strong>A / CLEAN</strong><span>Imagem em primeiro plano</span></button>
+              <button data-presentation="B" aria-pressed="false" aria-label="PLAYER B — BROADCAST FRAME"><strong>B / BROADCAST FRAME</strong><span>Moldura de emissora</span></button>
+              <button data-presentation="C" aria-pressed="false" aria-label="PLAYER C — EXPERIMENTAL"><strong>C / EXPERIMENTAL</strong><span>Órbita e identidade externa</span></button>
+            </div>
+            <p class="presentation-note">Comparação aberta. Nenhum modo definitivo. Mesma programação nos três.</p>
+            <button id="tune" class="primary" disabled>Sintonizar CH 99</button>
+            <p id="boot-message" class="gate-note" role="status">Preparando a frequência…</p>
+            <p id="legal-note" class="gate-note">Ao sintonizar, você aceita os termos próprios e do YouTube. Leia <a href="./legal.html">termos e privacidade</a>. O player pode usar cookies e exibir anúncios.</p>
+          </div>
+          <div class="gate-footer"><span>IMAGENS INCOMUNS. HORAS IMPROVÁVEIS.</span><span>EST. 2026</span></div>
+        </div>
+      </section>
+      <div id="reception" class="reception" hidden role="status"><span id="reception-text"></span><button id="retry">Ressintonizar</button></div>
+      <footer class="programme-bar">
+        <div class="on-air"><span class="eyebrow">NO AR AGORA</span><h2 id="now-title">DISK TELEVISION</h2><p id="now-meta">CH 99 · Uma frequência fora do tempo</p></div>
+        <div class="timeline"><div class="progress-track"><div id="progress"></div></div><p><span id="slot-start">--:--</span><span id="slot-end">--:--</span></p></div>
+        <div class="up-next"><span class="eyebrow">NA SEQUÊNCIA</span><h3 id="next-title">Sintonize para acompanhar</h3><p id="next-time">Programação pelo horário de Brasília</p></div>
+        <nav class="controls" aria-label="Controles da emissora">
+          <button id="guide-open" aria-expanded="false" aria-controls="guide">Guia <kbd>G</kbd></button>
+          <button id="sound" aria-pressed="false" aria-label="Silenciar áudio">Som ligado</button>
+          <button id="fullscreen">Tela cheia</button>
+          <a id="legal-link" class="legal-control" href="./legal.html">Termos e privacidade</a>
+        </nav>
+      </footer>
+    </main>
+    <nav class="presentation-rail" aria-label="Apresentação e acesso aos controles">
+      <span id="presentation-current">PLAYER B / BROADCAST FRAME</span>
+      <button id="reveal-controls">Exibir informações e controles</button>
+      <button id="presentation-open" aria-expanded="false" aria-controls="presentation-dialog">Comparar A / B / C</button>
+    </nav>
+    <section id="presentation-dialog" class="presentation-dialog" role="dialog" aria-modal="true" aria-labelledby="presentation-heading" hidden>
+      <div class="presentation-panel">
+        <p class="eyebrow">CH 99 / EXPERIÊNCIAS DE APRESENTAÇÃO</p>
+        <h2 id="presentation-heading">Três formas de encontrar o mesmo sinal.</h2>
+        <p>A grade segue o relógio enquanto você compara. Ao retornar, a emissora ressintoniza o momento atual.</p>
+        <div class="presentation-choices" role="group" aria-label="Escolher apresentação durante a sessão">
+          <button data-presentation="A" aria-pressed="false" aria-label="PLAYER A — CLEAN"><strong>A / CLEAN</strong><span>Controles externos temporários. Mais espaço para a imagem.</span></button>
+          <button data-presentation="B" aria-pressed="false" aria-label="PLAYER B — BROADCAST FRAME"><strong>B / BROADCAST FRAME</strong><span>Identificação e guia em uma moldura discreta de televisão.</span></button>
+          <button data-presentation="C" aria-pressed="false" aria-label="PLAYER C — EXPERIMENTAL"><strong>C / EXPERIMENTAL</strong><span>Composição assimétrica e reflexos nos espaços fora do vídeo.</span></button>
+        </div>
+        <p class="presentation-note">C é uma alternativa sem sobreposição: controles, anúncios e toda a área oficial do YouTube permanecem livres.</p>
+        <button id="presentation-close" class="primary">Retomar transmissão</button>
+      </div>
+    </section>
+    <section id="guide" class="guide" role="dialog" aria-modal="true" aria-labelledby="guide-heading" hidden>
+      <header><div><p class="eyebrow">CH 99 / GRADE DIÁRIA</p><h2 id="guide-heading">A frequência de hoje.</h2><p>Horários de Brasília · A programação continua sem você.</p></div><button id="guide-close">Voltar à transmissão <kbd>Esc</kbd></button></header>
+      <div id="guide-list" class="guide-list" tabindex="0" aria-label="Programação de 24 horas"></div>
+      <footer><span>Uma grade. Nenhuma escolha obrigatória.</span><span>Conteúdo de terceiros no player oficial do YouTube.</span></footer>
+    </section>
+  </div>
+  <noscript>Ative o JavaScript para sintonizar a DISK TELEVISION. A emissora usa o player oficial do YouTube.</noscript>
+</body>
+</html>
