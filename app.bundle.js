@@ -397,6 +397,28 @@
     }
   };
 
+  // src/join-alignment.js
+  var JoinAlignment = class {
+    load(videoId, offset) {
+      this.pending = { videoId, offset };
+    }
+    stop() {
+      this.pending = null;
+    }
+    playing({ videoId, time, duration, expectedDuration, elapsed }, seek) {
+      const pending = this.pending;
+      if (!pending || videoId !== pending.videoId || ![time, duration, expectedDuration, elapsed].every(Number.isFinite) || expectedDuration <= 0 || Math.abs(duration - expectedDuration) > Math.max(5, expectedDuration * 0.01)) return false;
+      this.pending = null;
+      if (pending.offset < 10 || time >= 5 || elapsed < 15 || elapsed - time <= 10 || elapsed >= duration - 1) return false;
+      try {
+        seek(elapsed);
+        return true;
+      } catch {
+        return false;
+      }
+    }
+  };
+
   // src/app.js
   var $ = (id) => document.getElementById(id);
   var timeFormat = new Intl.DateTimeFormat("pt-BR", { timeZone: "America/Sao_Paulo", hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
@@ -415,6 +437,7 @@
   var muted = false;
   var lastGuideIndex = -1;
   var stationAudio = new StationAudio({ baseUrl: new URL("./assets/audio/", document.baseURI) });
+  var joinAlignment = new JoinAlignment();
   var connection = null;
   var suspendedForView = false;
   var clock;
@@ -461,9 +484,11 @@
     load(videoId, offset) {
       if (!playerReady || !pictureVisible()) return;
       $("player-shell").hidden = false;
+      joinAlignment.load(videoId, Math.max(0, offset));
       player.loadVideoById({ videoId, startSeconds: Math.max(0, offset) });
     },
     stop() {
+      joinAlignment.stop();
       if (playerReady) player.stopVideo();
     }
   };
@@ -490,7 +515,12 @@
             resolve();
           },
           onStateChange(event) {
+            var _a, _b, _c, _d;
             if (!playout || guideOpen || presentationOpen || suspendedForView || document.hidden) return;
+            if (event.data === 1 && (clock == null ? void 0 : clock.slot.type) === "video" && pictureVisible()) {
+              const item = catalog.find((item2) => item2.id === clock.slot.contentId);
+              joinAlignment.playing({ videoId: (_b = (_a = player.getVideoData) == null ? void 0 : _a.call(player)) == null ? void 0 : _b.video_id, time: (_c = player.getCurrentTime) == null ? void 0 : _c.call(player), duration: (_d = player.getDuration) == null ? void 0 : _d.call(player), expectedDuration: item == null ? void 0 : item.durationSeconds, elapsed: (Date.now() - clock.startMs) / 1e3 }, (offset) => player.seekTo(offset, true));
+            }
             playout.state(event.data, Date.now());
             renderSignal();
           },
