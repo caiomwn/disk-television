@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dt002-magic-tv-ep1",
+    "youtubeId": "VdjHcwvtdTI",
+    "title": "Magic User's Club Season 2 TV Episode 1 (Sub): Sae, the Magic Club, and the Cherry Blossom Tree",
+    "creator": "Nozomi Entertainment",
+    "year": 1999,
+    "durationSeconds": 1494,
+    "language": "ja",
+    "description": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com\n\nThe Magic User’s Club defeated a giant ship from outer space! But their close encounter left a huge cherry blossom tree in the middle of the city. Takeo calls a club meeting to deal with the tree, but their magic backfires…",
+    "sourceUrl": "https://www.youtube.com/watch?v=VdjHcwvtdTI",
+    "series": "Magic User's Club TV",
+    "season": 1,
+    "episodeNumber": 1,
+    "kind": "episode",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "magical-girl",
+      "Y2K",
+      "school-comedy"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:42:56.967552+00:00",
+      "method": "yt-dlp individual metadata, skip-download",
+      "status": "PARTIAL",
+      "embeddability": {
+        "playableInEmbed": true
+      },
+      "regionalAvailability": "public",
+      "subtitleLanguages": [],
+      "audioLanguage": null,
+      "subtitleNote": "Sub no título; legendas podem estar gravadas na imagem, não se presume CC."
+    },
+    "legitimacy": {
+      "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+      "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+      "evidenceUrl": "https://www.youtube.com/@nozomient/about",
+      "reason": "Mesmo canal original Nozomi/Right Stuf da pesquisa institucional; descrição identifica lançamento Nozomi."
+    }
+  },
+  {
+    "id": "dt002-magic-tv-ep2",
+    "youtubeId": "MCCujxWmvno",
+    "title": "Magic User's Club Season 2 TV Episode 2 (Sub): Nanaka, a Cake, and a Dangerous Evening",
+    "creator": "Nozomi Entertainment",
+    "year": 1999,
+    "durationSeconds": 1495,
+    "language": "ja",
+    "description": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com\n\nNanaka has had enough of her rude, careless family! She’s running away to live with Sae (again). When Akane drops by, the three girls set up a slumber party full of fun, laughter, and out-of-control magic.",
+    "sourceUrl": "https://www.youtube.com/watch?v=MCCujxWmvno",
+    "series": "Magic User's Club TV",
+    "season": 1,
+    "episodeNumber": 2,
+    "kind": "episode",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "magical-girl",
+      "Y2K",
+      "school-comedy"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:42:58.361189+00:00",
+      "method": "yt-dlp individual metadata, skip-download",
+      "status": "PARTIAL",
+      "embeddability": {
+        "playableInEmbed": true
+      },
+      "regionalAvailability": "public",
+      "subtitleLanguages": [],
+      "audioLanguage": null,
+      "subtitleNote": "Sub no título; legendas podem estar gravadas na imagem, não se presume CC."
+    },
+    "legitimacy": {
+      "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+      "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+      "evidenceUrl": "https://www.youtube.com/@nozomient/about",
+      "reason": "Mesmo canal original Nozomi/Right Stuf da pesquisa institucional; descrição identifica lançamento Nozomi."
+    }
+  }
+]

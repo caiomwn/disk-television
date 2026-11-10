@@ -1,0 +1,16 @@
+{
+  "catalogItems": 48,
+  "uniqueContentSeconds": 53530,
+  "cycleSeconds": 86400,
+  "blocks": 7,
+  "slots": 185,
+  "videoSlots": 89,
+  "identSlots": 96,
+  "continuityFillSeconds": 677,
+  "variantCounts": {
+    "station": 5,
+    "next": 82,
+    "night": 2,
+    "continuity": 7
+  }
+}

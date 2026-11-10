@@ -1,0 +1,160 @@
+{
+  "epoch": "2026-01-01T03:00:00Z",
+  "cycleSeconds": 86400,
+  "editorialNote": "DT-002: anime oficial e animação japonesa no centro; faixas narrativas e reprises explicitadas. Apenas embeds observados em desktop entram no ar. Horário de Brasília, ciclo diário de 86400 segundos. Gundam pode expirar em 31/03/2027 e requer revalidação.",
+  "idents": {
+    "station": 12,
+    "next": 10,
+    "night": 16
+  },
+  "blocks": [
+    {
+      "start": 0,
+      "label": "AFTER HOURS",
+      "rotation": [
+        "dt002-alt-echoes-of-memory",
+        "dt002-alt-the-hole",
+        "dt002-alt-the-epic-of-eye-plowing",
+        "dt002-alt-mimimi-and-the-aliens",
+        "dt002-alt-a-rabbit-slipping-on-banana-peels",
+        "dt002-alt-mold",
+        "dt002-alt-add-to-stories",
+        "dt002-alt-blink-in-the-desert",
+        "dt002-alt-suma-oji",
+        "dt002-alt-e-piu-non-dimandare",
+        "sintel",
+        "elephants-dream",
+        "cosmos-laundromat",
+        "dt002-alt-best-friend",
+        "dt002-alt-the-amazing-digital-circus-pilot",
+        "dt002-alt-blink-in-the-desert",
+        "dt002-alt-e-piu-non-dimandare",
+        "dt002-alt-echoes-of-memory",
+        "dt002-alt-the-epic-of-eye-plowing"
+      ],
+      "editorialNote": "Curtas de autor, pesadelo e surrealismo digital. Obras adultas; não é faixa infantil.",
+      "explicitReprises": []
+    },
+    {
+      "start": 10800,
+      "label": "MORNING FREQUENCY",
+      "rotation": [
+        "dt002-dist-9CGih4gMRlk",
+        "dt002-dist-aBgPO32-ka0",
+        "dt002-dist-PzifMBqaEvU",
+        "dt002-dist-BNi7ZoeJOOE",
+        "dt002-dist-qBsRxGQhDKs",
+        "dt002-dist-ZDygQeO9jzo",
+        "dt002-magic-tv-ep1",
+        "dt002-magic-tv-ep2",
+        "spring",
+        "dt002-alt-a-rabbit-slipping-on-banana-peels",
+        "dt002-alt-the-hole",
+        "dt002-alt-mimimi-and-the-aliens"
+      ],
+      "editorialNote": "Aventura leve e descoberta magical-school Y2K. Magic é a série TV de 1999; a OVA anterior não está disponível integralmente nesta conexão.",
+      "explicitReprises": []
+    },
+    {
+      "start": 23400,
+      "label": "ANIME ARCHIVE",
+      "rotation": [
+        "dt002-dist-mKHOTHRtACA",
+        "dt002-dist-1TwBMJ6VxFo",
+        "dt002-dist-_GjNAwzI5dM",
+        "dt002-dist-eutBzS30qhM",
+        "dt002-dist-GhybZYP8KrA",
+        "dt002-dist-o668yHA9E4M",
+        "dt002-dist-QwVyKWVRQNE",
+        "big-buck-bunny",
+        "caminandes-gran-dillama",
+        "caminandes-llamigos",
+        "dt002-alt-add-to-stories",
+        "dt002-alt-suma-oji",
+        "dt002-alt-mold",
+        "dt002-alt-the-epic-of-eye-plowing"
+      ],
+      "editorialNote": "Janela de estreia: Kenichi 1–3 e Rayearth 1–4. Curtas complementares em vez de trailers.",
+      "explicitReprises": []
+    },
+    {
+      "start": 36000,
+      "label": "MOE SIGNAL",
+      "rotation": [
+        "dt002-dist-Wo3q2svkKvI",
+        "dt002-dist-6dK-554U-Rs",
+        "dt002-dist-E6R2j2cablI",
+        "dt002-dist-xpWDVjpQ-lw",
+        "dt002-magic-tv-ep1",
+        "dt002-magic-tv-ep2",
+        "dt002-dist-9CGih4gMRlk",
+        "dt002-dist-aBgPO32-ka0",
+        "dt002-alt-blink-in-the-desert",
+        "dt002-alt-add-to-stories"
+      ],
+      "editorialNote": "Rayearth continua de 5 a 8, depois das estreias 1–4. Reprises declaradas de Magic TV 1–2 e Sonic 1–2.",
+      "explicitReprises": [
+        "Magic User's Club TV",
+        "Sonic X"
+      ]
+    },
+    {
+      "start": 48600,
+      "label": "CYBERIA",
+      "rotation": [
+        "dt002-dist-U10iG69axKc",
+        "dt002-dist-dgGuKUHIMAw",
+        "dt002-dist-RkGmG-nT8V0",
+        "dt002-dist-7jLv_j-m8F4",
+        "dt002-dist-U10iG69axKc",
+        "dt002-dist-dgGuKUHIMAw",
+        "dt002-dist-RkGmG-nT8V0",
+        "dt002-dist-7jLv_j-m8F4",
+        "dt002-dist-PzifMBqaEvU",
+        "dt002-dist-BNi7ZoeJOOE",
+        "tears-of-steel",
+        "charge",
+        "coffee-run",
+        "dt002-alt-best-friend"
+      ],
+      "editorialNote": "Mecha e tecnologia. SEED 1–3 em duas sessões e piloto 00; Sonic 3–4 completa a reprise iniciada antes. Não promete temporada completa.",
+      "explicitReprises": [
+        "Mobile Suit Gundam SEED",
+        "Mobile Suit Gundam 00"
+      ]
+    },
+    {
+      "start": 64800,
+      "label": "MOE SIGNAL / ENCORE",
+      "rotation": [
+        "dt002-dist-eutBzS30qhM",
+        "dt002-dist-GhybZYP8KrA",
+        "dt002-dist-o668yHA9E4M",
+        "dt002-dist-QwVyKWVRQNE",
+        "dt002-dist-Wo3q2svkKvI",
+        "dt002-dist-6dK-554U-Rs",
+        "dt002-dist-E6R2j2cablI",
+        "dt002-dist-xpWDVjpQ-lw",
+        "dt002-alt-e-piu-non-dimandare"
+      ],
+      "editorialNote": "Reprise noturna em ordem dos oito primeiros episódios de Rayearth; o clássico de 1994 é uma escolha deliberada próxima ao recorte de gosto.",
+      "explicitReprises": [
+        "Magic Knight Rayearth"
+      ]
+    },
+    {
+      "start": 77400,
+      "label": "CINE DISK",
+      "rotation": [
+        "dt002-dist-mAxCyrDuNiA",
+        "dt002-alt-echoes-of-memory",
+        "dt002-alt-a-rabbit-slipping-on-banana-peels",
+        "dt002-alt-the-hole",
+        "dt002-alt-suma-oji"
+      ],
+      "editorialNote": "Sessão de longa completo: Char’s Counterattack (1988), edição oficial com faixas de legenda EN/PT-BR listadas. Clássico contextual da franquia, não filme de 2000.",
+      "explicitReprises": []
+    }
+  ],
+  "verificationPolicy": "Only VERIFIED + actualPlayback=true; blocked/unverified candidates remain in research, never silently substituted."
+}

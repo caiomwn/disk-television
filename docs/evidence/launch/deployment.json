@@ -1,0 +1,10 @@
+{
+  "version": "0.3.0",
+  "status": "preparing_pages_deployment",
+  "published": false,
+  "url": null,
+  "remoteRepositoryCreated": true,
+  "repository": "https://github.com/caiomwn/disk-television",
+  "physicalSamsungTested": false,
+  "nextVerification": "Read back repository and Pages configuration; request live HTTPS site; compare release.json and bundle SHA-256; test official YouTube player at public origin."
+}

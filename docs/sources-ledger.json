@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://developers.google.com/youtube/iframe_api_reference",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 2,
+      "url": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 3,
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 4,
+      "url": "https://developers.google.com/youtube/terms/developer-policies",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 5,
+      "url": "https://policies.google.com/privacy",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 6,
+      "url": "https://www.youtube.com/t/terms",
+      "title": "",
+      "accessed": "2026-11-10"
+    }
+  ]
+}

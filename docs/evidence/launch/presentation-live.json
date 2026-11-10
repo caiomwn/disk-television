@@ -1,0 +1,130 @@
+[
+  {
+    "mode": "A",
+    "realYouTube": true,
+    "mocked": false,
+    "productionBundle": true,
+    "physicalSamsung": false,
+    "pageErrors": [],
+    "firstPlayback": {
+      "confirmed": true,
+      "samples": [
+        {
+          "state": 1,
+          "time": 31.025162,
+          "videoId": "ZKt412fev-s",
+          "duration": 534.021
+        },
+        {
+          "state": 1,
+          "time": 31.824868,
+          "videoId": "ZKt412fev-s",
+          "duration": 534.021
+        }
+      ]
+    },
+    "playingObserved": true,
+    "requestedOffset": 30,
+    "title": "記憶の残響 (馮 一夫) / Echoes of Memory (FENG Yifu)",
+    "frame": {
+      "x": 39.109375,
+      "y": 0,
+      "width": 1841.765625,
+      "height": 1036
+    },
+    "uncovered": true,
+    "screenshot": "docs/evidence/launch/player-A.png"
+  },
+  {
+    "mode": "B",
+    "realYouTube": true,
+    "mocked": false,
+    "productionBundle": true,
+    "physicalSamsung": false,
+    "pageErrors": [],
+    "firstPlayback": {
+      "confirmed": true,
+      "samples": [
+        {
+          "state": 1,
+          "time": 30.765064,
+          "videoId": "ZKt412fev-s",
+          "duration": 534.021
+        },
+        {
+          "state": 1,
+          "time": 31.839371,
+          "videoId": "ZKt412fev-s",
+          "duration": 534.021
+        }
+      ]
+    },
+    "playingObserved": true,
+    "requestedOffset": 30,
+    "linkObserved": true,
+    "linkRole": "programme-link",
+    "nextAnnounced": "穴 (なかがわさわこ) / The Hole (NAKAGAWA Sawako)",
+    "automaticNextPlayback": {
+      "confirmed": true,
+      "samples": [
+        {
+          "state": 1,
+          "time": 1.442948,
+          "videoId": "FRF0AGMaWqs",
+          "duration": 372.081
+        },
+        {
+          "state": 1,
+          "time": 2.509958,
+          "videoId": "FRF0AGMaWqs",
+          "duration": 372.081
+        }
+      ]
+    },
+    "title": "穴 (なかがわさわこ) / The Hole (NAKAGAWA Sawako)",
+    "frame": {
+      "x": 211.5625,
+      "y": 77,
+      "width": 1496.875,
+      "height": 842
+    },
+    "uncovered": true,
+    "screenshot": "docs/evidence/launch/player-B.png"
+  },
+  {
+    "mode": "C",
+    "realYouTube": true,
+    "mocked": false,
+    "productionBundle": true,
+    "physicalSamsung": false,
+    "pageErrors": [],
+    "firstPlayback": {
+      "confirmed": true,
+      "samples": [
+        {
+          "state": 1,
+          "time": 30.737151,
+          "videoId": "ZKt412fev-s",
+          "duration": 534.021
+        },
+        {
+          "state": 1,
+          "time": 31.803382,
+          "videoId": "ZKt412fev-s",
+          "duration": 534.021
+        }
+      ]
+    },
+    "playingObserved": true,
+    "requestedOffset": 30,
+    "title": "記憶の残響 (馮 一夫) / Echoes of Memory (FENG Yifu)",
+    "frame": {
+      "x": 287.78125,
+      "y": 108,
+      "width": 1372.4375,
+      "height": 770
+    },
+    "uncovered": true,
+    "screenshot": "docs/evidence/launch/player-C.png"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "test": "real Chrome Web Audio; fake YouTube only",
+  "decodedAndStarted": [
+    {
+      "when": 0,
+      "offset": 2,
+      "duration": 9,
+      "bufferDuration": 11,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    {
+      "when": 0,
+      "offset": 5,
+      "duration": 6,
+      "bufferDuration": 11,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    {
+      "when": 0,
+      "offset": 6,
+      "duration": 5,
+      "bufferDuration": 11,
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    {
+      "when": 0,
+      "offset": 7,
+      "duration": 4,
+      "bufferDuration": 11,
+      "sampleRate": 48000,
+      "channels": 2
+    }
+  ],
+  "contextState": "running",
+  "readyVariants": "next,station,night",
+  "errors": [],
+  "humanListening": false,
+  "physicalSamsung": false
+}

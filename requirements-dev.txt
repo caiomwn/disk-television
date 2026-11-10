@@ -1,0 +1,4 @@
+# Development/QA only; no Python packages are shipped to GitHub Pages.
+playwright==1.65.0
+Pillow==13.0.0
+yt-dlp==2026.10.26

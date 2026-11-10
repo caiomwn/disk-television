@@ -1,0 +1,695 @@
+[
+  {
+    "id": "dt002-alt-echoes-of-memory",
+    "youtubeId": "ZKt412fev-s",
+    "title": "記憶の残響 (馮 一夫) / Echoes of Memory (FENG Yifu)",
+    "creator": "FENG Yifu",
+    "year": 2023,
+    "durationSeconds": 534,
+    "language": null,
+    "description": "Desenho inconsciente faz emergir ecos de memória. Seleção editorial para deriva sensorial e transição onírica; não é classificado como cyberpunk apenas por associação.",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZKt412fev-s",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "surreal",
+      "memória",
+      "experimental"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [
+        "en",
+        "ja"
+      ],
+      "audioLanguage": null
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-the-hole",
+    "youtubeId": "FRF0AGMaWqs",
+    "title": "穴 (なかがわさわこ) / The Hole (NAKAGAWA Sawako)",
+    "creator": "NAKAGAWA Sawako",
+    "year": 2023,
+    "durationSeconds": 372,
+    "language": null,
+    "description": "Mãe e filha visitam a vizinha e encontram conhecidos e um grande buraco no apartamento. Boa ponte de cotidiano para absurdo. Não confundir NAKAGAWA Sawako com Sawako Kabuki.",
+    "sourceUrl": "https://www.youtube.com/watch?v=FRF0AGMaWqs",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "surreal",
+      "estranhamento-doméstico",
+      "horror"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [
+        "en"
+      ],
+      "audioLanguage": null
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-the-epic-of-eye-plowing",
+    "youtubeId": "HtQuxh8hC3E",
+    "title": "瞳耕説 (今井 理子) / The Epic of Eye Plowing (IMAI Riko)",
+    "creator": "IMAI Riko",
+    "year": 2024,
+    "durationSeconds": 463,
+    "language": null,
+    "description": "Investigação do olhar e de regiões de escuridão não apreensíveis. Afinidade editorial com experimentação perceptiva, não alegação de estética Y2K confirmada visualmente.",
+    "sourceUrl": "https://www.youtube.com/watch?v=HtQuxh8hC3E",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "experimental",
+      "percepção",
+      "surreal"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": null
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-mimimi-and-the-aliens",
+    "youtubeId": "cIGQcQphcOU",
+    "title": "みみみとうちゅうじん (倉澤 紘己) / Mimimi and the Aliens (KURASAWA Hiroki)",
+    "creator": "KURASAWA Hiroki",
+    "year": 2024,
+    "durationSeconds": 355,
+    "language": "ja",
+    "description": "Mimimi coleta fragmentos de estrelas na Lua até a chegada de alienígenas. Contraponto lúdico para uma faixa predominantemente sombria; não cyberpunk.",
+    "sourceUrl": "https://www.youtube.com/watch?v=cIGQcQphcOU",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "ficção-científica",
+      "lua",
+      "contraponto-lúdico"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": "ja"
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-a-rabbit-slipping-on-banana-peels",
+    "youtubeId": "1pS8dQO9Rro",
+    "title": "劇場版バナナの皮で滑って転ぶうさぎ (長坂 康平) / A Rabbit Slipping on Banana Peels: The Movie (NAGASAKA Kohei)",
+    "creator": "NAGASAKA Kohei",
+    "year": 2024,
+    "durationSeconds": 455,
+    "language": null,
+    "description": "Coelho escorrega em cascas de banana. A apresentação como obra de conclusão e a duração de 455 segundos sustentam a classificação de curta, apesar de The Movie no título.",
+    "sourceUrl": "https://www.youtube.com/watch?v=1pS8dQO9Rro",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "absurdo",
+      "slapstick",
+      "humor"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": null
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-mold",
+    "youtubeId": "08ctTWdv2WY",
+    "title": "黴 (施 聖雪) / Mold (SHI Shengxue)",
+    "creator": "SHI Shengxue",
+    "year": 2023,
+    "durationSeconds": 162,
+    "language": null,
+    "description": "Após o funeral da mãe, intimidade física, vergonha e desconforto são associados ao mofo. Candidato de faixa adulta, sujeito a revisão de conteúdo antes da programação.",
+    "sourceUrl": "https://www.youtube.com/watch?v=08ctTWdv2WY",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "corpo",
+      "luto",
+      "surreal",
+      "conteúdo-adulto"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": null
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-add-to-stories",
+    "youtubeId": "U-QnQkh-Q2A",
+    "title": "ストーリーズに追加 (辻 仁奈) / Add to Stories (TSUJI Nina)",
+    "creator": "TSUJI Nina",
+    "year": 2024,
+    "durationSeconds": 217,
+    "language": "ja",
+    "description": "Rotina anônima transformada em stories e novos uploads. Pertinência à alienação mediada por interfaces; é comentário sobre vida digital, não cyberpunk confirmado.",
+    "sourceUrl": "https://www.youtube.com/watch?v=U-QnQkh-Q2A",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "vida-digital",
+      "alienação",
+      "cotidiano"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": "ja"
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-blink-in-the-desert",
+    "youtubeId": "fn7T0r6GQ0s",
+    "title": "Blink in the Desert (副島 しのぶ / SOEJIMA Shinobu)",
+    "creator": "SOEJIMA Shinobu",
+    "year": 2021,
+    "durationSeconds": 634,
+    "language": null,
+    "description": "Menino mata um inseto alado observado por um elefante e passa a ser perseguido por sombras. Opção sombria, com revisão editorial por violência e inquietação.",
+    "sourceUrl": "https://www.youtube.com/watch?v=fn7T0r6GQ0s",
+    "series": "GEIDAI ANIMATION",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "surreal",
+      "pesadelo",
+      "violência"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": null
+    },
+    "legitimacy": {
+      "channelId": "UCwUBFuggz861PvFtHun1J9w",
+      "channelUrl": "https://www.youtube.com/channel/UCwUBFuggz861PvFtHun1J9w",
+      "evidenceUrl": "https://animation.geidai.ac.jp/",
+      "reason": "O site oficial do departamento aponta para este channelId. A descrição do vídeo identifica obra acadêmica, diretor, ano e copyright conjunto do autor e Tokyo University of the Arts."
+    }
+  },
+  {
+    "id": "dt002-alt-suma-oji",
+    "youtubeId": "s13q7Wlwxy4",
+    "title": "Seika Anime Selection『スマおじ』",
+    "creator": "太田 歩生",
+    "year": 2023,
+    "durationSeconds": 175,
+    "language": "ja",
+    "description": "Em um mundo em que smartphones se tornam homens de meia-idade, pessoas voltam a reconhecer a presença umas das outras. Forte aderência temática ao estranhamento da tecnologia.",
+    "sourceUrl": "https://www.youtube.com/watch?v=s13q7Wlwxy4",
+    "series": "Seika Anime Selection",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "vida-digital",
+      "surreal",
+      "relações-humanas"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": "ja"
+    },
+    "legitimacy": {
+      "channelId": "UC9xlhVXFh4HX6mLOTL1F9Qw",
+      "channelUrl": "https://www.youtube.com/channel/UC9xlhVXFh4HX6mLOTL1F9Qw",
+      "evidenceUrl": "https://www.kyoto-seika.ac.jp/edu/manga/animation/",
+      "reason": "A página institucional do curso aponta para @seikaanimation, cujo channelId foi extraído deste vídeo. A descrição identifica a produção de graduação, ano letivo e autores."
+    }
+  },
+  {
+    "id": "dt002-alt-e-piu-non-dimandare",
+    "youtubeId": "aYnuA0khyXw",
+    "title": "Seika Anime Selection『e più non dimandare（汝、問うべからず）』",
+    "creator": "コ バレンティナ; ゴ イクビン; バ シンセイ; リュウ カヨウ; リン ヤチン",
+    "year": 2024,
+    "durationSeconds": 541,
+    "language": "ja",
+    "description": "Obra recomendada pelo departamento sobre conflito e crescimento, amor, ódio e perdão. Reserva de menor prioridade: a sinopse não demonstra cyberpunk, surrealismo ou estética Y2K.",
+    "sourceUrl": "https://www.youtube.com/watch?v=aYnuA0khyXw",
+    "series": "Seika Anime Selection",
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "JP",
+    "isJapaneseAnime": true,
+    "editorialTags": [
+      "drama",
+      "conflito",
+      "contraponto-narrativo"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": "ja"
+    },
+    "legitimacy": {
+      "channelId": "UC9xlhVXFh4HX6mLOTL1F9Qw",
+      "channelUrl": "https://www.youtube.com/channel/UC9xlhVXFh4HX6mLOTL1F9Qw",
+      "evidenceUrl": "https://www.kyoto-seika.ac.jp/edu/manga/animation/",
+      "reason": "A página institucional do curso aponta para @seikaanimation, cujo channelId foi extraído deste vídeo. A descrição identifica a produção de graduação, ano letivo e autores."
+    }
+  },
+  {
+    "id": "dt002-alt-best-friend",
+    "youtubeId": "j01Hg4QJ6NE",
+    "title": "Best Friend - Animation Short Film 2018 - GOBELINS",
+    "creator": "Nicholas Olivieri; Shen Yi; Juliana De Lucca; Varun Nair; David Feliu",
+    "year": 2018,
+    "durationSeconds": 346,
+    "language": "en",
+    "description": "Homem solitário se torna dependente de um produto de amigos virtuais. Selecionada a publicação original GOBELINS de 346 segundos; a edição DUST de 331 segundos é evidência complementar, não atração duplicada.",
+    "sourceUrl": "https://www.youtube.com/watch?v=j01Hg4QJ6NE",
+    "series": null,
+    "episodeNumber": null,
+    "kind": "short",
+    "countryOfOrigin": "FR",
+    "isJapaneseAnime": false,
+    "editorialTags": [
+      "cyberpunk",
+      "dependência-tecnológica",
+      "amigos-virtuais"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [
+        "fr"
+      ],
+      "audioLanguage": "en"
+    },
+    "legitimacy": {
+      "channelId": "UC-vrN89jIox3XqAKbEMeFgQ",
+      "channelUrl": "https://www.youtube.com/channel/UC-vrN89jIox3XqAKbEMeFgQ",
+      "evidenceUrl": "https://www.youtube.com/watch?v=j01Hg4QJ6NE",
+      "reason": "Publicação do canal GOBELINS com créditos completos, ano de produção 2018, produtor associado, distribuidores e contatos institucionais @gobelins.fr. DUST publica a mesma obra com os mesmos cinco diretores."
+    }
+  },
+  {
+    "id": "dt002-alt-the-amazing-digital-circus-pilot",
+    "youtubeId": "HwAPLk_sQ3w",
+    "title": "THE AMAZING DIGITAL CIRCUS: PILOT",
+    "creator": "Gooseworx; GLITCH",
+    "year": 2023,
+    "durationSeconds": 1545,
+    "language": "en",
+    "description": "Piloto de série sobre personagens presos em um circo digital. Complemento internacional deliberadamente limitado; é episódio, não curta japonês nem anime de origem japonesa.",
+    "sourceUrl": "https://www.youtube.com/watch?v=HwAPLk_sQ3w",
+    "series": "The Amazing Digital Circus",
+    "episodeNumber": null,
+    "kind": "episode",
+    "countryOfOrigin": "AU",
+    "isJapaneseAnime": false,
+    "editorialTags": [
+      "surreal-digital",
+      "aprisionamento-virtual",
+      "humor-sombrio"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fil",
+        "fr",
+        "hi",
+        "hu",
+        "id",
+        "ja",
+        "ko",
+        "nl-NL",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "tr",
+        "ur",
+        "zh"
+      ],
+      "audioLanguage": "en"
+    },
+    "legitimacy": {
+      "channelId": "UCn_FAXem2-e3HQvmK-mOH4g",
+      "channelUrl": "https://www.youtube.com/channel/UCn_FAXem2-e3HQvmK-mOH4g",
+      "evidenceUrl": "https://www.glitchprod.com/",
+      "reason": "Site oficial da produtora australiana aponta para @GLITCH e para o próprio piloto. A descrição credita Gooseworx e equipe GLITCH."
+    }
+  },
+  {
+    "id": "dt002-alt-solaris",
+    "youtubeId": "Z8ZhQPaw4rE",
+    "title": "Solaris | SCIENCE FICTION | FULL MOVIE | directed by Tarkovsky",
+    "creator": "Andrey Tarkovsky",
+    "year": 1972,
+    "durationSeconds": 10009,
+    "language": "ru",
+    "description": "Investigador encontra a estação Solaris em crise e a esposa morta há dez anos. Longa live-action soviético; reservar sessão cult sem substituir o eixo anime.",
+    "sourceUrl": "https://www.youtube.com/watch?v=Z8ZhQPaw4rE",
+    "series": null,
+    "episodeNumber": null,
+    "kind": "film",
+    "countryOfOrigin": "SU",
+    "isJapaneseAnime": false,
+    "editorialTags": [
+      "cult",
+      "ficção-científica",
+      "memória",
+      "existencial"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": "ru"
+    },
+    "legitimacy": {
+      "channelId": "UCm5U4zqpahzyNXBv5ZT51Jw",
+      "channelUrl": "https://www.youtube.com/channel/UCm5U4zqpahzyNXBv5ZT51Jw",
+      "evidenceUrl": "https://www.youtube.com/channel/UCm5U4zqpahzyNXBv5ZT51Jw/about",
+      "reason": "O canal @Mosfilm_eng declara expressamente ser o canal oficial da Mosfilm Cinema Concern. O vídeo contém ficha de produção. Corroboração institucional externa do channelId inglês ainda pendente; não equiparar a uma licença adicional."
+    }
+  },
+  {
+    "id": "dt002-alt-stalker",
+    "youtubeId": "Q3hBLv-HLEc",
+    "title": "Stalker | FULL MOVIE | Directed by Andrey Tarkovsky",
+    "creator": "Andrey Tarkovsky",
+    "year": 1979,
+    "durationSeconds": 9716,
+    "language": "ru",
+    "description": "Guia conduz escritor e professor ao centro de uma Zona de fenômenos inexplicáveis. Longa live-action soviético; a relação com a faixa é editorial e não de origem japonesa.",
+    "sourceUrl": "https://www.youtube.com/watch?v=Q3hBLv-HLEc",
+    "series": null,
+    "episodeNumber": null,
+    "kind": "film",
+    "countryOfOrigin": "SU",
+    "isJapaneseAnime": false,
+    "editorialTags": [
+      "cult",
+      "zona-proibida",
+      "surreal",
+      "existencial"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [],
+      "audioLanguage": "ru"
+    },
+    "legitimacy": {
+      "channelId": "UCm5U4zqpahzyNXBv5ZT51Jw",
+      "channelUrl": "https://www.youtube.com/channel/UCm5U4zqpahzyNXBv5ZT51Jw",
+      "evidenceUrl": "https://www.youtube.com/channel/UCm5U4zqpahzyNXBv5ZT51Jw/about",
+      "reason": "O canal @Mosfilm_eng declara expressamente ser o canal oficial da Mosfilm Cinema Concern. O vídeo contém ficha de produção. Corroboração institucional externa do channelId inglês ainda pendente; não equiparar a uma licença adicional."
+    }
+  },
+  {
+    "id": "dt002-alt-kin-dza-dza",
+    "youtubeId": "EYHv8eJrW2Y",
+    "title": "Кин-дза-дза! (FullHD, комедия, реж. Георгий Данелия, 1986 г.)",
+    "creator": "Georgiy Daneliya",
+    "year": 1986,
+    "durationSeconds": 7644,
+    "language": "ru",
+    "description": "Dois terrestres em planeta distante encontram costumes que parodiam dinheiro, poder e crueldade. Longa live-action soviético de humor absurdo, não animação.",
+    "sourceUrl": "https://www.youtube.com/watch?v=EYHv8eJrW2Y",
+    "series": null,
+    "episodeNumber": null,
+    "kind": "film",
+    "countryOfOrigin": "SU",
+    "isJapaneseAnime": false,
+    "editorialTags": [
+      "cult",
+      "distopia",
+      "absurdo",
+      "sátira-social"
+    ],
+    "verification": {
+      "checkedAt": "2026-11-10T13:34:30+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --no-warnings; leitura individual de descrição/créditos; cruzamento com fonte institucional quando disponível. Sem download de mídia, sem reprodução iframe.",
+      "status": "PARTIAL",
+      "embeddability": {
+        "metadataPlayableInEmbed": true,
+        "iframePlaybackTested": false
+      },
+      "regionalAvailability": {
+        "metadataAvailability": "public",
+        "BRPlaybackTested": false,
+        "USPlaybackTested": false,
+        "note": "Extração de metadados bem-sucedida nesta conexão não prova reprodução regional."
+      },
+      "subtitleLanguages": [
+        "bg"
+      ],
+      "audioLanguage": "ru"
+    },
+    "legitimacy": {
+      "channelId": "UCEK3tT7DcfWGWJpNEDBdWog",
+      "channelUrl": "https://www.youtube.com/channel/UCEK3tT7DcfWGWJpNEDBdWog",
+      "evidenceUrl": "https://www.mosfilm.ru/",
+      "reason": "Site oficial Mosfilm aponta para /user/mosfilm; vídeo desse canal FSUE Mosfilm traz créditos e declaração de restauração pelo estúdio."
+    }
+  }
+]

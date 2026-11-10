@@ -1,0 +1,2537 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-10T10:39:22-03:00",
+  "scope": "Pesquisa de reserva; NÃO importar automaticamente no catálogo ou na grade.",
+  "summary": {
+    "candidateCount": 30,
+    "seriesCount": 5,
+    "continuity": "Episódios 1–6 consecutivos por série.",
+    "regionalStatuses": {
+      "BLOCKED_BY_REGION": 18,
+      "UNAVAILABLE_OR_RESTRICTED": 7,
+      "METADATA_FORMATS_AVAILABLE": 5
+    },
+    "iframeTestsPerformed": 0,
+    "approvedForSchedulingCount": 0
+  },
+  "candidates": [
+    {
+      "id": "nozomi-galaxy-s01e01",
+      "youtubeId": "mXzdXR7YTIE",
+      "title": "Galaxy Angel Episode 1 (Dub): Resort-Style, Good-Luck Angel Preparation",
+      "creator": "Morio Asaka / Madhouse",
+      "year": 2001,
+      "durationSeconds": 821,
+      "language": "en",
+      "description": "Episódio 1 de Galaxy Angel, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=mXzdXR7YTIE",
+      "series": "Galaxy Angel",
+      "season": 1,
+      "episodeNumber": 1,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "space-comedy",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.b-ch.com/titles/152/",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=mXzdXR7YTIE",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Galaxy Angel at www.NozomiEnt.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v8_JIjTPgf-0D0MMNHJBlYI",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 821,
+        "individualDurationSeconds": 821,
+        "uploadDate": "20170117",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=mXzdXR7YTIE&format=json"
+      }
+    },
+    {
+      "id": "nozomi-galaxy-s01e02",
+      "youtubeId": "-ivS85ysThE",
+      "title": "Galaxy Angel Episode 2 (Dub): Gamble Poele Milfeulle Sauce",
+      "creator": "Morio Asaka / Madhouse",
+      "year": 2001,
+      "durationSeconds": 822,
+      "language": "en",
+      "description": "Episódio 2 de Galaxy Angel, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=-ivS85ysThE",
+      "series": "Galaxy Angel",
+      "season": 1,
+      "episodeNumber": 2,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "space-comedy",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.b-ch.com/titles/152/",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=-ivS85ysThE",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Galaxy Angel at www.NozomiEnt.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v8_JIjTPgf-0D0MMNHJBlYI",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 822,
+        "individualDurationSeconds": 822,
+        "uploadDate": "20170117",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=-ivS85ysThE&format=json"
+      }
+    },
+    {
+      "id": "nozomi-galaxy-s01e03",
+      "youtubeId": "lL6L_SyOsV4",
+      "title": "Galaxy Angel Episode 3 (Dub): Vanilla-Flavored Asteroid Trash Stir-Fry",
+      "creator": "Morio Asaka / Madhouse",
+      "year": 2001,
+      "durationSeconds": 821,
+      "language": "en",
+      "description": "Episódio 3 de Galaxy Angel, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=lL6L_SyOsV4",
+      "series": "Galaxy Angel",
+      "season": 1,
+      "episodeNumber": 3,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "space-comedy",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.b-ch.com/titles/152/",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=lL6L_SyOsV4",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's Blu-ray release of Galaxy Angel at http://www.NozomiEnt.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v8_JIjTPgf-0D0MMNHJBlYI",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 821,
+        "individualDurationSeconds": 821,
+        "uploadDate": "20170721",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=lL6L_SyOsV4&format=json"
+      }
+    },
+    {
+      "id": "nozomi-galaxy-s01e04",
+      "youtubeId": "N7wHo-qv7D8",
+      "title": "Galaxy Angel Episode 4 (Dub): Assorted Farm-Fresh Angel Fruit",
+      "creator": "Morio Asaka / Madhouse",
+      "year": 2001,
+      "durationSeconds": 821,
+      "language": "en",
+      "description": "Episódio 4 de Galaxy Angel, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=N7wHo-qv7D8",
+      "series": "Galaxy Angel",
+      "season": 1,
+      "episodeNumber": 4,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "space-comedy",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.b-ch.com/titles/152/",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=N7wHo-qv7D8",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's Blu-ray release of Galaxy Angel at http://www.NozomiEnt.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v8_JIjTPgf-0D0MMNHJBlYI",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 821,
+        "individualDurationSeconds": 821,
+        "uploadDate": "20170721",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=N7wHo-qv7D8&format=json"
+      }
+    },
+    {
+      "id": "nozomi-galaxy-s01e05",
+      "youtubeId": "gDdR9zZZizE",
+      "title": "Galaxy Angel Episode 5 (Dub): Pirate-Style School Memory Terrine",
+      "creator": "Morio Asaka / Madhouse",
+      "year": 2001,
+      "durationSeconds": 820,
+      "language": "en",
+      "description": "Episódio 5 de Galaxy Angel, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=gDdR9zZZizE",
+      "series": "Galaxy Angel",
+      "season": 1,
+      "episodeNumber": 5,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "space-comedy",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.b-ch.com/titles/152/",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=gDdR9zZZizE",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's Blu-ray release of Galaxy Angel at http://www.NozomiEnt.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v8_JIjTPgf-0D0MMNHJBlYI",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 821,
+        "individualDurationSeconds": 820,
+        "uploadDate": "20170728",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=gDdR9zZZizE&format=json"
+      }
+    },
+    {
+      "id": "nozomi-galaxy-s01e06",
+      "youtubeId": "jw0Q7DQJg_4",
+      "title": "Galaxy Angel Episode 6 (Dub): Forte's Ruinous Stew with a Dash of Trouble",
+      "creator": "Morio Asaka / Madhouse",
+      "year": 2001,
+      "durationSeconds": 821,
+      "language": "en",
+      "description": "Episódio 6 de Galaxy Angel, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=jw0Q7DQJg_4",
+      "series": "Galaxy Angel",
+      "season": 1,
+      "episodeNumber": 6,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "space-comedy",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.b-ch.com/titles/152/",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=jw0Q7DQJg_4",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's Blu-ray release of Galaxy Angel at http://www.NozomiEnt.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v8_JIjTPgf-0D0MMNHJBlYI",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 821,
+        "individualDurationSeconds": 821,
+        "uploadDate": "20170728",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=jw0Q7DQJg_4&format=json"
+      }
+    },
+    {
+      "id": "nozomi-aria1-s01e01",
+      "youtubeId": "y0sZ3-B5Phw",
+      "title": "ARIA The ANIMATION Season 1 Episode 1 (Sub): That Wonderful Miracle…",
+      "creator": "Junichi Sato / Hal Film Maker",
+      "year": 2005,
+      "durationSeconds": 1415,
+      "language": "ja",
+      "description": "Episódio 1 de ARIA The ANIMATION, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=y0sZ3-B5Phw",
+      "series": "ARIA The ANIMATION",
+      "season": 1,
+      "episodeNumber": 1,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "iyashikei",
+        "slice-of-life"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=y0sZ3-B5Phw",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's ARIA at http://www.nozomient.com/"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLa-CGUpObgCtKjy5NSTVm4Ugg18sH8zGq",
+        "playlistOwnerChannelId": "UC2FsA-t5xAj7rKHX09q-_Jw",
+        "playlistDurationSeconds": 1416,
+        "individualDurationSeconds": 1415,
+        "uploadDate": "20200214",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=y0sZ3-B5Phw&format=json"
+      }
+    },
+    {
+      "id": "nozomi-aria1-s01e02",
+      "youtubeId": "iwrQGt5I2j4",
+      "title": "ARIA The ANIMATION Season 1 Episode 2 (Sub): On That Special Day...",
+      "creator": "Junichi Sato / Hal Film Maker",
+      "year": 2005,
+      "durationSeconds": 1415,
+      "language": "ja",
+      "description": "Episódio 2 de ARIA The ANIMATION, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=iwrQGt5I2j4",
+      "series": "ARIA The ANIMATION",
+      "season": 1,
+      "episodeNumber": 2,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "iyashikei",
+        "slice-of-life"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=iwrQGt5I2j4",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's ARIA The ANIMATION at http://www.nozomient.com/"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLa-CGUpObgCtKjy5NSTVm4Ugg18sH8zGq",
+        "playlistOwnerChannelId": "UC2FsA-t5xAj7rKHX09q-_Jw",
+        "playlistDurationSeconds": 1416,
+        "individualDurationSeconds": 1415,
+        "uploadDate": "20200221",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=iwrQGt5I2j4&format=json"
+      }
+    },
+    {
+      "id": "nozomi-aria1-s01e03",
+      "youtubeId": "JN18AvcHXA8",
+      "title": "ARIA The ANIMATION Season 1 Episode 3 (Sub): With That Transparent Young Girl…",
+      "creator": "Junichi Sato / Hal Film Maker",
+      "year": 2005,
+      "durationSeconds": 1415,
+      "language": "ja",
+      "description": "Episódio 3 de ARIA The ANIMATION, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=JN18AvcHXA8",
+      "series": "ARIA The ANIMATION",
+      "season": 1,
+      "episodeNumber": 3,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "iyashikei",
+        "slice-of-life"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=JN18AvcHXA8",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's ARIA at http://www.nozomient.com/"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLa-CGUpObgCtKjy5NSTVm4Ugg18sH8zGq",
+        "playlistOwnerChannelId": "UC2FsA-t5xAj7rKHX09q-_Jw",
+        "playlistDurationSeconds": 1416,
+        "individualDurationSeconds": 1415,
+        "uploadDate": "20200228",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=JN18AvcHXA8&format=json"
+      }
+    },
+    {
+      "id": "nozomi-aria1-s01e04",
+      "youtubeId": "LAqApKnHPYs",
+      "title": "ARIA The ANIMATION Season 1 Episode 4 (Sub): That Undeliverable Letter...",
+      "creator": "Junichi Sato / Hal Film Maker",
+      "year": 2005,
+      "durationSeconds": 1415,
+      "language": "ja",
+      "description": "Episódio 4 de ARIA The ANIMATION, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=LAqApKnHPYs",
+      "series": "ARIA The ANIMATION",
+      "season": 1,
+      "episodeNumber": 4,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "iyashikei",
+        "slice-of-life"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=LAqApKnHPYs",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's ARIA at http://www.nozomient.com/"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLa-CGUpObgCtKjy5NSTVm4Ugg18sH8zGq",
+        "playlistOwnerChannelId": "UC2FsA-t5xAj7rKHX09q-_Jw",
+        "playlistDurationSeconds": 1416,
+        "individualDurationSeconds": 1415,
+        "uploadDate": "20200313",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=LAqApKnHPYs&format=json"
+      }
+    },
+    {
+      "id": "nozomi-aria1-s01e05",
+      "youtubeId": "3-2kS-Mr4lk",
+      "title": "ARIA The ANIMATION Season 1 Episode 5 (Sub): To That Island Which Shouldn't Exist...",
+      "creator": "Junichi Sato / Hal Film Maker",
+      "year": 2005,
+      "durationSeconds": 1415,
+      "language": "ja",
+      "description": "Episódio 5 de ARIA The ANIMATION, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=3-2kS-Mr4lk",
+      "series": "ARIA The ANIMATION",
+      "season": 1,
+      "episodeNumber": 5,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "iyashikei",
+        "slice-of-life"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=3-2kS-Mr4lk",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's ARIA at http://www.nozomient.com/"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLa-CGUpObgCtKjy5NSTVm4Ugg18sH8zGq",
+        "playlistOwnerChannelId": "UC2FsA-t5xAj7rKHX09q-_Jw",
+        "playlistDurationSeconds": 1416,
+        "individualDurationSeconds": 1415,
+        "uploadDate": "20200320",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=3-2kS-Mr4lk&format=json"
+      }
+    },
+    {
+      "id": "nozomi-aria1-s01e06",
+      "youtubeId": "LXIcAf9TVKM",
+      "title": "ARIA The ANIMATION Season 1 Episode 6 (Sub): That Which You Want to Protect...",
+      "creator": "Junichi Sato / Hal Film Maker",
+      "year": 2005,
+      "durationSeconds": 1415,
+      "language": "ja",
+      "description": "Episódio 6 de ARIA The ANIMATION, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=LXIcAf9TVKM",
+      "series": "ARIA The ANIMATION",
+      "season": 1,
+      "episodeNumber": 6,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "iyashikei",
+        "slice-of-life"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=LXIcAf9TVKM",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's ARIA at http://www.nozomient.com/"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLa-CGUpObgCtKjy5NSTVm4Ugg18sH8zGq",
+        "playlistOwnerChannelId": "UC2FsA-t5xAj7rKHX09q-_Jw",
+        "playlistDurationSeconds": 1416,
+        "individualDurationSeconds": 1415,
+        "uploadDate": "20200327",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=LXIcAf9TVKM&format=json"
+      }
+    },
+    {
+      "id": "nozomi-utena-s01e01",
+      "youtubeId": "6TQFlVcPyUA",
+      "title": "Revolutionary Girl Utena Episode 1 (Sub): The Rose Bride",
+      "creator": "Kunihiko Ikuhara / J.C. Staff",
+      "year": 1997,
+      "durationSeconds": 1407,
+      "language": "ja",
+      "description": "Episódio 1 de Revolutionary Girl Utena, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+      "series": "Revolutionary Girl Utena",
+      "season": 1,
+      "episodeNumber": 1,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "fantasy",
+        "drama"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Revolutionary Girl Utena at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-hDEulas0Tp_wiQy0FcjLl",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1408,
+        "individualDurationSeconds": 1407,
+        "uploadDate": "20111101",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=6TQFlVcPyUA&format=json"
+      }
+    },
+    {
+      "id": "nozomi-utena-s01e02",
+      "youtubeId": "_7yheJgimEA",
+      "title": "Revolutionary Girl Utena Episode 2 (Sub): For Whom the Rose Smiles",
+      "creator": "Kunihiko Ikuhara / J.C. Staff",
+      "year": 1997,
+      "durationSeconds": 1409,
+      "language": "ja",
+      "description": "Episódio 2 de Revolutionary Girl Utena, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=_7yheJgimEA",
+      "series": "Revolutionary Girl Utena",
+      "season": 1,
+      "episodeNumber": 2,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "fantasy",
+        "drama"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=_7yheJgimEA",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Revolutionary Girl Utena at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-hDEulas0Tp_wiQy0FcjLl",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1409,
+        "individualDurationSeconds": 1409,
+        "uploadDate": "20111101",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=_7yheJgimEA&format=json"
+      }
+    },
+    {
+      "id": "nozomi-utena-s01e03",
+      "youtubeId": "8XsGNSRyYIc",
+      "title": "Revolutionary Girl Utena Episode 3 (Sub): On the Night of the Ball",
+      "creator": "Kunihiko Ikuhara / J.C. Staff",
+      "year": 1997,
+      "durationSeconds": 1409,
+      "language": "ja",
+      "description": "Episódio 3 de Revolutionary Girl Utena, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=8XsGNSRyYIc",
+      "series": "Revolutionary Girl Utena",
+      "season": 1,
+      "episodeNumber": 3,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "fantasy",
+        "drama"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=8XsGNSRyYIc",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Revolutionary Girl Utena at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-hDEulas0Tp_wiQy0FcjLl",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1409,
+        "individualDurationSeconds": 1409,
+        "uploadDate": "20121218",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8XsGNSRyYIc&format=json"
+      }
+    },
+    {
+      "id": "nozomi-utena-s01e04",
+      "youtubeId": "8Fdf8hVGF8w",
+      "title": "Revolutionary Girl Utena Episode 4 (Sub): The Sunlit Garden - Prelude",
+      "creator": "Kunihiko Ikuhara / J.C. Staff",
+      "year": 1997,
+      "durationSeconds": 1409,
+      "language": "ja",
+      "description": "Episódio 4 de Revolutionary Girl Utena, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=8Fdf8hVGF8w",
+      "series": "Revolutionary Girl Utena",
+      "season": 1,
+      "episodeNumber": 4,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "fantasy",
+        "drama"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=8Fdf8hVGF8w",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Revolutionary Girl Utena at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-hDEulas0Tp_wiQy0FcjLl",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1410,
+        "individualDurationSeconds": 1409,
+        "uploadDate": "20121218",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=8Fdf8hVGF8w&format=json"
+      }
+    },
+    {
+      "id": "nozomi-utena-s01e05",
+      "youtubeId": "yqftBAuFYsk",
+      "title": "Revolutionary Girl Utena Episode 5 (Sub): The Sunlit Garden - Finale",
+      "creator": "Kunihiko Ikuhara / J.C. Staff",
+      "year": 1997,
+      "durationSeconds": 1407,
+      "language": "ja",
+      "description": "Episódio 5 de Revolutionary Girl Utena, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=yqftBAuFYsk",
+      "series": "Revolutionary Girl Utena",
+      "season": 1,
+      "episodeNumber": 5,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "fantasy",
+        "drama"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=yqftBAuFYsk",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Revolutionary Girl Utena at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-hDEulas0Tp_wiQy0FcjLl",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1408,
+        "individualDurationSeconds": 1407,
+        "uploadDate": "20121218",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=yqftBAuFYsk&format=json"
+      }
+    },
+    {
+      "id": "nozomi-utena-s01e06",
+      "youtubeId": "ogvTPJCgasM",
+      "title": "Revolutionary Girl Utena Episode 6 (Sub): Take Care, Miss Nanami!",
+      "creator": "Kunihiko Ikuhara / J.C. Staff",
+      "year": 1997,
+      "durationSeconds": 1408,
+      "language": "ja",
+      "description": "Episódio 6 de Revolutionary Girl Utena, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=ogvTPJCgasM",
+      "series": "Revolutionary Girl Utena",
+      "season": 1,
+      "episodeNumber": 6,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "fantasy",
+        "drama"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=ogvTPJCgasM",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Revolutionary Girl Utena at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-hDEulas0Tp_wiQy0FcjLl",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1409,
+        "individualDurationSeconds": 1408,
+        "uploadDate": "20121218",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ogvTPJCgasM&format=json"
+      }
+    },
+    {
+      "id": "nozomi-boogie-s01e01",
+      "youtubeId": "pi0MBAjkPW4",
+      "title": "Boogiepop Phantom Episode 1 (Dub): Portraits From Memory",
+      "creator": "Takashi Watanabe / Madhouse",
+      "year": 2000,
+      "durationSeconds": 1439,
+      "language": "en",
+      "description": "Episódio 1 de Boogiepop Phantom, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=pi0MBAjkPW4",
+      "series": "Boogiepop Phantom",
+      "season": 1,
+      "episodeNumber": 1,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "psychological-horror",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "UNAVAILABLE_OR_RESTRICTED",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: Video unavailable / no video formats found"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] Video unavailable. This video is not available\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=pi0MBAjkPW4",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Boogiepop Phantom at http://ww.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v81zts5n3TEgMh1cp_CJR2i",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1439,
+        "individualDurationSeconds": 1439,
+        "uploadDate": "20101005",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=pi0MBAjkPW4&format=json"
+      }
+    },
+    {
+      "id": "nozomi-boogie-s01e02",
+      "youtubeId": "CABiEmYU6MY",
+      "title": "Boogiepop Phantom Episode 2 (Dub): Portraits in Darkness",
+      "creator": "Takashi Watanabe / Madhouse",
+      "year": 2000,
+      "durationSeconds": 1438,
+      "language": "en",
+      "description": "Episódio 2 de Boogiepop Phantom, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=CABiEmYU6MY",
+      "series": "Boogiepop Phantom",
+      "season": 1,
+      "episodeNumber": 2,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "psychological-horror",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": false,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "METADATA_FORMATS_AVAILABLE",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: formatos retornados; reprodução não testada"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=CABiEmYU6MY",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Boogiepop Phantom at http://ww.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v81zts5n3TEgMh1cp_CJR2i",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1439,
+        "individualDurationSeconds": 1438,
+        "uploadDate": "20101011",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=CABiEmYU6MY&format=json"
+      }
+    },
+    {
+      "id": "nozomi-boogie-s01e03",
+      "youtubeId": "kOHrNGwr0UQ",
+      "title": "Boogiepop Phantom Episode 3 (Dub): Life Can Be So Nice",
+      "creator": "Takashi Watanabe / Madhouse",
+      "year": 2000,
+      "durationSeconds": 1448,
+      "language": "en",
+      "description": "Episódio 3 de Boogiepop Phantom, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=kOHrNGwr0UQ",
+      "series": "Boogiepop Phantom",
+      "season": 1,
+      "episodeNumber": 3,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "psychological-horror",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=kOHrNGwr0UQ",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Boogiepop Phantom at http://ww.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v81zts5n3TEgMh1cp_CJR2i",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1448,
+        "individualDurationSeconds": 1448,
+        "uploadDate": "20190329",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=kOHrNGwr0UQ&format=json"
+      }
+    },
+    {
+      "id": "nozomi-boogie-s01e04",
+      "youtubeId": "7ZpYw4dbFDM",
+      "title": "Boogiepop Phantom Episode 4 (Dub): My Fair Lady",
+      "creator": "Takashi Watanabe / Madhouse",
+      "year": 2000,
+      "durationSeconds": 1450,
+      "language": "en",
+      "description": "Episódio 4 de Boogiepop Phantom, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=7ZpYw4dbFDM",
+      "series": "Boogiepop Phantom",
+      "season": 1,
+      "episodeNumber": 4,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "psychological-horror",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=7ZpYw4dbFDM",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Boogiepop Phantom at http://ww.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v81zts5n3TEgMh1cp_CJR2i",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1450,
+        "individualDurationSeconds": 1450,
+        "uploadDate": "20190329",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=7ZpYw4dbFDM&format=json"
+      }
+    },
+    {
+      "id": "nozomi-boogie-s01e05",
+      "youtubeId": "yH69ZJ8qsVo",
+      "title": "Boogiepop Phantom Episode 5 (Dub): Interlude",
+      "creator": "Takashi Watanabe / Madhouse",
+      "year": 2000,
+      "durationSeconds": 1448,
+      "language": "en",
+      "description": "Episódio 5 de Boogiepop Phantom, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=yH69ZJ8qsVo",
+      "series": "Boogiepop Phantom",
+      "season": 1,
+      "episodeNumber": 5,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "psychological-horror",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=yH69ZJ8qsVo",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Boogiepop Phantom at http://ww.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v81zts5n3TEgMh1cp_CJR2i",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1449,
+        "individualDurationSeconds": 1448,
+        "uploadDate": "20190405",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=yH69ZJ8qsVo&format=json"
+      }
+    },
+    {
+      "id": "nozomi-boogie-s01e06",
+      "youtubeId": "BF16O65qds4",
+      "title": "Boogiepop Phantom Episode 6 (Dub): Mother's Day",
+      "creator": "Takashi Watanabe / Madhouse",
+      "year": 2000,
+      "durationSeconds": 1448,
+      "language": "en",
+      "description": "Episódio 6 de Boogiepop Phantom, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=BF16O65qds4",
+      "series": "Boogiepop Phantom",
+      "season": 1,
+      "episodeNumber": 6,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "psychological-horror",
+        "english-dub"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 401,
+          "oEmbedError": "HTTP Error 401: Unauthorized",
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "en",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Não confirmadas; upload dublado em inglês.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=BF16O65qds4",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Boogiepop Phantom at http://ww.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v81zts5n3TEgMh1cp_CJR2i",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1448,
+        "individualDurationSeconds": 1448,
+        "uploadDate": "20190405",
+        "availabilityField": "public",
+        "oEmbedAuthor": null,
+        "oEmbedAuthorUrl": null,
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=BF16O65qds4&format=json"
+      }
+    },
+    {
+      "id": "nozomi-magic-sub-s01e01",
+      "youtubeId": "EhtJvAzIhfw",
+      "title": "Magic User's Club Season 1 OVA Episode 1 (Sub): The Bell, Takakura, and Flying Magic",
+      "creator": "Junichi Sato / Triangle Staff",
+      "year": 1996,
+      "durationSeconds": 1672,
+      "language": "ja",
+      "description": "Episódio 1 de Magic User's Club, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EhtJvAzIhfw",
+      "series": "Magic User's Club",
+      "season": 1,
+      "episodeNumber": 1,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "magical-comedy",
+        "ova"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=345",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=EhtJvAzIhfw",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-07h6z6XgXtUgLCZgQkGT8",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1672,
+        "individualDurationSeconds": 1672,
+        "uploadDate": "20160303",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=EhtJvAzIhfw&format=json"
+      }
+    },
+    {
+      "id": "nozomi-magic-sub-s01e02",
+      "youtubeId": "OagV-8YuST4",
+      "title": "Magic User's Club Season 1 OVA Episode 2 (Sub): The Giant Top, Mistress Mizuha, and Failed Magic",
+      "creator": "Junichi Sato / Triangle Staff",
+      "year": 1996,
+      "durationSeconds": 1639,
+      "language": "ja",
+      "description": "Episódio 2 de Magic User's Club, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=OagV-8YuST4",
+      "series": "Magic User's Club",
+      "season": 1,
+      "episodeNumber": 2,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "magical-comedy",
+        "ova"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": null,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "BLOCKED_BY_REGION",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "countriesEvidenceNote": "Bloqueio individual confirmado; não se generalizou a lista de países de outro episódio. Páginas dos episódios 1 inspecionadas separadamente são discutidas no relatório.",
+          "evidence": "Mensagem individual do yt-dlp: The uploader has not made this video available in your country"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=345",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one\nWARNING: [youtube] The uploader has not made this video available in your country\nWARNING: [youtube] Video unavailable. The uploader has not made this video available in your country\nWARNING: No video formats found!\nWARNING: Requested format is not available"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=OagV-8YuST4",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-07h6z6XgXtUgLCZgQkGT8",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1639,
+        "individualDurationSeconds": 1639,
+        "uploadDate": "20160303",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=OagV-8YuST4&format=json"
+      }
+    },
+    {
+      "id": "nozomi-magic-sub-s01e03",
+      "youtubeId": "aI3X8908K2A",
+      "title": "Magic User's Club Season 1 OVA Episode 3 (Sub): The Whirligig, Akane, and Forbidden Magic",
+      "creator": "Junichi Sato / Triangle Staff",
+      "year": 1996,
+      "durationSeconds": 1686,
+      "language": "ja",
+      "description": "Episódio 3 de Magic User's Club, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=aI3X8908K2A",
+      "series": "Magic User's Club",
+      "season": 1,
+      "episodeNumber": 3,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "magical-comedy",
+        "ova"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": true,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "METADATA_FORMATS_AVAILABLE",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: formatos retornados; reprodução não testada"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=345",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=aI3X8908K2A",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-07h6z6XgXtUgLCZgQkGT8",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1686,
+        "individualDurationSeconds": 1686,
+        "uploadDate": "20161111",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=aI3X8908K2A&format=json"
+      }
+    },
+    {
+      "id": "nozomi-magic-sub-s01e04",
+      "youtubeId": "k399XSLKc8E",
+      "title": "Magic User's Club Season 1 OVA Episode 4 (Sub): The Sea, the Cave, and a Magic Party",
+      "creator": "Junichi Sato / Triangle Staff",
+      "year": 1996,
+      "durationSeconds": 1787,
+      "language": "ja",
+      "description": "Episódio 4 de Magic User's Club, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=k399XSLKc8E",
+      "series": "Magic User's Club",
+      "season": 1,
+      "episodeNumber": 4,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "magical-comedy",
+        "ova"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": true,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "METADATA_FORMATS_AVAILABLE",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: formatos retornados; reprodução não testada"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=345",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=k399XSLKc8E",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-07h6z6XgXtUgLCZgQkGT8",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1788,
+        "individualDurationSeconds": 1787,
+        "uploadDate": "20161111",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=k399XSLKc8E&format=json"
+      }
+    },
+    {
+      "id": "nozomi-magic-sub-s01e05",
+      "youtubeId": "6mEjQ2EB5CQ",
+      "title": "Magic User's Club Season 1 OVA Episode 5 (Sub): Nanaka, Aburatsubo, and Confession Magic?",
+      "creator": "Junichi Sato / Triangle Staff",
+      "year": 1996,
+      "durationSeconds": 1770,
+      "language": "ja",
+      "description": "Episódio 5 de Magic User's Club, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=6mEjQ2EB5CQ",
+      "series": "Magic User's Club",
+      "season": 1,
+      "episodeNumber": 5,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "magical-comedy",
+        "ova"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": true,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "METADATA_FORMATS_AVAILABLE",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: formatos retornados; reprodução não testada"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=345",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=6mEjQ2EB5CQ",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-07h6z6XgXtUgLCZgQkGT8",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1771,
+        "individualDurationSeconds": 1770,
+        "uploadDate": "20161118",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=6mEjQ2EB5CQ&format=json"
+      }
+    },
+    {
+      "id": "nozomi-magic-sub-s01e06",
+      "youtubeId": "iclKa89FSmU",
+      "title": "Magic User's Club Season 1 OVA Episode 6 (Sub): Sae, Jeff, and the Big Spell",
+      "creator": "Junichi Sato / Triangle Staff",
+      "year": 1996,
+      "durationSeconds": 1720,
+      "language": "ja",
+      "description": "Episódio 6 de Magic User's Club, publicação integral identificada pelo distribuidor Nozomi; não é trailer. A íntegra é sustentada pela numeração oficial e duração individual, não por inspeção audiovisual completa.",
+      "sourceUrl": "https://www.youtube.com/watch?v=iclKa89FSmU",
+      "series": "Magic User's Club",
+      "season": 1,
+      "episodeNumber": 6,
+      "kind": "episode",
+      "countryOfOrigin": "JP",
+      "isJapaneseAnime": true,
+      "editorialTags": [
+        "retro-anime",
+        "magical-comedy",
+        "ova"
+      ],
+      "verification": {
+        "checkedAt": "2026-11-10T10:39:22-03:00",
+        "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json --ignore-no-formats-error; oEmbed individual; playlist para continuidade; páginas originais adicionais dos episódios 1",
+        "status": "PARTIAL",
+        "embeddability": {
+          "playableInEmbed": true,
+          "oEmbedHttpStatus": 200,
+          "oEmbedError": null,
+          "iframeTested": false,
+          "assessment": "Configuração/metadados apenas; oEmbed 200 NÃO comprova reprodução nem supera geobloqueio."
+        },
+        "regionalAvailability": {
+          "status": "METADATA_FORMATS_AVAILABLE",
+          "testedConnection": "Conexão disponível no Brasil; sem VPN, proxy ou contorno regional.",
+          "availableCountries": null,
+          "evidence": "Mensagem individual do yt-dlp: formatos retornados; reprodução não testada"
+        },
+        "subtitleLanguages": [],
+        "audioLanguage": "ja",
+        "audioLanguageEvidence": "Dub/Sub no título e tags do publicador; idioma do áudio não foi auditado por escuta.",
+        "subtitleAssessment": {
+          "english": "Declarado pelas tags english/subtitled do publicador; possivelmente gravadas na imagem; não confirmado visualmente por episódio.",
+          "portuguese": "Não confirmado; nenhuma faixa PT retornada.",
+          "emptyTrackListMeans": "Não prova ausência de legendas gravadas na imagem.",
+          "automaticCaptionLanguages": []
+        },
+        "completeness": "PARTIAL: upload oficial numerado e duração de episódio; início/fim não auditados integralmente.",
+        "durationSource": "yt-dlp individual; oEmbed não fornece duração.",
+        "yearSourceUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=345",
+        "rawWarnings": "WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one"
+      },
+      "legitimacy": {
+        "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "channelUrl": "https://www.youtube.com/channel/UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "evidenceUrl": "https://www.youtube.com/watch?v=iclKa89FSmU",
+        "reason": "Upload no canal original @nozomient (mesmo channelId da playlist oficial); descrição individual identifica explicitamente o lançamento Nozomi da obra. Página About associa Nozomi e Right Stuf. Não inferido somente pelo título; não é licença para reupload ou redistribuição.",
+        "channelIdentityEvidenceUrl": "https://www.youtube.com/@nozomient/about",
+        "publisherDescriptionEvidence": "Find out more about Nozomi Entertainment's release of Junichi Sato's Magic User's Club (Maho Tsukai Tai) at http://www.nozomient.com"
+      },
+      "metadataEvidence": {
+        "playlistUrl": "https://www.youtube.com/playlist?list=PLrrh84y760v-07h6z6XgXtUgLCZgQkGT8",
+        "playlistOwnerChannelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+        "playlistDurationSeconds": 1720,
+        "individualDurationSeconds": 1720,
+        "uploadDate": "20161118",
+        "availabilityField": "public",
+        "oEmbedAuthor": "Nozomi Entertainment",
+        "oEmbedAuthorUrl": "https://www.youtube.com/@nozomient",
+        "oEmbedUrl": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=iclKa89FSmU&format=json"
+      }
+    }
+  ],
+  "notSuitableOnCurrentConnection": [
+    {
+      "youtubeId": "mXzdXR7YTIE",
+      "series": "Galaxy Angel",
+      "episodeNumber": 1,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=mXzdXR7YTIE"
+    },
+    {
+      "youtubeId": "-ivS85ysThE",
+      "series": "Galaxy Angel",
+      "episodeNumber": 2,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=-ivS85ysThE"
+    },
+    {
+      "youtubeId": "lL6L_SyOsV4",
+      "series": "Galaxy Angel",
+      "episodeNumber": 3,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=lL6L_SyOsV4"
+    },
+    {
+      "youtubeId": "N7wHo-qv7D8",
+      "series": "Galaxy Angel",
+      "episodeNumber": 4,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=N7wHo-qv7D8"
+    },
+    {
+      "youtubeId": "gDdR9zZZizE",
+      "series": "Galaxy Angel",
+      "episodeNumber": 5,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=gDdR9zZZizE"
+    },
+    {
+      "youtubeId": "jw0Q7DQJg_4",
+      "series": "Galaxy Angel",
+      "episodeNumber": 6,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=jw0Q7DQJg_4"
+    },
+    {
+      "youtubeId": "y0sZ3-B5Phw",
+      "series": "ARIA The ANIMATION",
+      "episodeNumber": 1,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=y0sZ3-B5Phw"
+    },
+    {
+      "youtubeId": "iwrQGt5I2j4",
+      "series": "ARIA The ANIMATION",
+      "episodeNumber": 2,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=iwrQGt5I2j4"
+    },
+    {
+      "youtubeId": "JN18AvcHXA8",
+      "series": "ARIA The ANIMATION",
+      "episodeNumber": 3,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=JN18AvcHXA8"
+    },
+    {
+      "youtubeId": "LAqApKnHPYs",
+      "series": "ARIA The ANIMATION",
+      "episodeNumber": 4,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=LAqApKnHPYs"
+    },
+    {
+      "youtubeId": "3-2kS-Mr4lk",
+      "series": "ARIA The ANIMATION",
+      "episodeNumber": 5,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=3-2kS-Mr4lk"
+    },
+    {
+      "youtubeId": "LXIcAf9TVKM",
+      "series": "ARIA The ANIMATION",
+      "episodeNumber": 6,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=LXIcAf9TVKM"
+    },
+    {
+      "youtubeId": "6TQFlVcPyUA",
+      "series": "Revolutionary Girl Utena",
+      "episodeNumber": 1,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=6TQFlVcPyUA"
+    },
+    {
+      "youtubeId": "_7yheJgimEA",
+      "series": "Revolutionary Girl Utena",
+      "episodeNumber": 2,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=_7yheJgimEA"
+    },
+    {
+      "youtubeId": "8XsGNSRyYIc",
+      "series": "Revolutionary Girl Utena",
+      "episodeNumber": 3,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=8XsGNSRyYIc"
+    },
+    {
+      "youtubeId": "8Fdf8hVGF8w",
+      "series": "Revolutionary Girl Utena",
+      "episodeNumber": 4,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=8Fdf8hVGF8w"
+    },
+    {
+      "youtubeId": "yqftBAuFYsk",
+      "series": "Revolutionary Girl Utena",
+      "episodeNumber": 5,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=yqftBAuFYsk"
+    },
+    {
+      "youtubeId": "ogvTPJCgasM",
+      "series": "Revolutionary Girl Utena",
+      "episodeNumber": 6,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=ogvTPJCgasM"
+    },
+    {
+      "youtubeId": "pi0MBAjkPW4",
+      "series": "Boogiepop Phantom",
+      "episodeNumber": 1,
+      "reason": "UNAVAILABLE_OR_RESTRICTED",
+      "sourceUrl": "https://www.youtube.com/watch?v=pi0MBAjkPW4"
+    },
+    {
+      "youtubeId": "CABiEmYU6MY",
+      "series": "Boogiepop Phantom",
+      "episodeNumber": 2,
+      "reason": "METADATA_FORMATS_AVAILABLE",
+      "sourceUrl": "https://www.youtube.com/watch?v=CABiEmYU6MY"
+    },
+    {
+      "youtubeId": "kOHrNGwr0UQ",
+      "series": "Boogiepop Phantom",
+      "episodeNumber": 3,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=kOHrNGwr0UQ"
+    },
+    {
+      "youtubeId": "7ZpYw4dbFDM",
+      "series": "Boogiepop Phantom",
+      "episodeNumber": 4,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=7ZpYw4dbFDM"
+    },
+    {
+      "youtubeId": "yH69ZJ8qsVo",
+      "series": "Boogiepop Phantom",
+      "episodeNumber": 5,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=yH69ZJ8qsVo"
+    },
+    {
+      "youtubeId": "BF16O65qds4",
+      "series": "Boogiepop Phantom",
+      "episodeNumber": 6,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=BF16O65qds4"
+    },
+    {
+      "youtubeId": "EhtJvAzIhfw",
+      "series": "Magic User's Club",
+      "episodeNumber": 1,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=EhtJvAzIhfw"
+    },
+    {
+      "youtubeId": "OagV-8YuST4",
+      "series": "Magic User's Club",
+      "episodeNumber": 2,
+      "reason": "BLOCKED_BY_REGION",
+      "sourceUrl": "https://www.youtube.com/watch?v=OagV-8YuST4"
+    }
+  ],
+  "notSuitableSources": [
+    {
+      "title": "Galaxy Angel — AX2016 Teaser Trailer",
+      "sourceUrl": "https://www.youtube.com/watch?v=8AgwV9-BKR8",
+      "reason": "Trailer; não é episódio."
+    },
+    {
+      "title": "ARIA The ANIMATION Trailer",
+      "sourceUrl": "https://www.youtube.com/watch?v=NraaWUZxWZw",
+      "reason": "Trailer; não é episódio."
+    },
+    {
+      "title": "Di Gi Charat ALL episodes (4K, JP VA/ENG SUB)",
+      "sourceUrl": "https://www.youtube.com/watch?v=7iGG9iijpcA",
+      "reason": "Reupload/upscale; não foi encontrada autorização do canal. Excluído, mesmo com episódios completos e legendas anunciadas."
+    },
+    {
+      "title": "Exiled Destiny Nurse Witch Komugi-chan Ep 5 English Dub",
+      "sourceUrl": "https://www.youtube.com/watch?v=UEm0unoakCI",
+      "reason": "Fansub/reupload; sem cadeia de autorização demonstrada."
+    }
+  ],
+  "desiredButNotConfirmed": [
+    {
+      "series": "Di Gi Charat",
+      "finding": "Nenhum episódio retrô atualmente utilizável foi confirmado. O site oficial documenta sessões especiais gratuitas e temporárias em 2022; isso não prova disponibilidade em 2026. Canal atual mostra material promocional/bastidores.",
+      "evidenceUrl": "https://digicharat-reiwa.com/news/post-57",
+      "channelUrl": "https://www.youtube.com/@digicharat_r"
+    },
+    {
+      "series": "Nurse Witch Komugi",
+      "finding": "Busca no canal Nozomi sem resultado; buscas abertas retornaram OPs/AMVs e fansub não autorizado. Nenhum episódio completo oficial confirmado.",
+      "evidenceUrl": "https://www.youtube.com/@nozomient/search?query=Komugi"
+    },
+    {
+      "series": "Azumanga Daioh",
+      "finding": "Busca no canal não encontrou episódios; resultado era trailer de Ninja Nonsense, referência promocional a Azumanga não equivale a acervo.",
+      "evidenceUrl": "https://www.youtube.com/@nozomient/search?query=Azumanga"
+    }
+  ],
+  "additionalFindings": {
+    "galaxyAngelSubEpisode1": {
+      "youtubeId": "Hqjq3K3JimQ",
+      "sourceUrl": "https://www.youtube.com/watch?v=Hqjq3K3JimQ",
+      "channelId": "UCUlvYyW7UVtNJQ1KTv_Bsdg",
+      "durationSeconds": 821,
+      "status": "PARTIAL",
+      "regionalAvailability": "BLOCKED_BY_REGION",
+      "reason": "A versão JP/Sub também retornou restrição regional individual; não é alternativa livre confirmada.",
+      "oEmbedHttpStatus": 200
+    },
+    "magicUsersClubTv": {
+      "year": 1999,
+      "note": "Descoberta adicional: 13 episódios na playlist oficial Sub. Extraídos individualmente, sem download; apenas episódios 1 e 2 retornaram playable_in_embed=true nesta rodada. Não confundir com 13 episódios regionalmente aprovados.",
+      "episodes": [
+        {
+          "youtubeId": "VdjHcwvtdTI",
+          "episodeNumber": 1,
+          "durationSeconds": 1494,
+          "playableInEmbed": true,
+          "regionBlockedObserved": false
+        },
+        {
+          "youtubeId": "MCCujxWmvno",
+          "episodeNumber": 2,
+          "durationSeconds": 1495,
+          "playableInEmbed": true,
+          "regionBlockedObserved": false
+        },
+        {
+          "youtubeId": "O5j5liwd55Q",
+          "episodeNumber": 3,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "yQ9Wp4ogaR0",
+          "episodeNumber": 4,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "AzsLl0LaMRE",
+          "episodeNumber": 5,
+          "durationSeconds": 1495,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "Bu1xS6CwW6M",
+          "episodeNumber": 6,
+          "durationSeconds": 1495,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "HAdX8TR_rYo",
+          "episodeNumber": 7,
+          "durationSeconds": 1495,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "7GxOMbSwlxc",
+          "episodeNumber": 8,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "aZteTAYHsaE",
+          "episodeNumber": 9,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "R_hTsCgwqTQ",
+          "episodeNumber": 10,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "WRGiKwosTeU",
+          "episodeNumber": 11,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "8kOZlY_eASA",
+          "episodeNumber": 12,
+          "durationSeconds": 1494,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        },
+        {
+          "youtubeId": "wRE62AzCQb4",
+          "episodeNumber": 13,
+          "durationSeconds": 1504,
+          "playableInEmbed": null,
+          "regionBlockedObserved": true
+        }
+      ]
+    }
+  },
+  "limitations": [
+    "Metadados e oEmbed não equivalem a teste de iframe/reprodução.",
+    "Nenhuma legenda em português confirmada. English em uploads Sub é declaração do publicador, não validação visual individual.",
+    "Episódios completos identificados editorialmente; não houve auditoria audiovisual integral.",
+    "Ano significa estreia da obra/temporada no Japão, não upload no YouTube.",
+    "Não foi obtida permissão para reupar, baixar ou re-hospedar mídia."
+  ]
+}

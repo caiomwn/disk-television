@@ -1,0 +1,1080 @@
+{
+  "project": "DISK TELEVISION / CH 99",
+  "checked_at_utc": "2026-11-10T12:12:16.700242+00:00",
+  "method": "GitHub REST API anônima e HTTPS urllib; README, árvores, licenças e inspeção pontual; documentação oficial Google/YouTube e GitHub. Sem execução das aplicações.",
+  "candidate_count": 7,
+  "verified_alternative_count": 4,
+  "no_code_copied": true,
+  "demos_tested": false,
+  "deployment_tested": false,
+  "youtube_videos_tested": false,
+  "repositories": [
+    {
+      "requested_repository": "myrtv/myrtv.github.io",
+      "exists": true,
+      "canonical_repository": "myrtv/myrtv.github.io",
+      "html_url": "https://github.com/myrtv/myrtv.github.io",
+      "default_branch": "master",
+      "snapshot_tree_sha": "85906cdb6129ca5d5947d12daaa24e20264606b7",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2025-08-05T23:21:35Z",
+      "license_detected": null,
+      "license_endpoint_status": 404,
+      "license_notes": "Ausente para o projeto: metadata.license=null, /license=404; LICENSE de jQuery UI não licencia a aplicação.",
+      "demo_url_declared_by_project": "https://myrtv.github.io/",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/myrtv/myrtv.github.io",
+        "https://api.github.com/repos/myrtv/myrtv.github.io/readme",
+        "https://api.github.com/repos/myrtv/myrtv.github.io/git/trees/master?recursive=1",
+        "https://api.github.com/repos/myrtv/myrtv.github.io/license"
+      ],
+      "license_paths": [
+        "js/jquery-ui-1.12.1/LICENSE.txt"
+      ],
+      "key_files": [
+        "README.md",
+        "index.html",
+        "js/site.js"
+      ],
+      "architecture": "HTML/CSS/JavaScript estáticos, jQuery e Moment; playlists JSON e relógio/época definem programa e offset; YouTube, Dailymotion e vídeo direto.",
+      "relevance_and_decision": "Alta: referência conceitual de pseudo-live sem processo de streaming. Não copiar implementação sem licença."
+    },
+    {
+      "requested_repository": "jumpjumptiger007/interdimensional-cable",
+      "exists": true,
+      "canonical_repository": "jumpjumptiger007/interdimensional-cable",
+      "html_url": "https://github.com/jumpjumptiger007/interdimensional-cable",
+      "default_branch": "main",
+      "snapshot_tree_sha": "73beb4760b83939fed5a0edc60b4bc1122019c11",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-11-10T06:40:42Z",
+      "license_detected": null,
+      "license_endpoint_status": 404,
+      "license_notes": "Ausente: metadata.license=null, /license=404; nenhuma licença na árvore.",
+      "demo_url_declared_by_project": "https://tv.yliu.tech/",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable",
+        "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/readme",
+        "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/git/trees/main?recursive=1",
+        "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/license"
+      ],
+      "license_paths": [],
+      "key_files": [
+        "README.md",
+        "app.js",
+        "index.html",
+        "videos.json"
+      ],
+      "architecture": "HTML/CSS/JavaScript puros; YouTube IFrame API; videos.json; ambiente Three.js opcional e service worker.",
+      "relevance_and_decision": "Alta para receptor/controle remoto; navegação aleatória/sequencial não equivale a grade global determinística. Não copiar sem licença; CRT sobre iframe não deve ser reproduzido."
+    },
+    {
+      "requested_repository": "f00d4tehg0dz/retroarr",
+      "exists": true,
+      "canonical_repository": "f00d4tehg0dz/surfarr",
+      "html_url": "https://github.com/f00d4tehg0dz/surfarr",
+      "default_branch": "main",
+      "snapshot_tree_sha": "94f2774bbf0189c70a8df331506c491a5d1ada98",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-11-10T00:01:31Z",
+      "license_detected": "GPL-3.0",
+      "license_endpoint_status": 200,
+      "license_notes": "GPL-3.0 detectada e arquivo LICENSE disponível; confirmar obrigações antes de redistribuir derivados.",
+      "demo_url_declared_by_project": "https://www.surfarr.tv",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/f00d4tehg0dz/retroarr",
+        "https://api.github.com/repos/f00d4tehg0dz/surfarr/readme",
+        "https://api.github.com/repos/f00d4tehg0dz/surfarr/git/trees/main?recursive=1",
+        "https://api.github.com/repos/f00d4tehg0dz/surfarr/license"
+      ],
+      "license_paths": [
+        "LICENSE"
+      ],
+      "key_files": [
+        "LICENSE",
+        "README.md",
+        "client/package.json",
+        "server/package.json"
+      ],
+      "architecture": "Cliente React/Vite e backend Node/Express, Docker, FFmpeg e yt-dlp; M3U/XMLTV/HDHomeRun; API de catálogo separada.",
+      "relevance_and_decision": "Referência de guia e filler; rejeitar infraestrutura para GitHub Pages sem backend."
+    },
+    {
+      "requested_repository": "reedylab/channelarr",
+      "exists": true,
+      "canonical_repository": "reedylab/channelarr",
+      "html_url": "https://github.com/reedylab/channelarr",
+      "default_branch": "master",
+      "snapshot_tree_sha": "d75789b75909cfe0f511afe7a98a0e0ff78b29dc",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T13:42:53Z",
+      "license_detected": null,
+      "license_endpoint_status": 404,
+      "license_notes": "Licença ausente/incompleta: README declara MIT; metadata.license=null e /license=404; não tratar declaração isolada como licença confirmada.",
+      "demo_url_declared_by_project": null,
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/reedylab/channelarr",
+        "https://api.github.com/repos/reedylab/channelarr/readme",
+        "https://api.github.com/repos/reedylab/channelarr/git/trees/master?recursive=1",
+        "https://api.github.com/repos/reedylab/channelarr/license"
+      ],
+      "license_paths": [],
+      "key_files": [
+        "Dockerfile",
+        "README.md",
+        "requirements.txt"
+      ],
+      "architecture": "FastAPI/Uvicorn, Jinja2, FFmpeg e yt-dlp; HLS e agenda materializada; requirements atuais incluem SQLAlchemy/psycopg2, apesar de README descrever JSON sem banco.",
+      "relevance_and_decision": "Referência de agenda/bumps; rejeitar execução e downloads de YouTube. README declara MIT mas não há licença raiz confirmada."
+    },
+    {
+      "requested_repository": "samjhill/channel",
+      "exists": true,
+      "canonical_repository": "samjhill/channel",
+      "html_url": "https://github.com/samjhill/channel",
+      "default_branch": "main",
+      "snapshot_tree_sha": "2ee7e57ad1aba954c03a534dd8d77c3cd767fdba",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-01-05T21:17:40Z",
+      "license_detected": null,
+      "license_endpoint_status": 404,
+      "license_notes": "Ausente: metadata.license=null, /license=404 e README usa placeholder [Add your license information here].",
+      "demo_url_declared_by_project": null,
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/samjhill/channel",
+        "https://api.github.com/repos/samjhill/channel/readme",
+        "https://api.github.com/repos/samjhill/channel/git/trees/main?recursive=1",
+        "https://api.github.com/repos/samjhill/channel/license"
+      ],
+      "license_paths": [],
+      "key_files": [
+        "README.md",
+        "requirements.txt"
+      ],
+      "architecture": "Python/FastAPI, FFmpeg/HLS, nginx, administração React e Docker; bumpers e arquivos locais.",
+      "relevance_and_decision": "Ideias de identidade e intervalos; rejeitar stack por exigir servidor. README contém placeholder de licença."
+    },
+    {
+      "requested_repository": "work-partner/TV-From-Childhood",
+      "exists": true,
+      "canonical_repository": "work-partner/TV-From-Childhood",
+      "html_url": "https://github.com/work-partner/TV-From-Childhood",
+      "default_branch": "main",
+      "snapshot_tree_sha": "5e244a5ef26a9216cad19b54ff82bae8e140b41b",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-09-18T15:48:41Z",
+      "license_detected": "MIT",
+      "license_endpoint_status": 200,
+      "license_notes": "MIT detectada pela API e arquivo LICENSE recuperado.",
+      "demo_url_declared_by_project": "https://tv-from-childhood.vercel.app",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/work-partner/TV-From-Childhood",
+        "https://api.github.com/repos/work-partner/TV-From-Childhood/readme",
+        "https://api.github.com/repos/work-partner/TV-From-Childhood/git/trees/main?recursive=1",
+        "https://api.github.com/repos/work-partner/TV-From-Childhood/license"
+      ],
+      "license_paths": [
+        "LICENSE"
+      ],
+      "key_files": [
+        "LICENSE",
+        "README.md",
+        "index.html"
+      ],
+      "architecture": "Aplicativo em um index.html; JavaScript/CSS inline, YouTube IFrame API; catálogo com durações e época global para sintonia no ponto atual.",
+      "relevance_and_decision": "Alta compatibilidade estática e licença MIT confirmada; usar apenas ideias. Código cobre iframe em estados não-playing: não reproduzir essa técnica."
+    },
+    {
+      "requested_repository": "jpsilvashy/channel-surfer",
+      "exists": true,
+      "canonical_repository": "jpsilvashy/channel-surfer",
+      "html_url": "https://github.com/jpsilvashy/channel-surfer",
+      "default_branch": "main",
+      "snapshot_tree_sha": "5ded7baba61e4c9158956a817ec698344ae9f2ef",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2025-04-12T22:07:36Z",
+      "license_detected": null,
+      "license_endpoint_status": 404,
+      "license_notes": "Licença ausente/incompleta: README declara MIT, mas metadata.license=null e /license=404; nenhum LICENSE na árvore.",
+      "demo_url_declared_by_project": null,
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/jpsilvashy/channel-surfer",
+        "https://api.github.com/repos/jpsilvashy/channel-surfer/readme",
+        "https://api.github.com/repos/jpsilvashy/channel-surfer/git/trees/main?recursive=1",
+        "https://api.github.com/repos/jpsilvashy/channel-surfer/license"
+      ],
+      "license_paths": [],
+      "key_files": [
+        "Cargo.toml",
+        "README.md",
+        "package.json",
+        "server.js"
+      ],
+      "architecture": "Frontend React/Vite/Tailwind; Express serve arquivos e vídeos; componentes Rust declarados no README e presentes na árvore.",
+      "relevance_and_decision": "Referência visual do guia dos anos 1990; não é backend-free. README diz MIT, mas LICENSE ausente e API não identifica licença."
+    },
+    {
+      "requested_repository": "ErsatzTV/ErsatzTV",
+      "exists": true,
+      "canonical_repository": "ErsatzTV/legacy",
+      "html_url": "https://github.com/ErsatzTV/legacy",
+      "default_branch": "main",
+      "snapshot_tree_sha": "e51ac60c02eb93285480abf64cefe1d10acd4cc5",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-11-09T19:19:24Z",
+      "license_detected": "Zlib",
+      "license_endpoint_status": 200,
+      "license_notes": "Licença detectada pela API; arquivo de licença recuperado.",
+      "demo_url_declared_by_project": "https://ersatztv.org/",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/ErsatzTV/ErsatzTV",
+        "https://api.github.com/repos/ErsatzTV/legacy/readme",
+        "https://api.github.com/repos/ErsatzTV/legacy/git/trees/main?recursive=1",
+        "https://api.github.com/repos/ErsatzTV/legacy/license"
+      ],
+      "license_paths": [
+        "LICENSE"
+      ],
+      "key_files": [
+        "LICENSE",
+        "README.md"
+      ],
+      "architecture": "ErsatzTV/legacy após redirecionamento; servidor de biblioteca, agendamento, IPTV/EPG e transcodificação com aceleração de hardware.",
+      "relevance_and_decision": "Alternativa rejeitada para Pages sem backend; aproveitar apenas conceitos de agenda, filler e EPG."
+    },
+    {
+      "requested_repository": "ErsatzTV/next",
+      "exists": true,
+      "canonical_repository": "ErsatzTV/next",
+      "html_url": "https://github.com/ErsatzTV/next",
+      "default_branch": "main",
+      "snapshot_tree_sha": "c5cb065f9f35dbbcb7c05845f0f92c70f576a480",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-11-06T20:19:28Z",
+      "license_detected": "MIT",
+      "license_endpoint_status": 200,
+      "license_notes": "Licença detectada pela API; arquivo de licença recuperado.",
+      "demo_url_declared_by_project": "https://ersatztv.org/next-docs/",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/ErsatzTV/next",
+        "https://api.github.com/repos/ErsatzTV/next/readme",
+        "https://api.github.com/repos/ErsatzTV/next/git/trees/main?recursive=1",
+        "https://api.github.com/repos/ErsatzTV/next/license"
+      ],
+      "license_paths": [
+        "LICENSE"
+      ],
+      "key_files": [
+        "Cargo.toml",
+        "LICENSE",
+        "README.md"
+      ],
+      "architecture": "Motor Rust auto-hospedado de streaming/transcodificação; consome playouts JSON; oferece HLS/M3U/XMLTV. Agendamento e biblioteca explicitamente fora do escopo.",
+      "relevance_and_decision": "Alternativa rejeitada para Pages sem backend; aproveitar apenas conceitos de agenda, filler e EPG."
+    },
+    {
+      "requested_repository": "vexorian/dizquetv",
+      "exists": true,
+      "canonical_repository": "vexorian/dizquetv",
+      "html_url": "https://github.com/vexorian/dizquetv",
+      "default_branch": "main",
+      "snapshot_tree_sha": "ce3778317079a380942a02f91ff1b18cf159bf16",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-09-22T04:44:54Z",
+      "license_detected": "Zlib",
+      "license_endpoint_status": 200,
+      "license_notes": "Licença detectada pela API; arquivo de licença recuperado.",
+      "demo_url_declared_by_project": null,
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/vexorian/dizquetv",
+        "https://api.github.com/repos/vexorian/dizquetv/readme",
+        "https://api.github.com/repos/vexorian/dizquetv/git/trees/main?recursive=1",
+        "https://api.github.com/repos/vexorian/dizquetv/license"
+      ],
+      "license_paths": [
+        "LICENSE"
+      ],
+      "key_files": [
+        "Dockerfile",
+        "LICENSE",
+        "README.md",
+        "package.json"
+      ],
+      "architecture": "Servidor para criar canais de bibliotecas Plex, fillers, guia XMLTV e M3U; HDHomeRun simulado, Docker/binários e FFmpeg opcional.",
+      "relevance_and_decision": "Alternativa rejeitada para Pages sem backend; aproveitar apenas conceitos de agenda, filler e EPG."
+    },
+    {
+      "requested_repository": "chrisbenincasa/tunarr",
+      "exists": true,
+      "canonical_repository": "chrisbenincasa/tunarr",
+      "html_url": "https://github.com/chrisbenincasa/tunarr",
+      "default_branch": "main",
+      "snapshot_tree_sha": "ad92c6397a9f7cd28bcf39b8a2c8ea92dba11559",
+      "tree_truncated": false,
+      "archived": false,
+      "pushed_at": "2026-11-09T22:13:13Z",
+      "license_detected": "Zlib",
+      "license_endpoint_status": 200,
+      "license_notes": "Licença detectada pela API; arquivo de licença recuperado.",
+      "demo_url_declared_by_project": "https://tunarr.com/",
+      "demo_tested": false,
+      "demo_status": "Não testada; homepage é metadado, não evidência de funcionamento.",
+      "evidence_urls": [
+        "https://api.github.com/repos/chrisbenincasa/tunarr",
+        "https://api.github.com/repos/chrisbenincasa/tunarr/readme",
+        "https://api.github.com/repos/chrisbenincasa/tunarr/git/trees/main?recursive=1",
+        "https://api.github.com/repos/chrisbenincasa/tunarr/license"
+      ],
+      "license_paths": [
+        "LICENSE"
+      ],
+      "key_files": [
+        "Dockerfile",
+        "LICENSE",
+        "README.md",
+        "package.json",
+        "server/package.json"
+      ],
+      "architecture": "Servidor auto-hospedado com Docker/binários; fontes Plex/Jellyfin/Emby/arquivos locais, filler, agenda, M3U e transcodificação.",
+      "relevance_and_decision": "Alternativa rejeitada para Pages sem backend; aproveitar apenas conceitos de agenda, filler e EPG."
+    }
+  ],
+  "failed_alternative_probes": [
+    {
+      "requested": "Tunarr/tunarr",
+      "url": "https://api.github.com/repos/Tunarr/tunarr",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "requested": "ShaneMcC/YouTubeTV",
+      "url": "https://api.github.com/repos/ShaneMcC/YouTubeTV",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "official_sources": [
+    {
+      "url": "https://developers.google.com/youtube/iframe_api_reference",
+      "resolved_url": "https://developers.google.com/youtube/iframe_api_reference",
+      "http_status": 200,
+      "purpose": "Player: autoplay, eventos, erros, seek e duração"
+    },
+    {
+      "url": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+      "resolved_url": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+      "http_status": 200,
+      "purpose": "Requisitos: overlays, identificação, dimensões e autoplay"
+    },
+    {
+      "url": "https://developers.google.com/youtube/player_parameters",
+      "resolved_url": "https://developers.google.com/youtube/player_parameters",
+      "http_status": 200,
+      "purpose": "Parâmetros: origin, playsinline, branding e relacionados"
+    },
+    {
+      "url": "https://developers.google.com/youtube/terms/developer-policies",
+      "resolved_url": "https://developers.google.com/youtube/terms/developer-policies",
+      "http_status": 200,
+      "purpose": "Políticas: armazenamento audiovisual, privacidade e Made for Kids"
+    },
+    {
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "resolved_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "http_status": 200,
+      "purpose": "Natureza estática do GitHub Pages"
+    },
+    {
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "resolved_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "http_status": 200,
+      "purpose": "Consequências da ausência de licença"
+    }
+  ],
+  "short_verified_passages": [
+    {
+      "topic": "overlay",
+      "source_url": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+      "excerpt": "You must not display overlays, frames, or other visual elements in front of any part of a YouTube embedded player, including player controls."
+    },
+    {
+      "topic": "missing_identification",
+      "source_url": "https://developers.google.com/youtube/iframe_api_reference",
+      "excerpt": "The request does not include the HTTP Referer header or equivalent API Client identification."
+    },
+    {
+      "topic": "deprecated_branding",
+      "source_url": "https://developers.google.com/youtube/player_parameters",
+      "excerpt": "You will not be able to disable related videos."
+    },
+    {
+      "topic": "github_pages",
+      "source_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "excerpt": "GitHub Pages is a static site hosting service"
+    },
+    {
+      "topic": "no_license",
+      "source_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "excerpt": "Without a license, the default copyright laws apply"
+    }
+  ],
+  "retrievals": [
+    {
+      "source_url": "https://api.github.com/repos/myrtv/myrtv.github.io",
+      "resolved_url": "https://api.github.com/repos/myrtv/myrtv.github.io",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "37ac5b62f0227b6e92d373982609d5b1523a7f7ba4412c6e68c4e7e8b82ee7f7"
+    },
+    {
+      "source_url": "https://api.github.com/repos/myrtv/myrtv.github.io/readme",
+      "resolved_url": "https://api.github.com/repos/myrtv/myrtv.github.io/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "8275b1dedf214ff2b1e28c16e4bf63aa6494332750072c558b5284edfc7fc388"
+    },
+    {
+      "source_url": "https://api.github.com/repos/myrtv/myrtv.github.io/git/trees/master?recursive=1",
+      "resolved_url": "https://api.github.com/repos/myrtv/myrtv.github.io/git/trees/master?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "2f8aa03755ed5cb0bff6987cfb0f58926e0b159a47f0865a490f90b856d326cf"
+    },
+    {
+      "source_url": "https://api.github.com/repos/myrtv/myrtv.github.io/license",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable",
+      "resolved_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "02e63a78c86b85defc256550a0490daa1566d077472ff32e0f5495b944200e86"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/readme",
+      "resolved_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "3cb9e31dff0ebc02ce726b0dd91fcdb0a94a13f73f335e79b6bcff740c9b9e20"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "353b1292c57ccaa1e4d248eb1465255c127622ae2fb8c0181d65cd4683eb2f8c"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/license",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://api.github.com/repos/f00d4tehg0dz/retroarr",
+      "resolved_url": "https://api.github.com/repositories/1174310053",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "a62da9672a2da8460c6a7e96d38982e7046fec89eaad0dfd6da6e2731c31eaf3"
+    },
+    {
+      "source_url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/readme",
+      "resolved_url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "e60ec40faf7f3d23062f35704de37458c44809905159a29eb2e39e603a821221"
+    },
+    {
+      "source_url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "1ad7fb3a2f715d43953884e66617800bd02f3a5df307f629172b471f6ff9dc9b"
+    },
+    {
+      "source_url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/license",
+      "resolved_url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/license",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "b0a26eff0817b3d8aefa81de7c622c3a3ea1c2b5526e817a61232791da5bd7c8"
+    },
+    {
+      "source_url": "https://api.github.com/repos/reedylab/channelarr",
+      "resolved_url": "https://api.github.com/repos/reedylab/channelarr",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "794baaa2ccfc3a223a648be3ae8958325744cd4c9706573bb01851e8c7fc1273"
+    },
+    {
+      "source_url": "https://api.github.com/repos/reedylab/channelarr/readme",
+      "resolved_url": "https://api.github.com/repos/reedylab/channelarr/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "2dcb11e67b959b420f4cefed17819ec3acae1e118a00bea6f9960808257413bd"
+    },
+    {
+      "source_url": "https://api.github.com/repos/reedylab/channelarr/git/trees/master?recursive=1",
+      "resolved_url": "https://api.github.com/repos/reedylab/channelarr/git/trees/master?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "c8657f3088bc377a9f7558dd468b800ff28586132d7ada4567bbcc5e3e6b34a3"
+    },
+    {
+      "source_url": "https://api.github.com/repos/reedylab/channelarr/license",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://api.github.com/repos/samjhill/channel",
+      "resolved_url": "https://api.github.com/repos/samjhill/channel",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "835fea4c5fcdb2b8438c8a557cd2b70cad2c2ab072861b0ca029f32a55257c99"
+    },
+    {
+      "source_url": "https://api.github.com/repos/samjhill/channel/readme",
+      "resolved_url": "https://api.github.com/repos/samjhill/channel/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "cc4a812a1d447fc9de535918c5e86ab0e1d00e7d371ae5cbd924f7ca9312302a"
+    },
+    {
+      "source_url": "https://api.github.com/repos/samjhill/channel/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/samjhill/channel/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "b02aba1f3c570df72ab204b412a3227c6d85cee9d841a980877e8a2b37a09dcb"
+    },
+    {
+      "source_url": "https://api.github.com/repos/samjhill/channel/license",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://api.github.com/repos/work-partner/TV-From-Childhood",
+      "resolved_url": "https://api.github.com/repos/work-partner/TV-From-Childhood",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "fad1ee086acaf458a438656996083ebf82dc3428c1b7d247518fbde76a77e9f2"
+    },
+    {
+      "source_url": "https://api.github.com/repos/work-partner/TV-From-Childhood/readme",
+      "resolved_url": "https://api.github.com/repos/work-partner/TV-From-Childhood/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "6422e84d606ea09500993c35255c0d70ca4c75dafa6749d0d26e837efe47a69d"
+    },
+    {
+      "source_url": "https://api.github.com/repos/work-partner/TV-From-Childhood/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/work-partner/TV-From-Childhood/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "e3364e3fcca7236381caac7aabfac3d8ec97b6e3292c845db53d0e43485ee6df"
+    },
+    {
+      "source_url": "https://api.github.com/repos/work-partner/TV-From-Childhood/license",
+      "resolved_url": "https://api.github.com/repos/work-partner/TV-From-Childhood/license",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "c0fd6148020a5621aaba42da34fa4b0ff5a82aa319e8f78d200e31483866cae9"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jpsilvashy/channel-surfer",
+      "resolved_url": "https://api.github.com/repos/jpsilvashy/channel-surfer",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "8dd7725f7cf42513deecf530926e782a9435c9d7bbc70b41991f488b0e07b9fc"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jpsilvashy/channel-surfer/readme",
+      "resolved_url": "https://api.github.com/repos/jpsilvashy/channel-surfer/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "b808a81b3f9c63021eb7a535e577ba2ff0da0146e34446237e840b8d4e2412e2"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jpsilvashy/channel-surfer/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/jpsilvashy/channel-surfer/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "88098c4a6d6fe8bbaee63718156e1b65b1cc45557d9296a9f92c7a6ca1da481b"
+    },
+    {
+      "source_url": "https://api.github.com/repos/jpsilvashy/channel-surfer/license",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/ErsatzTV",
+      "resolved_url": "https://api.github.com/repositories/337278770",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "f2e42609a297b85cf6f1e9fea48406af8f84dfbd92ab92b2cd9bcb8ea772b3d3"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/legacy/readme",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/legacy/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "efe344312196fe8668f842bea637396ba532363de99d047a9aadc01ef4ab0587"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/legacy/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/legacy/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "679f9edc0052409c2571adb6cca2c3544a2cd823e0bc0547904dfee27ad0907b"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/legacy/license",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/legacy/license",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "926d2b63f9ef018827f949f432c7bf7b21d2c8197a5080291f0a697f987f7236"
+    },
+    {
+      "source_url": "https://api.github.com/repos/Tunarr/tunarr",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/next",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/next",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "c4041f9a65890cf11e3c64659482b71354f5b1bd206a0ba9ab2917ff88a30606"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/next/readme",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/next/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "a20c25e32c799b069be083e7b238f484d36447b73fbcffdf49cf8d2378b49e56"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/next/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/next/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "56c42b2f182a8733604e808db07f6af4171b7b4654134b2f00606e313dc55e42"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ErsatzTV/next/license",
+      "resolved_url": "https://api.github.com/repos/ErsatzTV/next/license",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "02a797d82f56d268cbbcb2e9c59db142f46eb00b0e09a8c67c4a7ae7725e0411"
+    },
+    {
+      "source_url": "https://api.github.com/repos/vexorian/dizquetv",
+      "resolved_url": "https://api.github.com/repos/vexorian/dizquetv",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "e6c7c87965b3652618de95cfffe6b9139549986bfa02b661a581a1769244fb1a"
+    },
+    {
+      "source_url": "https://api.github.com/repos/vexorian/dizquetv/readme",
+      "resolved_url": "https://api.github.com/repos/vexorian/dizquetv/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "0f8cc1c118136bc6aa4adb6337803aa0714d5e305acca19019268a0601cd4ddc"
+    },
+    {
+      "source_url": "https://api.github.com/repos/vexorian/dizquetv/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/vexorian/dizquetv/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "2e63edee84f0aa4debdf3f5696f4a08c2d702b421705ae806797414bccc28baf"
+    },
+    {
+      "source_url": "https://api.github.com/repos/vexorian/dizquetv/license",
+      "resolved_url": "https://api.github.com/repos/vexorian/dizquetv/license",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "c22531dd354ee283984ecf0ee50be725b011fce089a9b2ed23ca43ea215d2784"
+    },
+    {
+      "source_url": "https://api.github.com/repos/chrisbenincasa/tunarr",
+      "resolved_url": "https://api.github.com/repos/chrisbenincasa/tunarr",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "4a045bc0e8b6e5bb62c587965ac315bc3c3163cb9d35edf6c2fcb32c415388be"
+    },
+    {
+      "source_url": "https://api.github.com/repos/chrisbenincasa/tunarr/readme",
+      "resolved_url": "https://api.github.com/repos/chrisbenincasa/tunarr/readme",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "d2b88940ba8604077fe563cebe2e91f1c843cb978fddf29a94d537e4ff4bb90d"
+    },
+    {
+      "source_url": "https://api.github.com/repos/chrisbenincasa/tunarr/git/trees/main?recursive=1",
+      "resolved_url": "https://api.github.com/repos/chrisbenincasa/tunarr/git/trees/main?recursive=1",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "de56a50a5c8bbd6686847fff73b0e056596c1100a7ad69608e1764e26881d4c5"
+    },
+    {
+      "source_url": "https://api.github.com/repos/chrisbenincasa/tunarr/license",
+      "resolved_url": "https://api.github.com/repos/chrisbenincasa/tunarr/license",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "b97f1a3930b84422106c9b5e6a76acf7038df2fd144d2da17f3e4e3650f70817"
+    },
+    {
+      "source_url": "https://api.github.com/repos/ShaneMcC/YouTubeTV",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://developers.google.com/youtube/iframe_api_reference",
+      "resolved_url": "https://developers.google.com/youtube/iframe_api_reference",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "c3b6b739f2c3eb0a7ed6fa994806235374b80b0f7cc88c8f82e60f6bdf7c5e91"
+    },
+    {
+      "source_url": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+      "resolved_url": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "9e2db7556ee04a8912a08928f8fe8d8dc5a89d92c56946ac70cee3eb1544d15f"
+    },
+    {
+      "source_url": "https://developers.google.com/youtube/player_parameters",
+      "resolved_url": "https://developers.google.com/youtube/player_parameters",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "7d18ac450da595e29c33924280a325db1f504453955865eff25893c5c625712a"
+    },
+    {
+      "source_url": "https://developers.google.com/youtube/terms/developer-policies",
+      "resolved_url": "https://developers.google.com/youtube/terms/developer-policies",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "152d57e64ab3913e63b3dda486e300d6b9201fb969b1a88e0e5e7ef8ee7145ff"
+    },
+    {
+      "source_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "resolved_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "3e857911d6ec47ccab84e9e1d03e89654b09b223ff2784ba07433e53376379bb"
+    },
+    {
+      "source_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "resolved_url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "3db1ef0b5275ce7eaebe363d500dd9b2d4cf2649c8c7b6c5dfd0c7a26c3a083b"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/work-partner/TV-From-Childhood/main/index.html",
+      "resolved_url": "https://raw.githubusercontent.com/work-partner/TV-From-Childhood/main/index.html",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "2a469fa8ecec40426fe8bd670257aec0e71810922448e2e40a6fd4d7ed005c14"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/myrtv/myrtv.github.io/master/js/site.js",
+      "resolved_url": "https://raw.githubusercontent.com/myrtv/myrtv.github.io/master/js/site.js",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "32d803764a1bef23c6d7e85534369d18accc785fad8dfcf634edce5e01463e6a"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/jumpjumptiger007/interdimensional-cable/main/app.js",
+      "resolved_url": "https://raw.githubusercontent.com/jumpjumptiger007/interdimensional-cable/main/app.js",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "3ecbd0d21d9963f2e937f06c7ee0d4d3a78ffe8f19008dccc2cd34dd5d495a1f"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/reedylab/channelarr/main/requirements.txt",
+      "resolved_url": null,
+      "http_status": 404,
+      "error": "HTTP Error 404: Not Found",
+      "body_sha256": null
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/f00d4tehg0dz/surfarr/main/server/package.json",
+      "resolved_url": "https://raw.githubusercontent.com/f00d4tehg0dz/surfarr/main/server/package.json",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "9cf37efcdb7c43f240ded30842f1c932228e3b11ffb6943cd62865c313c5d474"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/jpsilvashy/channel-surfer/main/server.js",
+      "resolved_url": "https://raw.githubusercontent.com/jpsilvashy/channel-surfer/main/server.js",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "952eb96364ba2b4556bc5a3176de3b59d538275fc48b32619462822dd645624c"
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/reedylab/channelarr/master/requirements.txt",
+      "resolved_url": "https://raw.githubusercontent.com/reedylab/channelarr/master/requirements.txt",
+      "http_status": 200,
+      "error": null,
+      "body_sha256": "7f959a3665e3b662923675528356d8c99e18344c42276e1a2ac9dfe211963264"
+    }
+  ],
+  "source_registry": [
+    {
+      "id": 1,
+      "url": "https://api.github.com/repos/myrtv/myrtv.github.io"
+    },
+    {
+      "id": 2,
+      "url": "https://api.github.com/repos/myrtv/myrtv.github.io/readme"
+    },
+    {
+      "id": 3,
+      "url": "https://api.github.com/repos/myrtv/myrtv.github.io/git/trees/master?recursive=1"
+    },
+    {
+      "id": 4,
+      "url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable"
+    },
+    {
+      "id": 5,
+      "url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/readme"
+    },
+    {
+      "id": 6,
+      "url": "https://api.github.com/repos/jumpjumptiger007/interdimensional-cable/git/trees/main?recursive=1"
+    },
+    {
+      "id": 7,
+      "url": "https://api.github.com/repos/f00d4tehg0dz/retroarr"
+    },
+    {
+      "id": 8,
+      "url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/readme"
+    },
+    {
+      "id": 9,
+      "url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/git/trees/main?recursive=1"
+    },
+    {
+      "id": 10,
+      "url": "https://api.github.com/repos/f00d4tehg0dz/surfarr/license"
+    },
+    {
+      "id": 11,
+      "url": "https://api.github.com/repos/reedylab/channelarr"
+    },
+    {
+      "id": 12,
+      "url": "https://api.github.com/repos/reedylab/channelarr/readme"
+    },
+    {
+      "id": 13,
+      "url": "https://api.github.com/repos/reedylab/channelarr/git/trees/master?recursive=1"
+    },
+    {
+      "id": 14,
+      "url": "https://api.github.com/repos/samjhill/channel"
+    },
+    {
+      "id": 15,
+      "url": "https://api.github.com/repos/samjhill/channel/readme"
+    },
+    {
+      "id": 16,
+      "url": "https://api.github.com/repos/samjhill/channel/git/trees/main?recursive=1"
+    },
+    {
+      "id": 17,
+      "url": "https://api.github.com/repos/work-partner/TV-From-Childhood"
+    },
+    {
+      "id": 18,
+      "url": "https://api.github.com/repos/work-partner/TV-From-Childhood/readme"
+    },
+    {
+      "id": 19,
+      "url": "https://api.github.com/repos/work-partner/TV-From-Childhood/git/trees/main?recursive=1"
+    },
+    {
+      "id": 20,
+      "url": "https://api.github.com/repos/work-partner/TV-From-Childhood/license"
+    },
+    {
+      "id": 21,
+      "url": "https://api.github.com/repos/jpsilvashy/channel-surfer"
+    },
+    {
+      "id": 22,
+      "url": "https://api.github.com/repos/jpsilvashy/channel-surfer/readme"
+    },
+    {
+      "id": 23,
+      "url": "https://api.github.com/repos/jpsilvashy/channel-surfer/git/trees/main?recursive=1"
+    },
+    {
+      "id": 24,
+      "url": "https://api.github.com/repos/ErsatzTV/ErsatzTV"
+    },
+    {
+      "id": 25,
+      "url": "https://api.github.com/repos/ErsatzTV/legacy/readme"
+    },
+    {
+      "id": 26,
+      "url": "https://api.github.com/repos/ErsatzTV/legacy/git/trees/main?recursive=1"
+    },
+    {
+      "id": 27,
+      "url": "https://api.github.com/repos/ErsatzTV/legacy/license"
+    },
+    {
+      "id": 28,
+      "url": "https://api.github.com/repos/ErsatzTV/next"
+    },
+    {
+      "id": 29,
+      "url": "https://api.github.com/repos/ErsatzTV/next/readme"
+    },
+    {
+      "id": 30,
+      "url": "https://api.github.com/repos/ErsatzTV/next/git/trees/main?recursive=1"
+    },
+    {
+      "id": 31,
+      "url": "https://api.github.com/repos/ErsatzTV/next/license"
+    },
+    {
+      "id": 32,
+      "url": "https://api.github.com/repos/vexorian/dizquetv"
+    },
+    {
+      "id": 33,
+      "url": "https://api.github.com/repos/vexorian/dizquetv/readme"
+    },
+    {
+      "id": 34,
+      "url": "https://api.github.com/repos/vexorian/dizquetv/git/trees/main?recursive=1"
+    },
+    {
+      "id": 35,
+      "url": "https://api.github.com/repos/vexorian/dizquetv/license"
+    },
+    {
+      "id": 36,
+      "url": "https://api.github.com/repos/chrisbenincasa/tunarr"
+    },
+    {
+      "id": 37,
+      "url": "https://api.github.com/repos/chrisbenincasa/tunarr/readme"
+    },
+    {
+      "id": 38,
+      "url": "https://api.github.com/repos/chrisbenincasa/tunarr/git/trees/main?recursive=1"
+    },
+    {
+      "id": 39,
+      "url": "https://api.github.com/repos/chrisbenincasa/tunarr/license"
+    },
+    {
+      "id": 40,
+      "url": "https://developers.google.com/youtube/iframe_api_reference"
+    },
+    {
+      "id": 41,
+      "url": "https://developers.google.com/youtube/terms/required-minimum-functionality"
+    },
+    {
+      "id": 42,
+      "url": "https://developers.google.com/youtube/player_parameters"
+    },
+    {
+      "id": 43,
+      "url": "https://developers.google.com/youtube/terms/developer-policies"
+    },
+    {
+      "id": 44,
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages"
+    },
+    {
+      "id": 45,
+      "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository"
+    },
+    {
+      "id": 46,
+      "url": "https://raw.githubusercontent.com/work-partner/TV-From-Childhood/main/index.html"
+    },
+    {
+      "id": 47,
+      "url": "https://raw.githubusercontent.com/myrtv/myrtv.github.io/master/js/site.js"
+    },
+    {
+      "id": 48,
+      "url": "https://raw.githubusercontent.com/jumpjumptiger007/interdimensional-cable/main/app.js"
+    },
+    {
+      "id": 49,
+      "url": "https://raw.githubusercontent.com/f00d4tehg0dz/surfarr/main/server/package.json"
+    },
+    {
+      "id": 50,
+      "url": "https://raw.githubusercontent.com/jpsilvashy/channel-surfer/main/server.js"
+    },
+    {
+      "id": 51,
+      "url": "https://raw.githubusercontent.com/reedylab/channelarr/master/requirements.txt"
+    }
+  ],
+  "limitations": [
+    "Demos não abertas/testadas.",
+    "Reprodução, disponibilidade e classificação Made for Kids de vídeos não verificadas.",
+    "Nenhum deploy ou teste de navegador.",
+    "Arquitetura descrita a partir de documentação e inspeção pontual, não auditoria completa.",
+    "Licença do código não licencia mídia e dependências automaticamente.",
+    "Páginas e branches mutáveis; SHA da árvore registra snapshot.",
+    "404 pode significar URL incorreta, renomeação ou indisponibilidade; não prova inexistência universal."
+  ],
+  "decision": "Implementação original estática; grade por época UTC; IFrame API oficial; sem overlays sobre YouTube, sem backend próprio, sem download/cache audiovisual."
+}

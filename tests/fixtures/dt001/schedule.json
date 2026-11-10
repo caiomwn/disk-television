@@ -1,0 +1,14 @@
+{
+  "epoch": "2026-01-01T03:00:00Z",
+  "cycleSeconds": 86400,
+  "editorialNote": "Edição piloto: seis faixas de quatro horas, com reprises deliberadas de dez obras. Horário de Brasília. Os temas noturnos incluem tensão e violência; não é programação infantil.",
+  "idents": {"station": 12, "next": 10, "night": 16},
+  "blocks": [
+    {"start": 0, "label": "Órbita noturna", "rotation": ["tears-of-steel", "elephants-dream", "cosmos-laundromat", "charge", "coffee-run"]},
+    {"start": 14400, "label": "Primeira luz", "rotation": ["spring", "big-buck-bunny", "caminandes-gran-dillama", "caminandes-llamigos", "coffee-run"]},
+    {"start": 28800, "label": "Animação livre", "rotation": ["big-buck-bunny", "spring", "caminandes-llamigos", "coffee-run", "caminandes-gran-dillama"]},
+    {"start": 43200, "label": "Laboratório de imagens", "rotation": ["elephants-dream", "coffee-run", "charge", "spring", "tears-of-steel"]},
+    {"start": 57600, "label": "Sessão imaginária", "rotation": ["sintel", "spring", "big-buck-bunny", "caminandes-gran-dillama", "caminandes-llamigos"]},
+    {"start": 72000, "label": "Depois do sinal", "rotation": ["tears-of-steel", "sintel", "cosmos-laundromat", "charge", "elephants-dream", "coffee-run"]}
+  ]
+}

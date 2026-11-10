@@ -1,0 +1,2610 @@
+[
+  {
+    "youtubeId": "9CGih4gMRlk",
+    "title": "SONIC X - EP01 Chaos Control Freaks | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:16.928882+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1276,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.439599026702881,
+        "duration": 1275.881,
+        "videoId": "9CGih4gMRlk"
+      },
+      {
+        "state": 1,
+        "time": 6.545408925613403,
+        "duration": 1275.881,
+        "videoId": "9CGih4gMRlk"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-9CGih4gMRlk.png"
+  },
+  {
+    "youtubeId": "aBgPO32-ka0",
+    "title": "SONIC X - EP02 Sonic to the Rescue | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:19.244958+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1277,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.1964410667572025,
+        "duration": 1276.841,
+        "videoId": "aBgPO32-ka0"
+      },
+      {
+        "state": 1,
+        "time": 6.297160011444092,
+        "duration": 1276.841,
+        "videoId": "aBgPO32-ka0"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "PzifMBqaEvU",
+    "title": "SONIC X - EP03 Missile Wrist Rampage | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:21.472948+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1243,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.433260893188477,
+        "duration": 1242.741,
+        "videoId": "PzifMBqaEvU"
+      },
+      {
+        "state": 1,
+        "time": 6.542456053405762,
+        "duration": 1242.741,
+        "videoId": "PzifMBqaEvU"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "BNi7ZoeJOOE",
+    "title": "SONIC X - EP04 Chaos Emerald Chaos | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:23.699560+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1279,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.2225101564025875,
+        "duration": 1279.261,
+        "videoId": "BNi7ZoeJOOE"
+      },
+      {
+        "state": 1,
+        "time": 6.339258973297119,
+        "duration": 1279.261,
+        "videoId": "BNi7ZoeJOOE"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "qBsRxGQhDKs",
+    "title": "SONIC X - EP05 Cracking Knuckles | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:25.928136+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1279,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.4510500705719,
+        "duration": 1279.201,
+        "videoId": "qBsRxGQhDKs"
+      },
+      {
+        "state": 1,
+        "time": 6.558546969482422,
+        "duration": 1279.201,
+        "videoId": "qBsRxGQhDKs"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "ZDygQeO9jzo",
+    "title": "SONIC X - EP06 Techno Teacher | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:28.158876+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1278,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.398496108718872,
+        "duration": 1278.361,
+        "videoId": "ZDygQeO9jzo"
+      },
+      {
+        "state": 1,
+        "time": 6.5137890705718995,
+        "duration": 1278.361,
+        "videoId": "ZDygQeO9jzo"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "mKHOTHRtACA",
+    "title": "KenIchi - The Mightiest Disciple - EP01 Ryozanpaku: Where the Powerful Gather! | English Dub",
+    "checkedAt": "2026-11-10T13:43:30.401114+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.276828994277954,
+        "duration": 1475.241,
+        "videoId": "mKHOTHRtACA"
+      },
+      {
+        "state": 1,
+        "time": 6.393033019073487,
+        "duration": 1475.241,
+        "videoId": "mKHOTHRtACA"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-mKHOTHRtACA.png"
+  },
+  {
+    "youtubeId": "1TwBMJ6VxFo",
+    "title": "KenIchi - The Mightiest Disciple - EP02 The Beginning of the Fight! | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:32.738677+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.446235133514405,
+        "duration": 1475.241,
+        "videoId": "1TwBMJ6VxFo"
+      },
+      {
+        "state": 1,
+        "time": 6.552600011444092,
+        "duration": 1475.241,
+        "videoId": "1TwBMJ6VxFo"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "_GjNAwzI5dM",
+    "title": "KenIchi - The Mightiest Disciple - EP03 Strength and Courage! | English Dub | Full Episode",
+    "checkedAt": "2026-11-10T13:43:34.971344+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.471945948501587,
+        "duration": 1475.181,
+        "videoId": "_GjNAwzI5dM"
+      },
+      {
+        "state": 1,
+        "time": 6.581054980926513,
+        "duration": 1475.181,
+        "videoId": "_GjNAwzI5dM"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "eutBzS30qhM",
+    "title": "MAGIC KNIGHT RAYEARTH - EP01 The Birth of the Legendary Magic Knights! | English Dub",
+    "checkedAt": "2026-11-10T13:43:37.196047+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.477949104904175,
+        "duration": 1475.181,
+        "videoId": "eutBzS30qhM"
+      },
+      {
+        "state": 1,
+        "time": 6.587112003814697,
+        "duration": 1475.181,
+        "videoId": "eutBzS30qhM"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-eutBzS30qhM.png"
+  },
+  {
+    "youtubeId": "GhybZYP8KrA",
+    "title": "MAGIC KNIGHT RAYEARTH - EP02 Presea, The Master Smith In The Forest Of Silence | English Dub",
+    "checkedAt": "2026-11-10T13:43:39.508855+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.248064179290772,
+        "duration": 1475.161,
+        "videoId": "GhybZYP8KrA"
+      },
+      {
+        "state": 1,
+        "time": 6.35942694468689,
+        "duration": 1475.161,
+        "videoId": "GhybZYP8KrA"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "o668yHA9E4M",
+    "title": "MAGIC KNIGHT RAYEARTH - EP03 Ferio, the Handsome, Mysterious Swordsman | English Dub",
+    "checkedAt": "2026-11-10T13:43:41.733381+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.4638770724792485,
+        "duration": 1475.161,
+        "videoId": "o668yHA9E4M"
+      },
+      {
+        "state": 1,
+        "time": 6.572951959945678,
+        "duration": 1475.161,
+        "videoId": "o668yHA9E4M"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "QwVyKWVRQNE",
+    "title": "MAGIC KNIGHT RAYEARTH - EP04 Alcyone, the Vengeful Sorceress | English Dub",
+    "checkedAt": "2026-11-10T13:43:43.958799+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.390283169754028,
+        "duration": 1475.161,
+        "videoId": "QwVyKWVRQNE"
+      },
+      {
+        "state": 1,
+        "time": 6.499333122070312,
+        "duration": 1475.161,
+        "videoId": "QwVyKWVRQNE"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "Wo3q2svkKvI",
+    "title": "MAGIC KNIGHT RAYEARTH - EP05 Escudo, the Legendary Ore | English Dub",
+    "checkedAt": "2026-11-10T13:43:46.182958+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.240937074386597,
+        "duration": 1474.661,
+        "videoId": "Wo3q2svkKvI"
+      },
+      {
+        "state": 1,
+        "time": 6.346400005722046,
+        "duration": 1474.661,
+        "videoId": "Wo3q2svkKvI"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "6dK-554U-Rs",
+    "title": "MAGIC KNIGHT RAYEARTH - EP06 Lives at Stake - Presea's Weapons | English Dub",
+    "checkedAt": "2026-11-10T13:43:48.402372+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1478,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.4028010877380375,
+        "duration": 1478.121,
+        "videoId": "6dK-554U-Rs"
+      },
+      {
+        "state": 1,
+        "time": 6.509085122070313,
+        "duration": 1478.121,
+        "videoId": "6dK-554U-Rs"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "E6R2j2cablI",
+    "title": "MAGIC KNIGHT RAYEARTH - EP07 Ferio in Desperation - A Romance in the Desert | English Dub",
+    "checkedAt": "2026-11-10T13:43:50.622941+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1478,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.443553946594238,
+        "duration": 1478.121,
+        "videoId": "E6R2j2cablI"
+      },
+      {
+        "state": 1,
+        "time": 6.5521029179840085,
+        "duration": 1478.121,
+        "videoId": "E6R2j2cablI"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "xpWDVjpQ-lw",
+    "title": "MAGIC KNIGHT RAYEARTH - EP08 The Horrible Trap of Summoner Ascot | English Dub",
+    "checkedAt": "2026-11-10T13:43:52.845237+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1478,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.2336120629425045,
+        "duration": 1478.461,
+        "videoId": "xpWDVjpQ-lw"
+      },
+      {
+        "state": 1,
+        "time": 6.345111129699707,
+        "duration": 1478.461,
+        "videoId": "xpWDVjpQ-lw"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "U10iG69axKc",
+    "title": "Mobile Suit Gundam SEED HD Remaster - Episode1 (w/subtitles)",
+    "checkedAt": "2026-11-10T13:43:55.073167+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1461,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.473502217437744,
+        "duration": 1461.081,
+        "videoId": "U10iG69axKc"
+      },
+      {
+        "state": 1,
+        "time": 6.581063971389771,
+        "duration": 1461.081,
+        "videoId": "U10iG69axKc"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-U10iG69axKc.png"
+  },
+  {
+    "youtubeId": "dgGuKUHIMAw",
+    "title": "Mobile Suit Gundam SEED HD Remaster - Episode2 (w/subtitles)",
+    "checkedAt": "2026-11-10T13:43:57.348732+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1461,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.49004508392334,
+        "duration": 1461.081,
+        "videoId": "dgGuKUHIMAw"
+      },
+      {
+        "state": 1,
+        "time": 6.595987045776368,
+        "duration": 1461.081,
+        "videoId": "dgGuKUHIMAw"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "RkGmG-nT8V0",
+    "title": "Mobile Suit Gundam SEED HD Remaster - Episode3 (w/subtitles)",
+    "checkedAt": "2026-11-10T13:43:59.578211+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1461,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.492665074386597,
+        "duration": 1461.121,
+        "videoId": "RkGmG-nT8V0"
+      },
+      {
+        "state": 1,
+        "time": 6.608694015258789,
+        "duration": 1461.121,
+        "videoId": "RkGmG-nT8V0"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "paEVAzRhX2k",
+    "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode1 (w/subtitles)",
+    "checkedAt": "2026-11-10T13:44:01.816828+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1461,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.488015887466431,
+        "duration": 1461.161,
+        "videoId": "paEVAzRhX2k"
+      },
+      {
+        "state": 1,
+        "time": 6.60159913923645,
+        "duration": 1461.161,
+        "videoId": "paEVAzRhX2k"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-paEVAzRhX2k.png"
+  },
+  {
+    "youtubeId": "vyQquPdMrno",
+    "title": "Mobile Suit Gundam SEED DESTINY HD Remaster - Episode2 (w/subtitles)",
+    "checkedAt": "2026-11-10T13:44:04.107961+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1461,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.271569003814697,
+        "duration": 1461.121,
+        "videoId": "vyQquPdMrno"
+      },
+      {
+        "state": 1,
+        "time": 6.383978040054322,
+        "duration": 1461.121,
+        "videoId": "vyQquPdMrno"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "7jLv_j-m8F4",
+    "title": "MOBILE SUIT GUNDAM 00 1st season - Episode 1：CELESTIAL BEING (EN,KR,HK,TW,CN,FR Sub)",
+    "checkedAt": "2026-11-10T13:44:06.334737+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1508,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.469006072479248,
+        "duration": 1508.021,
+        "videoId": "7jLv_j-m8F4"
+      },
+      {
+        "state": 1,
+        "time": 6.581057980926514,
+        "duration": 1508.021,
+        "videoId": "7jLv_j-m8F4"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-7jLv_j-m8F4.png"
+  },
+  {
+    "youtubeId": "mAxCyrDuNiA",
+    "title": "Mobile Suit Gundam: Char's Counterattack (w/subtitles)",
+    "checkedAt": "2026-11-10T13:44:08.613323+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 7213,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.442659007629395,
+        "duration": 7213.061,
+        "videoId": "mAxCyrDuNiA"
+      },
+      {
+        "state": 1,
+        "time": 6.545829011444092,
+        "duration": 7213.061,
+        "videoId": "mAxCyrDuNiA"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-mAxCyrDuNiA.png"
+  },
+  {
+    "youtubeId": "ZKt412fev-s",
+    "title": "記憶の残響 (馮 一夫) / Echoes of Memory (FENG Yifu)",
+    "checkedAt": "2026-11-10T13:44:10.879813+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 534,
+    "samples": [
+      {
+        "state": 3,
+        "time": 5.001171,
+        "duration": 534.021,
+        "videoId": "ZKt412fev-s"
+      },
+      {
+        "state": 1,
+        "time": 6.073025003814697,
+        "duration": 534.021,
+        "videoId": "ZKt412fev-s"
+      },
+      {
+        "state": 1,
+        "time": 7.183752112533569,
+        "duration": 534.021,
+        "videoId": "ZKt412fev-s"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-ZKt412fev-s.png"
+  },
+  {
+    "youtubeId": "FRF0AGMaWqs",
+    "title": "穴 (なかがわさわこ) / The Hole (NAKAGAWA Sawako)",
+    "checkedAt": "2026-11-10T13:44:14.238616+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 372,
+    "samples": [
+      {
+        "state": -1,
+        "time": 5,
+        "duration": 372,
+        "videoId": "FRF0AGMaWqs"
+      },
+      {
+        "state": 1,
+        "time": 5.926317118255615,
+        "duration": 372.081,
+        "videoId": "FRF0AGMaWqs"
+      },
+      {
+        "state": 1,
+        "time": 7.0280499961853025,
+        "duration": 372.081,
+        "videoId": "FRF0AGMaWqs"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "HtQuxh8hC3E",
+    "title": "瞳耕説 (今井 理子) / The Epic of Eye Plowing (IMAI Riko)",
+    "checkedAt": "2026-11-10T13:44:17.583236+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 463,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.463601927520752,
+        "duration": 463.041,
+        "videoId": "HtQuxh8hC3E"
+      },
+      {
+        "state": 1,
+        "time": 6.566415156402588,
+        "duration": 463.041,
+        "videoId": "HtQuxh8hC3E"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "cIGQcQphcOU",
+    "title": "みみみとうちゅうじん (倉澤 紘己) / Mimimi and the Aliens (KURASAWA Hiroki)",
+    "checkedAt": "2026-11-10T13:44:19.808124+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 355,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.367997074386596,
+        "duration": 354.561,
+        "videoId": "cIGQcQphcOU"
+      },
+      {
+        "state": 1,
+        "time": 6.484760923706054,
+        "duration": 354.561,
+        "videoId": "cIGQcQphcOU"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "1pS8dQO9Rro",
+    "title": "劇場版バナナの皮で滑って転ぶうさぎ (長坂 康平) / A Rabbit Slipping on Banana Peels: The Movie (NAGASAKA Kohei)",
+    "checkedAt": "2026-11-10T13:44:22.041453+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 455,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.5028400534057615,
+        "duration": 455.401,
+        "videoId": "1pS8dQO9Rro"
+      },
+      {
+        "state": 1,
+        "time": 6.616022954223633,
+        "duration": 455.401,
+        "videoId": "1pS8dQO9Rro"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "08ctTWdv2WY",
+    "title": "黴 (施 聖雪) / Mold (SHI Shengxue)",
+    "checkedAt": "2026-11-10T13:44:24.277256+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 162,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.56106990272522,
+        "duration": 161.661,
+        "videoId": "08ctTWdv2WY"
+      },
+      {
+        "state": 1,
+        "time": 6.666954093460083,
+        "duration": 161.661,
+        "videoId": "08ctTWdv2WY"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "U-QnQkh-Q2A",
+    "title": "ストーリーズに追加 (辻 仁奈) / Add to Stories (TSUJI Nina)",
+    "checkedAt": "2026-11-10T13:44:26.503600+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 217,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.315032101089478,
+        "duration": 217.001,
+        "videoId": "U-QnQkh-Q2A"
+      },
+      {
+        "state": 1,
+        "time": 6.427490001907349,
+        "duration": 217.001,
+        "videoId": "U-QnQkh-Q2A"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "fn7T0r6GQ0s",
+    "title": "Blink in the Desert (副島 しのぶ / SOEJIMA Shinobu)",
+    "checkedAt": "2026-11-10T13:44:28.732690+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 634,
+    "samples": [
+      {
+        "state": -1,
+        "time": 5,
+        "duration": 634,
+        "videoId": "fn7T0r6GQ0s"
+      },
+      {
+        "state": 1,
+        "time": 5.85620298664856,
+        "duration": 634.041,
+        "videoId": "fn7T0r6GQ0s"
+      },
+      {
+        "state": 1,
+        "time": 6.9701118569488525,
+        "duration": 634.041,
+        "videoId": "fn7T0r6GQ0s"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "s13q7Wlwxy4",
+    "title": "Seika Anime Selection『スマおじ』",
+    "checkedAt": "2026-11-10T13:44:32.075786+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 175,
+    "samples": [
+      {
+        "state": -1,
+        "time": 5,
+        "duration": 175,
+        "videoId": "s13q7Wlwxy4"
+      },
+      {
+        "state": 1,
+        "time": 6.032039074386597,
+        "duration": 175.041,
+        "videoId": "s13q7Wlwxy4"
+      },
+      {
+        "state": 1,
+        "time": 7.142155087738037,
+        "duration": 175.041,
+        "videoId": "s13q7Wlwxy4"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-s13q7Wlwxy4.png"
+  },
+  {
+    "youtubeId": "aYnuA0khyXw",
+    "title": "Seika Anime Selection『e più non dimandare（汝、問うべからず）』",
+    "checkedAt": "2026-11-10T13:44:35.439705+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 541,
+    "samples": [
+      {
+        "state": -1,
+        "time": 5,
+        "duration": 541,
+        "videoId": "aYnuA0khyXw"
+      },
+      {
+        "state": 1,
+        "time": 5.951267975204468,
+        "duration": 541.241,
+        "videoId": "aYnuA0khyXw"
+      },
+      {
+        "state": 1,
+        "time": 7.053190988555908,
+        "duration": 541.241,
+        "videoId": "aYnuA0khyXw"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "j01Hg4QJ6NE",
+    "title": "Best Friend - Animation Short Film 2018 - GOBELINS",
+    "checkedAt": "2026-11-10T13:44:38.764195+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 346,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.484659990463257,
+        "duration": 346.201,
+        "videoId": "j01Hg4QJ6NE"
+      },
+      {
+        "state": 1,
+        "time": 6.596557118255615,
+        "duration": 346.201,
+        "videoId": "j01Hg4QJ6NE"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-j01Hg4QJ6NE.png"
+  },
+  {
+    "youtubeId": "HwAPLk_sQ3w",
+    "title": "THE AMAZING DIGITAL CIRCUS: PILOT",
+    "checkedAt": "2026-11-10T13:44:41.071928+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1545,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.608818009536743,
+        "duration": 1545.021,
+        "videoId": "HwAPLk_sQ3w"
+      },
+      {
+        "state": 1,
+        "time": 6.713107034332276,
+        "duration": 1545.021,
+        "videoId": "HwAPLk_sQ3w"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-HwAPLk_sQ3w.png"
+  },
+  {
+    "youtubeId": "VdjHcwvtdTI",
+    "title": "Magic User's Club Season 2 TV Episode 1 (Sub): Sae, the Magic Club, and the Cherry Blossom Tree",
+    "checkedAt": "2026-11-10T13:44:43.415415+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1494,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.38266380545044,
+        "duration": 1494.321,
+        "videoId": "VdjHcwvtdTI"
+      },
+      {
+        "state": 1,
+        "time": 6.498511007629395,
+        "duration": 1494.321,
+        "videoId": "VdjHcwvtdTI"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-VdjHcwvtdTI.png"
+  },
+  {
+    "youtubeId": "MCCujxWmvno",
+    "title": "Magic User's Club Season 2 TV Episode 2 (Sub): Nanaka, a Cake, and a Dangerous Evening",
+    "checkedAt": "2026-11-10T13:44:45.717453+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:17363/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1495,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.379101992370606,
+        "duration": 1494.501,
+        "videoId": "MCCujxWmvno"
+      },
+      {
+        "state": 1,
+        "time": 6.485847057220459,
+        "duration": 1494.501,
+        "videoId": "MCCujxWmvno"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "R6MlUcmOul8",
+    "title": "Tears of Steel",
+    "checkedAt": "2026-11-10T13:46:27.939981+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 734,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.634982992370605,
+        "duration": 734.181,
+        "videoId": "R6MlUcmOul8"
+      },
+      {
+        "state": 1,
+        "time": 6.742113171661377,
+        "duration": 734.181,
+        "videoId": "R6MlUcmOul8"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-R6MlUcmOul8.png"
+  },
+  {
+    "youtubeId": "eRsGyueVLvQ",
+    "title": "Sintel",
+    "checkedAt": "2026-11-10T13:46:30.201171+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 888,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.743143990463257,
+        "duration": 888.061,
+        "videoId": "eRsGyueVLvQ"
+      },
+      {
+        "state": 1,
+        "time": 6.858017931335449,
+        "duration": 888.061,
+        "videoId": "eRsGyueVLvQ"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "aqz-KE-bpKQ",
+    "title": "Big Buck Bunny",
+    "checkedAt": "2026-11-10T13:46:32.450551+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 635,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.706765007629395,
+        "duration": 634.601,
+        "videoId": "aqz-KE-bpKQ"
+      },
+      {
+        "state": 1,
+        "time": 6.814382135421753,
+        "duration": 634.601,
+        "videoId": "aqz-KE-bpKQ"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "TLkA0RELQ1g",
+    "title": "Elephants Dream",
+    "checkedAt": "2026-11-10T13:46:34.670193+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 654,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.777437022888184,
+        "duration": 654.381,
+        "videoId": "TLkA0RELQ1g"
+      },
+      {
+        "state": 1,
+        "time": 6.885555017166138,
+        "duration": 654.381,
+        "videoId": "TLkA0RELQ1g"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "Y-rmzh0PI3c",
+    "title": "Cosmos Laundromat: First Cycle",
+    "checkedAt": "2026-11-10T13:46:36.900902+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 731,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.376518889373779,
+        "duration": 730.581,
+        "videoId": "Y-rmzh0PI3c"
+      },
+      {
+        "state": 1,
+        "time": 6.4807720686645505,
+        "duration": 730.581,
+        "videoId": "Y-rmzh0PI3c"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "WhWc3b3KhnY",
+    "title": "Spring",
+    "checkedAt": "2026-11-10T13:46:39.121993+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 464,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.5100200534057615,
+        "duration": 464.141,
+        "videoId": "WhWc3b3KhnY"
+      },
+      {
+        "state": 1,
+        "time": 6.619466036239624,
+        "duration": 464.141,
+        "videoId": "WhWc3b3KhnY"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-WhWc3b3KhnY.png"
+  },
+  {
+    "youtubeId": "Z4C82eyhwgU",
+    "title": "Caminandes 2: Gran Dillama",
+    "checkedAt": "2026-11-10T13:46:41.505438+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 146,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.515723950408936,
+        "duration": 146.061,
+        "videoId": "Z4C82eyhwgU"
+      },
+      {
+        "state": 1,
+        "time": 6.621102923706054,
+        "duration": 146.061,
+        "videoId": "Z4C82eyhwgU"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "SkVqJ1SGeL0",
+    "title": "Caminandes 3: Llamigos",
+    "checkedAt": "2026-11-10T13:46:43.726717+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 150,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.728420927520752,
+        "duration": 150.121,
+        "videoId": "SkVqJ1SGeL0"
+      },
+      {
+        "state": 1,
+        "time": 6.839069814987183,
+        "duration": 150.121,
+        "videoId": "SkVqJ1SGeL0"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "UXqq0ZvbOnk",
+    "title": "CHARGE",
+    "checkedAt": "2026-11-10T13:46:45.963072+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 263,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.052000064849853,
+        "duration": 262.721,
+        "videoId": "UXqq0ZvbOnk"
+      },
+      {
+        "state": 1,
+        "time": 6.146029906539917,
+        "duration": 262.721,
+        "videoId": "UXqq0ZvbOnk"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  },
+  {
+    "youtubeId": "PVGeM40dABA",
+    "title": "Coffee Run",
+    "checkedAt": "2026-11-10T13:46:48.193272+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:39966/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 185,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.270499816894532,
+        "duration": 184.661,
+        "videoId": "PVGeM40dABA"
+      },
+      {
+        "state": 1,
+        "time": 6.373940007629394,
+        "duration": 184.661,
+        "videoId": "PVGeM40dABA"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": 5
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ]
+  }
+]

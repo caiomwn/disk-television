@@ -1,0 +1,15 @@
+{
+  "unchanged": {
+    "index.html": true,
+    "legal.html": true,
+    "styles.css": true,
+    "src/app.js": true,
+    "src/playout.js": true,
+    "src/schedule.js": true,
+    "assets/logo.svg": true,
+    "assets/logo.png": true,
+    "assets/favicon.svg": true
+  },
+  "allPreserved": true,
+  "backupManifest": "C:\\Users\\padoka77\\disk-television-backups\\DT-002-before-20261110-102715\\manifest.json"
+}

@@ -1,0 +1,1795 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-10T22:05:54.574067+00:00",
+  "timeboxMinutes": 12,
+  "startedAtLocal": "2026-11-10T18:58:57-03:00",
+  "scope": "Research only; no app/HTML/CSS/catalogue/schedule edits, media downloads, login, VPN or bypass.",
+  "method": {
+    "metadata": "yt-dlp 2026.10.26 --skip-download; playlist first two entries; complete metadata per seed video and selected episodes.",
+    "playback": "Unmodified tools/verify_embeds.py imported with scratch ROOT/output to avoid project evidence writes; real installed Chrome headless, official iframe.",
+    "region": "Observed on this desktop connection. No IP geolocation or Brazil-specific network guarantee.",
+    "licenseInterpretation": "null means license field not returned, not public domain or an affirmative license.",
+    "languageInterpretation": "language field is default/source metadata, not a listening test; title/description language claims remain distinct from audio-track labels."
+  },
+  "counts": {
+    "seeds": 8,
+    "metadataVideos": 17,
+    "episodes": 13,
+    "introductionsNotEpisodes": 3,
+    "hoursCompilationsExcluded": 1,
+    "iframeSamplesTested": 1,
+    "iframeSamplesVerified": 1,
+    "addedToLaunch": 0
+  },
+  "seeds": [
+    {
+      "name": "Galaxy",
+      "originalUrl": "https://www.youtube.com/watch?v=tKNW7F5Mijg&list=PLDOijcJgf2tmoxN91PJppqPUUT3pBBO2N",
+      "originalVideoId": "tKNW7F5Mijg",
+      "originalPlaylistId": "PLDOijcJgf2tmoxN91PJppqPUUT3pBBO2N",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLDOijcJgf2tmoxN91PJppqPUUT3pBBO2N",
+      "playlistMetadata": {
+        "id": "PLDOijcJgf2tmoxN91PJppqPUUT3pBBO2N",
+        "title": "Galaxy Angel Completo | Dublado PT-BR",
+        "duration": null,
+        "channel": "AnimeSymphony W",
+        "channel_id": "UCzQohCH1vAJRVKdQZ85dafQ",
+        "channel_url": "https://www.youtube.com/channel/UCzQohCH1vAJRVKdQZ85dafQ",
+        "uploader": "AnimeSymphony W",
+        "uploader_id": "@AnimeSymphonyw",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "webpage_url": "https://www.youtube.com/playlist?list=PLDOijcJgf2tmoxN91PJppqPUUT3pBBO2N",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "tKNW7F5Mijg",
+            "title": "galaxy angel ep1 dublado em (pt-br)",
+            "duration": 813,
+            "channel": "ANIME TUB METAL FUZION",
+            "channel_id": "UCpDP_9V8c_vFVhxEUpUoPmQ",
+            "channel_url": "https://www.youtube.com/channel/UCpDP_9V8c_vFVhxEUpUoPmQ",
+            "uploader": "ANIME TUB METAL FUZION",
+            "uploader_id": "@animetubmetalfuzion9306",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "KpSSo4g_-Z0",
+            "title": "galaxy angel ep2 dublado em (pt-br)",
+            "duration": 813,
+            "channel": "ANIME TUB METAL FUZION",
+            "channel_id": "UCpDP_9V8c_vFVhxEUpUoPmQ",
+            "channel_url": "https://www.youtube.com/channel/UCpDP_9V8c_vFVhxEUpUoPmQ",
+            "uploader": "ANIME TUB METAL FUZION",
+            "uploader_id": "@animetubmetalfuzion9306",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Passem no canal AnimeSymphony W para conferir mais playlists! -^^- ㅤㅤㅤㅤㅤㅤㅤ \n❖ Gêneros - Comédia, Aventura, Sci-Fi \n\n@animesymphonyw"
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "tKNW7F5Mijg",
+        "KpSSo4g_-Z0"
+      ],
+      "episodeSampleCount": 2,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    },
+    {
+      "name": "Azumanga",
+      "originalUrl": "https://www.youtube.com/watch?v=ZxTz5fQg6MA&list=PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ",
+      "originalVideoId": "ZxTz5fQg6MA",
+      "originalPlaylistId": "PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ",
+      "playlistMetadata": {
+        "id": "PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ",
+        "title": "Azumanga Daioh - LEGENDADO PT-BR (HD)",
+        "duration": null,
+        "channel": "Lixeira do Dobbins",
+        "channel_id": "UCcdEv3ePtuyCkkza6LpxEsQ",
+        "channel_url": "https://www.youtube.com/channel/UCcdEv3ePtuyCkkza6LpxEsQ",
+        "uploader": "Lixeira do Dobbins",
+        "uploader_id": "@lixeiradodobbins",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/playlist?list=PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "ZxTz5fQg6MA",
+            "title": "Azumanga Daioh - Episódio 01 - Legendado em PT-BR (HD)",
+            "duration": 1450,
+            "channel": "Lixeira do Dobbins",
+            "channel_id": "UCcdEv3ePtuyCkkza6LpxEsQ",
+            "channel_url": "https://www.youtube.com/channel/UCcdEv3ePtuyCkkza6LpxEsQ",
+            "uploader": "Lixeira do Dobbins",
+            "uploader_id": "@lixeiradodobbins",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "9dnxCA4wbz0",
+            "title": "Azumanga Daioh - Episódio 02 - Dia da Osaka (Legendado PT-BT) (HD)",
+            "duration": 1450,
+            "channel": "Lixeira do Dobbins",
+            "channel_id": "UCcdEv3ePtuyCkkza6LpxEsQ",
+            "channel_url": "https://www.youtube.com/channel/UCcdEv3ePtuyCkkza6LpxEsQ",
+            "uploader": "Lixeira do Dobbins",
+            "uploader_id": "@lixeiradodobbins",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": []
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "ZxTz5fQg6MA",
+        "9dnxCA4wbz0"
+      ],
+      "episodeSampleCount": 2,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    },
+    {
+      "name": "Hellsing",
+      "originalUrl": "https://www.youtube.com/watch?v=Z1o3CxE9v9g&list=PLJPpV8GR7nq01PrLAZra3_oVSATttS6ve",
+      "originalVideoId": "Z1o3CxE9v9g",
+      "originalPlaylistId": "PLJPpV8GR7nq01PrLAZra3_oVSATttS6ve",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLJPpV8GR7nq01PrLAZra3_oVSATttS6ve",
+      "playlistMetadata": {
+        "id": "PLJPpV8GR7nq01PrLAZra3_oVSATttS6ve",
+        "title": "Hellsing em HD Dublado",
+        "duration": null,
+        "channel": "Fullmetal Ball Z",
+        "channel_id": "UC4MhYjPo3TPL2EyBAc0Y_uQ",
+        "channel_url": "https://www.youtube.com/channel/UC4MhYjPo3TPL2EyBAc0Y_uQ",
+        "uploader": "Fullmetal Ball Z",
+        "uploader_id": "@fullmetalballz2618",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "webpage_url": "https://www.youtube.com/playlist?list=PLJPpV8GR7nq01PrLAZra3_oVSATttS6ve",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "Z1o3CxE9v9g",
+            "title": "Hellsing Episódio 1 - O Morto Vivo (Dublado)",
+            "duration": 1401,
+            "channel": "Fullmetal Ball Z",
+            "channel_id": "UC4MhYjPo3TPL2EyBAc0Y_uQ",
+            "channel_url": "https://www.youtube.com/channel/UC4MhYjPo3TPL2EyBAc0Y_uQ",
+            "uploader": "Fullmetal Ball Z",
+            "uploader_id": "@fullmetalballz2618",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "znxpEEnqg1U",
+            "title": "Hellsing Episódio 2 - Clube M (Dublado)",
+            "duration": 1401,
+            "channel": "Fullmetal Ball Z",
+            "channel_id": "UC4MhYjPo3TPL2EyBAc0Y_uQ",
+            "channel_url": "https://www.youtube.com/channel/UC4MhYjPo3TPL2EyBAc0Y_uQ",
+            "uploader": "Fullmetal Ball Z",
+            "uploader_id": "@fullmetalballz2618",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Episódios de Hellsing em HD"
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "Z1o3CxE9v9g",
+        "znxpEEnqg1U"
+      ],
+      "episodeSampleCount": 2,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    },
+    {
+      "name": "Dandadan",
+      "originalUrl": "https://www.youtube.com/watch?v=Dnt3XmOXTPU&list=PLOgJNbJhDLcIRaqkpOkGtk24bLi-FfTQ5",
+      "originalVideoId": "Dnt3XmOXTPU",
+      "originalPlaylistId": "PLOgJNbJhDLcIRaqkpOkGtk24bLi-FfTQ5",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLOgJNbJhDLcIRaqkpOkGtk24bLi-FfTQ5",
+      "playlistMetadata": {
+        "id": "PLOgJNbJhDLcIRaqkpOkGtk24bLi-FfTQ5",
+        "title": "DAN DA DAN 1ª e 2ª temporada: anime dublado todos os episódios - anime completo - anime em português",
+        "duration": null,
+        "channel": "50 Tons de Nerds 2.0",
+        "channel_id": "UCFqdV5L8PM1sIH0c5qj7TCA",
+        "channel_url": "https://www.youtube.com/channel/UCFqdV5L8PM1sIH0c5qj7TCA",
+        "uploader": "50 Tons de Nerds 2.0",
+        "uploader_id": "@superanimesbr1",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "webpage_url": "https://www.youtube.com/playlist?list=PLOgJNbJhDLcIRaqkpOkGtk24bLi-FfTQ5",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "Dnt3XmOXTPU",
+            "title": "DAN DA DAN - A Quick Introduction (Spoiler-Free)",
+            "duration": 185,
+            "channel": "50 Tons de Nerds",
+            "channel_id": "UCYOp--mnGIaz7oDdJ6tGSwg",
+            "channel_url": "https://www.youtube.com/channel/UCYOp--mnGIaz7oDdJ6tGSwg",
+            "uploader": "50 Tons de Nerds",
+            "uploader_id": "@50tonsdenerds",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "VJ5FcG0sT7c",
+            "title": "Anime DAN DAN : episodio 1 completo Dublado",
+            "duration": 1480,
+            "channel": "Driih animes e jogadora de Brawl star🎮👹",
+            "channel_id": "UC_Xonc9ajpxHnfybn80tQ4w",
+            "channel_url": "https://www.youtube.com/channel/UC_Xonc9ajpxHnfybn80tQ4w",
+            "uploader": "Driih animes e jogadora de Brawl star🎮👹",
+            "uploader_id": "@DrikaHanya",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Dandadan é um anime que mistura ação intensa, comédia irreverente e um toque sobrenatural único. A trama acompanha dois adolescentes com visões opostas sobre o mundo: um acredita em fantasmas, o outro em alienígenas. Quando decidem provar quem está certo, acabam mergulhando em uma realidade onde o bizarro é apenas o começo. Com cenas cheias de energia, personagens carismáticos e uma estética vibrante, Dandadan se destaca por sua criatividade e ritmo alucinante. A narrativa prende desde o primeiro episódio e vai além dos clichês comuns de animes escolares ou de batalhas. Prepare-se para uma jornada maluca, divertida e imprevisível — perfeita para quem gosta de histórias diferentes e cheias de personalidade.\n\n#ação #aventura #magia #anime\n#an"
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "Dnt3XmOXTPU",
+        "VJ5FcG0sT7c"
+      ],
+      "episodeSampleCount": 1,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    },
+    {
+      "name": "Nokotan",
+      "originalUrl": "https://www.youtube.com/watch?v=z-4pdSmVqls&list=PLn56m5q4qBwHyCDYXfvC76F6bcZcP8TaV",
+      "originalVideoId": "z-4pdSmVqls",
+      "originalPlaylistId": "PLn56m5q4qBwHyCDYXfvC76F6bcZcP8TaV",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLn56m5q4qBwHyCDYXfvC76F6bcZcP8TaV",
+      "playlistMetadata": {
+        "id": "PLn56m5q4qBwHyCDYXfvC76F6bcZcP8TaV",
+        "title": "Minha amiga Nokotan e um Cervo",
+        "duration": null,
+        "channel": "🎋¡𝐵𝑎𝑚𝑏𝑢!🌾",
+        "channel_id": "UCa6ywRUhNJRAlq_38Fjndng",
+        "channel_url": "https://www.youtube.com/channel/UCa6ywRUhNJRAlq_38Fjndng",
+        "uploader": "🎋¡𝐵𝑎𝑚𝑏𝑢!🌾",
+        "uploader_id": "@ෆBambuෆ",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/playlist?list=PLn56m5q4qBwHyCDYXfvC76F6bcZcP8TaV",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "vJMhT9bZlMU",
+            "title": "My Deer Friend Nokotan: Season 1 Complete (12 Episodes) | MULTI-SUB [#ItsAnime]",
+            "duration": 16992,
+            "channel": "It's Anime powered by REMOW",
+            "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+            "channel_url": "https://www.youtube.com/channel/UCsj_CYajUSQ2ca8bYCMan9g",
+            "uploader": "It's Anime powered by REMOW",
+            "uploader_id": "@ItsAnimeJP",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "z-4pdSmVqls",
+            "title": "My Deer Friend Nokotan S1:E1 • Girl Meets Deer | MULTI-SUB [#ItsAnime]",
+            "duration": 1427,
+            "channel": "It's Anime powered by REMOW",
+            "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+            "channel_url": "https://www.youtube.com/channel/UCsj_CYajUSQ2ca8bYCMan9g",
+            "uploader": "It's Anime powered by REMOW",
+            "uploader_id": "@ItsAnimeJP",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": []
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "z-4pdSmVqls",
+        "vJMhT9bZlMU",
+        "oBQKmGl9_7w"
+      ],
+      "episodeSampleCount": 2,
+      "launchDecision": "PROPOSAL_ONLY"
+    },
+    {
+      "name": "Slayers",
+      "originalUrl": "https://www.youtube.com/watch?v=mT8lqE61c9M&list=PLDOijcJgf2tnOGi9qfTxyzyikzHWO9yOP",
+      "originalVideoId": "mT8lqE61c9M",
+      "originalPlaylistId": "PLDOijcJgf2tnOGi9qfTxyzyikzHWO9yOP",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLDOijcJgf2tnOGi9qfTxyzyikzHWO9yOP",
+      "playlistMetadata": {
+        "id": "PLDOijcJgf2tnOGi9qfTxyzyikzHWO9yOP",
+        "title": "Slayers Completo | Dublado PT-BR",
+        "duration": null,
+        "channel": "AnimeSymphony W",
+        "channel_id": "UCzQohCH1vAJRVKdQZ85dafQ",
+        "channel_url": "https://www.youtube.com/channel/UCzQohCH1vAJRVKdQZ85dafQ",
+        "uploader": "AnimeSymphony W",
+        "uploader_id": "@AnimeSymphonyw",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "webpage_url": "https://www.youtube.com/playlist?list=PLDOijcJgf2tnOGi9qfTxyzyikzHWO9yOP",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "mT8lqE61c9M",
+            "title": "Slayers Ep 01 - Está bravo Eu sou a linda feiticeira",
+            "duration": 1345,
+            "channel": "Lina Inverse",
+            "channel_id": "UCbjiw1hS_TIheX3ju3BompQ",
+            "channel_url": "https://www.youtube.com/channel/UCbjiw1hS_TIheX3ju3BompQ",
+            "uploader": "Lina Inverse",
+            "uploader_id": "@linainverse2774",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "sD4Y0FCWTCE",
+            "title": "Slayers Ep 02 - Que chato! Não gosto de múmias",
+            "duration": 1345,
+            "channel": "Lina Inverse",
+            "channel_id": "UCbjiw1hS_TIheX3ju3BompQ",
+            "channel_url": "https://www.youtube.com/channel/UCbjiw1hS_TIheX3ju3BompQ",
+            "uploader": "Lina Inverse",
+            "uploader_id": "@linainverse2774",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Passem no canal AnimeSymphony W para conferir mais playlists! -^^- ㅤㅤㅤㅤㅤㅤㅤ \n❖ Gêneros - Comédia, Aventura, Fantasia  \n\n@animesymphonyw"
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "mT8lqE61c9M",
+        "sD4Y0FCWTCE"
+      ],
+      "episodeSampleCount": 2,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    },
+    {
+      "name": "Tenchi",
+      "originalUrl": "https://www.youtube.com/watch?v=OYxN4ypUp8Y&list=PLNjp4PCopvQk",
+      "originalVideoId": "OYxN4ypUp8Y",
+      "originalPlaylistId": "PLNjp4PCopvQk",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLNjp4PCopvQk",
+      "playlistMetadata": {
+        "id": "PLNjp4PCopvQk",
+        "title": "Tenchi Muyo Universe - anime dublado todos os episódios - anime completo - anime em português",
+        "duration": null,
+        "channel": "50 Tons de Nerds 2.0",
+        "channel_id": "UCFqdV5L8PM1sIH0c5qj7TCA",
+        "channel_url": "https://www.youtube.com/channel/UCFqdV5L8PM1sIH0c5qj7TCA",
+        "uploader": "50 Tons de Nerds 2.0",
+        "uploader_id": "@superanimesbr1",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "webpage_url": "https://www.youtube.com/playlist?list=PLNjp4PCopvQk",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "OYxN4ypUp8Y",
+            "title": "Tenchi Muyo! Universe - A Quick Introduction (Spoiler-Free)",
+            "duration": 190,
+            "channel": "50 Tons de Nerds",
+            "channel_id": "UCYOp--mnGIaz7oDdJ6tGSwg",
+            "channel_url": "https://www.youtube.com/channel/UCYOp--mnGIaz7oDdJ6tGSwg",
+            "uploader": "50 Tons de Nerds",
+            "uploader_id": "@50tonsdenerds",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "a_77ayOSIKQ",
+            "title": "Tenchi Muyo Universe 01",
+            "duration": 1403,
+            "channel": "animebazzani",
+            "channel_id": "UCGkTdAWWiay2vh3FdY2AqTA",
+            "channel_url": "https://www.youtube.com/channel/UCGkTdAWWiay2vh3FdY2AqTA",
+            "uploader": "animebazzani",
+            "uploader_id": "@animebazzani1845",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Tenchi Universe acompanha a vida de Tenchi Masaki, um jovem japonês comum de 17 anos cujo cotidiano muda radicalmente quando a pirata espacial Ryoko cai no templo de sua família.\n\n#ação #aventura #magia #anime\n#animedublado #luta #animes #animescompletos #tenchimuyo #tenchimuyouniverse"
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original short token PLNjp4PCopvQk preserved; no repair or replacement. It resolved as supplied; this is not rights evidence.",
+      "sampleVideoIds": [
+        "OYxN4ypUp8Y",
+        "a_77ayOSIKQ"
+      ],
+      "episodeSampleCount": 1,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    },
+    {
+      "name": "xxxHOLiC",
+      "originalUrl": "https://www.youtube.com/watch?v=zDWZ3_mKc58&list=PLOgJNbJhDLcKa7KZ8CnnTRFdsLG4nLK13",
+      "originalVideoId": "zDWZ3_mKc58",
+      "originalPlaylistId": "PLOgJNbJhDLcKa7KZ8CnnTRFdsLG4nLK13",
+      "playlistLookupUrl": "https://www.youtube.com/playlist?list=PLOgJNbJhDLcKa7KZ8CnnTRFdsLG4nLK13",
+      "playlistMetadata": {
+        "id": "PLOgJNbJhDLcKa7KZ8CnnTRFdsLG4nLK13",
+        "title": "XXXHolic - anime dublado todos os episódios - anime completo - anime em português - terror , suspense",
+        "duration": null,
+        "channel": "50 Tons de Nerds 2.0",
+        "channel_id": "UCFqdV5L8PM1sIH0c5qj7TCA",
+        "channel_url": "https://www.youtube.com/channel/UCFqdV5L8PM1sIH0c5qj7TCA",
+        "uploader": "50 Tons de Nerds 2.0",
+        "uploader_id": "@superanimesbr1",
+        "language": null,
+        "license": null,
+        "playable_in_embed": null,
+        "availability": "public",
+        "age_limit": null,
+        "webpage_url": "https://www.youtube.com/playlist?list=PLOgJNbJhDLcKa7KZ8CnnTRFdsLG4nLK13",
+        "upload_date": null,
+        "entries": [
+          {
+            "id": "zDWZ3_mKc58",
+            "title": "XXXHOLIC - A Brief Introduction (No Spoilers)",
+            "duration": 151,
+            "channel": "50 Tons de Nerds",
+            "channel_id": "UCYOp--mnGIaz7oDdJ6tGSwg",
+            "channel_url": "https://www.youtube.com/channel/UCYOp--mnGIaz7oDdJ6tGSwg",
+            "uploader": "50 Tons de Nerds",
+            "uploader_id": "@50tonsdenerds",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          },
+          {
+            "id": "ZLP1Gy00MaU",
+            "title": "Xxx Holic Dublado - Episódio 01 (3XHolicDown)",
+            "duration": 1451,
+            "channel": "Xxx Holic",
+            "channel_id": "UCluBFGO888op8TZ9MC3jkxQ",
+            "channel_url": "https://www.youtube.com/channel/UCluBFGO888op8TZ9MC3jkxQ",
+            "uploader": "Xxx Holic",
+            "uploader_id": "@xxxholic4722",
+            "language": null,
+            "license": null,
+            "playable_in_embed": null,
+            "availability": null,
+            "age_limit": null,
+            "description": null,
+            "webpage_url": null,
+            "upload_date": null,
+            "subtitles": null,
+            "automatic_captions": null
+          }
+        ],
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Watanuki Kimihiro, é um jovem estudante que tem o dom de ver e atrair fantasmas e espíritos (ayakashi). Um dia, ao ser atacado por uma ayakashi, acaba entrando em uma loja. A dona do lugar é Ichihara Yuuko, uma mulher que diz que o fato dele ter entrado lá não foi coincidência. Aquela é uma loja onde se realiza desejos, e ele tinha um. Porém para que seja concedido, é necessário pagar um preço equivalente. Watanuki então, deseja não ver mais os espíritos, e para poder pagar o preço ele é forçado a aceitar a oferta de Yuuko para trabalhar em sua loja.\n\nA partir desse momento, sua vida muda completamente. Watanuki passa a se envolver nas histórias misteriosas dos clientes de Yuuko, e com ela aprende não só sobre as situações mágicas que o cer"
+      },
+      "playlistResolution": "resolved_as_supplied",
+      "tokenNote": "Original tokens preserved.",
+      "sampleVideoIds": [
+        "zDWZ3_mKc58",
+        "ZLP1Gy00MaU"
+      ],
+      "episodeSampleCount": 1,
+      "launchDecision": "HOLD_NO_AUTHORIZATION_EVIDENCE"
+    }
+  ],
+  "observations": [
+    {
+      "seed": "Galaxy",
+      "sourceUrl": "https://www.youtube.com/watch?v=tKNW7F5Mijg",
+      "sourceCitation": "[7]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "tKNW7F5Mijg",
+        "title": "galaxy angel ep1 dublado em (pt-br)",
+        "duration": 813,
+        "channel": "ANIME TUB METAL FUZION",
+        "channel_id": "UCpDP_9V8c_vFVhxEUpUoPmQ",
+        "channel_url": "https://www.youtube.com/channel/UCpDP_9V8c_vFVhxEUpUoPmQ",
+        "uploader": "ANIME TUB METAL FUZION",
+        "uploader_id": "@animetubmetalfuzion9306",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/watch?v=tKNW7F5Mijg",
+        "upload_date": "20210905",
+        "subtitleLanguages": []
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=tKNW7F5Mijg"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Azumanga",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZxTz5fQg6MA",
+      "sourceCitation": "[9]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "ZxTz5fQg6MA",
+        "title": "Azumanga Daioh - Episódio 01 - Legendado em PT-BR (HD)",
+        "duration": 1450,
+        "channel": "Lixeira do Dobbins",
+        "channel_id": "UCcdEv3ePtuyCkkza6LpxEsQ",
+        "channel_url": "https://www.youtube.com/channel/UCcdEv3ePtuyCkkza6LpxEsQ",
+        "uploader": "Lixeira do Dobbins",
+        "uploader_id": "@lixeiradodobbins",
+        "language": "ja",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=ZxTz5fQg6MA",
+        "upload_date": "20211022",
+        "subtitleLanguages": [
+          "ja",
+          "pt-BR"
+        ],
+        "descriptionExcerpt": "(LIGUE AS LEGENDAS CC DO YOUTUBE)\nCapítulos:\n00:00 Abertura\n1:58 \"A Criança no Ensino Médio\"\n6:11 \"Ela é um Prodígio\"\n9:47 \"Assustadora, Talvez?\"\n14:17 \"Tomo, a Gata Selvagem!\"\n17:58 \"A Garota de Osaka\"\n22:03 Encerramento\n23:39 Preview do Próximo Episódio\nEu assisti esse anime uns anos atrás em inglês e adorei. Quando fui pesquisar em português, só achei uma versão em 240p. Por isso, resolvi legendar a versão em HD do inglês. \nAproveitem!\nPlaylist: https://www.youtube.com/playlist?list=PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=ZxTz5fQg6MA"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Hellsing",
+      "sourceUrl": "https://www.youtube.com/watch?v=Z1o3CxE9v9g",
+      "sourceCitation": "[11]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "Z1o3CxE9v9g",
+        "title": "Hellsing Episódio 1 - O Morto Vivo (Dublado)",
+        "duration": 1401,
+        "channel": "Fullmetal Ball Z",
+        "channel_id": "UC4MhYjPo3TPL2EyBAc0Y_uQ",
+        "channel_url": "https://www.youtube.com/channel/UC4MhYjPo3TPL2EyBAc0Y_uQ",
+        "uploader": "Fullmetal Ball Z",
+        "uploader_id": "@fullmetalballz2618",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=Z1o3CxE9v9g",
+        "upload_date": "20210221",
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Inscreva se no meu canal principal: http://www.youtube.com/c/Fullmatheusballz"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=Z1o3CxE9v9g"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Dandadan",
+      "sourceUrl": "https://www.youtube.com/watch?v=Dnt3XmOXTPU",
+      "sourceCitation": "[13]",
+      "kind": "commentary_introduction_not_episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "Dnt3XmOXTPU",
+        "title": "DAN DA DAN - uma pequena introdução (sem spoiler)",
+        "duration": 185,
+        "channel": "50 Tons de Nerds",
+        "channel_id": "UCYOp--mnGIaz7oDdJ6tGSwg",
+        "channel_url": "https://www.youtube.com/channel/UCYOp--mnGIaz7oDdJ6tGSwg",
+        "uploader": "50 Tons de Nerds",
+        "uploader_id": "@50tonsdenerds",
+        "language": "pt-BR",
+        "license": null,
+        "playable_in_embed": false,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=Dnt3XmOXTPU",
+        "upload_date": "20250702",
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Dandadan é um anime que mistura ação intensa, comédia irreverente e um toque sobrenatural único. A trama acompanha dois adolescentes com visões opostas sobre o mundo: um acredita em fantasmas, o outro em alienígenas. Quando decidem provar quem está certo, acabam mergulhando em uma realidade onde o bizarro é apenas o começo. Com cenas cheias de energia, personagens carismáticos e uma estética vibrante, Dandadan se destaca por sua criatividade e ritmo alucinante. A narrativa prende desde o primeiro episódio e vai além dos clichês comuns de animes escolares ou de batalhas. Prepare-se para uma jornada maluca, divertida e imprevisível — perfeita para quem gosta de histórias diferentes e cheias de personalidade.\n\nlink do Instagram do canal 50 Ton"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=Dnt3XmOXTPU"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Nokotan",
+      "sourceUrl": "https://www.youtube.com/watch?v=z-4pdSmVqls",
+      "sourceCitation": "[15]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "z-4pdSmVqls",
+        "title": "My Deer Friend Nokotan S1:E1 • Girl Meets Deer | MULTI-SUB [#ItsAnime]",
+        "duration": 1426,
+        "channel": "It's Anime powered by REMOW",
+        "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+        "channel_url": "https://www.youtube.com/channel/UCsj_CYajUSQ2ca8bYCMan9g",
+        "uploader": "It's Anime powered by REMOW",
+        "uploader_id": "@ItsAnimeJP",
+        "language": "ja",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=z-4pdSmVqls",
+        "upload_date": "20240707",
+        "subtitleLanguages": [
+          "zh-Hant",
+          "en",
+          "fr",
+          "de",
+          "id",
+          "ko",
+          "ms",
+          "pt",
+          "es",
+          "th",
+          "vi"
+        ],
+        "descriptionExcerpt": "Koshi Torako, hiding her former delinquent past and living as an honor student, meets a mysterious horned girl hanging from a utility pole. This mysterious girl, Kanoko, becomes the source of chaos in Torako's life.\n\nAudio: Japanese, English, Portuguese, Spanish, Thai\nSubtitles: Chinese (Traditional), English, French, German, Indonesian, Korean, Malay, Portuguese, Spanish, Thai, Vietnamese\n\nNext: https://youtu.be/oBQKmGl9_7w\n\n⎯⎯⎯\n\n*My Deer Friend Nokotan* (1 season • 12 episodes)\nOriginal title: しかのこのこのここしたんたん (Shikanoko Nokonoko Koshitantan)\nRelease Year: 2024\nFull series available on:\n・Prime Video / Freevee: https://www.amazon.com/My-Deer-Friend-Nokotan/dp/B0D47W8W8W/ \n・Tubi: https://tubitv.com/series/300012856/my-deer-friend-nokotan\n\nIt'"
+      },
+      "extractionError": null,
+      "discoveryStatus": "official_channel_evidence",
+      "publicAuthorization": {
+        "status": "official_publication_supported_CH99_use_not_approved",
+        "sourceUrls": [
+          "https://www.remow.com/news/209/",
+          "https://www.remow.com/en/news/290",
+          "https://www.youtube.com/watch?v=z-4pdSmVqls"
+        ],
+        "launchInclude": false,
+        "reason": "Proposal only; validate territory, selected audio and editorial/terms gate before any later addition."
+      },
+      "technicalPlayback": {
+        "youtubeId": "z-4pdSmVqls",
+        "title": "My Deer Friend Nokotan S1:E1",
+        "checkedAt": "2026-11-10T22:02:21.726027+00:00",
+        "actualPlayback": true,
+        "status": "VERIFIED",
+        "browser": "Google Chrome installed, headless desktop",
+        "origin": "http://127.0.0.1:25027/disk-television/__verify__/",
+        "requestedOffsetSeconds": 5,
+        "expectedDurationSeconds": 1426,
+        "samples": [
+          {
+            "state": 1,
+            "time": 5.131313906539917,
+            "duration": 1426.041,
+            "videoId": "z-4pdSmVqls"
+          },
+          {
+            "state": 1,
+            "time": 6.19990409727478,
+            "duration": 1426.041,
+            "videoId": "z-4pdSmVqls"
+          }
+        ],
+        "errorEvents": [],
+        "events": [
+          {
+            "event": "state",
+            "code": -1
+          },
+          {
+            "event": "state",
+            "code": 3
+          },
+          {
+            "event": "state",
+            "code": -1
+          },
+          {
+            "event": "state",
+            "code": 1
+          }
+        ],
+        "screenshot": "embed-z-4pdSmVqls.png"
+      }
+    },
+    {
+      "seed": "Slayers",
+      "sourceUrl": "https://www.youtube.com/watch?v=mT8lqE61c9M",
+      "sourceCitation": "[17]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "mT8lqE61c9M",
+        "title": "Slayers Ep 01 - Está bravo Eu sou a linda feiticeira",
+        "duration": 1345,
+        "channel": "Lina Inverse",
+        "channel_id": "UCbjiw1hS_TIheX3ju3BompQ",
+        "channel_url": "https://www.youtube.com/channel/UCbjiw1hS_TIheX3ju3BompQ",
+        "uploader": "Lina Inverse",
+        "uploader_id": "@linainverse2774",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/watch?v=mT8lqE61c9M",
+        "upload_date": "20181211",
+        "subtitleLanguages": []
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=mT8lqE61c9M"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Tenchi",
+      "sourceUrl": "https://www.youtube.com/watch?v=OYxN4ypUp8Y",
+      "sourceCitation": "[19]",
+      "kind": "commentary_introduction_not_episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "OYxN4ypUp8Y",
+        "title": "Tenchi Muyo Universe - uma pequena introdução (sem spoiler)",
+        "duration": 190,
+        "channel": "50 Tons de Nerds",
+        "channel_id": "UCYOp--mnGIaz7oDdJ6tGSwg",
+        "channel_url": "https://www.youtube.com/channel/UCYOp--mnGIaz7oDdJ6tGSwg",
+        "uploader": "50 Tons de Nerds",
+        "uploader_id": "@50tonsdenerds",
+        "language": "pt-BR",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=OYxN4ypUp8Y",
+        "upload_date": "20260917",
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "Tenchi Universe acompanha a vida de Tenchi Masaki, um jovem japonês comum de 17 anos cujo cotidiano muda radicalmente quando a pirata espacial Ryoko cai no templo de sua família.\n\n#ação #aventura #magia #anime\n#animedublado #luta #animes #animescompletos #tenchimuyo #tenchimuyouniverse \n\nlink do Instagram do canal 50 Tons de Nerds para quem gosta de conteúdo e do mundo Nerd / Otaku\nhttps://www.instagram.com/50_tons_de_nerd/"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=OYxN4ypUp8Y"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "xxxHOLiC",
+      "sourceUrl": "https://www.youtube.com/watch?v=zDWZ3_mKc58",
+      "sourceCitation": "[21]",
+      "kind": "commentary_introduction_not_episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "zDWZ3_mKc58",
+        "title": "XXXHOLIC - uma pequena introdução (sem spoiler)",
+        "duration": 150,
+        "channel": "50 Tons de Nerds",
+        "channel_id": "UCYOp--mnGIaz7oDdJ6tGSwg",
+        "channel_url": "https://www.youtube.com/channel/UCYOp--mnGIaz7oDdJ6tGSwg",
+        "uploader": "50 Tons de Nerds",
+        "uploader_id": "@50tonsdenerds",
+        "language": "pt-BR",
+        "license": null,
+        "playable_in_embed": false,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=zDWZ3_mKc58",
+        "upload_date": "20240908",
+        "subtitleLanguages": [],
+        "descriptionExcerpt": "link do Instagram do canal 50 Tons de Nerds para quem gosta de conteúdo e do mundo Nerd / Otaku\nhttps://www.instagram.com/50_tons_de_nerd/\n\n#xxxholic #animexxxholic #animerecap #entretenimento #animeterror #suspense #terror\n#animes #anime #introduction #introdução #animesdublados #amv #animesAMV\n#ação #aventura #magia #luta\n\nWatanuki Kimihiro, é um jovem estudante que tem o dom de ver e atrair fantasmas e espíritos (ayakashi). Um dia, ao ser atacado por uma ayakashi, acaba entrando em uma loja. A dona do lugar é Ichihara Yuuko, uma mulher que diz que o fato dele ter entrado lá não foi coincidência. Aquela é uma loja onde se realiza desejos, e ele tinha um. Porém para que seja concedido, é necessário pagar um preço equivalente. Watanuki entã"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=zDWZ3_mKc58"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Galaxy",
+      "sourceUrl": "https://www.youtube.com/watch?v=KpSSo4g_-Z0",
+      "sourceCitation": "[23]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "KpSSo4g_-Z0",
+        "title": "galaxy angel ep2 dublado em (pt-br)",
+        "duration": 812,
+        "channel": "ANIME TUB METAL FUZION",
+        "channel_id": "UCpDP_9V8c_vFVhxEUpUoPmQ",
+        "channel_url": "https://www.youtube.com/channel/UCpDP_9V8c_vFVhxEUpUoPmQ",
+        "uploader_id": "@animetubmetalfuzion9306",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/watch?v=KpSSo4g_-Z0",
+        "upload_date": "20210905",
+        "subtitleLanguages": [],
+        "audioTracks": [
+          [
+            "pt",
+            "medium"
+          ],
+          [
+            "pt",
+            "Default, low"
+          ],
+          [
+            "pt",
+            "low"
+          ],
+          [
+            "pt",
+            "Default, high"
+          ]
+        ]
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=KpSSo4g_-Z0"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Azumanga",
+      "sourceUrl": "https://www.youtube.com/watch?v=9dnxCA4wbz0",
+      "sourceCitation": "[24]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "9dnxCA4wbz0",
+        "title": "Azumanga Daioh - Episódio 02 - Dia da Osaka (Legendado PT-BT) (HD)",
+        "duration": 1450,
+        "channel": "Lixeira do Dobbins",
+        "channel_id": "UCcdEv3ePtuyCkkza6LpxEsQ",
+        "channel_url": "https://www.youtube.com/channel/UCcdEv3ePtuyCkkza6LpxEsQ",
+        "uploader_id": "@lixeiradodobbins",
+        "language": "ja",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=9dnxCA4wbz0",
+        "upload_date": "20211128",
+        "subtitleLanguages": [
+          "ja",
+          "pt-BR"
+        ],
+        "audioTracks": [
+          [
+            "ja",
+            "Default, low"
+          ],
+          [
+            "ja",
+            "low"
+          ],
+          [
+            "ja",
+            "low, DRC"
+          ],
+          [
+            "ja",
+            "medium"
+          ],
+          [
+            "ja",
+            "medium, DRC"
+          ],
+          [
+            "ja",
+            "Default, high"
+          ]
+        ],
+        "descriptionExcerpt": "Ative os CC do YouTube para ver as legendas.\nPlaylist: https://www.youtube.com/playlist?list=PLT6hu3yUu10V1bHhY0wzzB5b_EDUPsqdZ"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=9dnxCA4wbz0"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Hellsing",
+      "sourceUrl": "https://www.youtube.com/watch?v=znxpEEnqg1U",
+      "sourceCitation": "[25]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "znxpEEnqg1U",
+        "title": "Hellsing Episódio 2 - Clube M (Dublado)",
+        "duration": 1402,
+        "channel": "Fullmetal Ball Z",
+        "channel_id": "UC4MhYjPo3TPL2EyBAc0Y_uQ",
+        "channel_url": "https://www.youtube.com/channel/UC4MhYjPo3TPL2EyBAc0Y_uQ",
+        "uploader_id": "@fullmetalballz2618",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/watch?v=znxpEEnqg1U",
+        "upload_date": "20210221",
+        "subtitleLanguages": [],
+        "audioTracks": [
+          [
+            "pt",
+            "low, DRC"
+          ],
+          [
+            "pt",
+            "Default, low"
+          ],
+          [
+            "pt",
+            "low"
+          ],
+          [
+            "pt",
+            "medium"
+          ],
+          [
+            "pt",
+            "medium, DRC"
+          ],
+          [
+            "pt",
+            "Default, high"
+          ]
+        ]
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=znxpEEnqg1U"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Dandadan",
+      "sourceUrl": "https://www.youtube.com/watch?v=VJ5FcG0sT7c",
+      "sourceCitation": "[26]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "VJ5FcG0sT7c",
+        "title": "Anime DAN DAN : episodio 1 completo Dublado",
+        "duration": 1479,
+        "channel": "Driih animes e jogadora de Brawl star🎮👹",
+        "channel_id": "UC_Xonc9ajpxHnfybn80tQ4w",
+        "channel_url": "https://www.youtube.com/channel/UC_Xonc9ajpxHnfybn80tQ4w",
+        "uploader_id": "@DrikaHanya",
+        "language": null,
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/watch?v=VJ5FcG0sT7c",
+        "upload_date": "20250604",
+        "subtitleLanguages": [],
+        "audioTracks": [
+          [
+            null,
+            "Default, high"
+          ],
+          [
+            null,
+            "medium"
+          ],
+          [
+            null,
+            "Default, low"
+          ],
+          [
+            null,
+            "low, DRC"
+          ],
+          [
+            null,
+            "medium, DRC"
+          ],
+          [
+            null,
+            "low"
+          ]
+        ]
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=VJ5FcG0sT7c"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Nokotan",
+      "sourceUrl": "https://www.youtube.com/watch?v=vJMhT9bZlMU",
+      "sourceCitation": "[27]",
+      "kind": "hours_compilation_excluded",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "vJMhT9bZlMU",
+        "title": "My Deer Friend Nokotan: Season 1 Complete (12 Episodes) | MULTI-SUB [#ItsAnime]",
+        "duration": 16991,
+        "channel": "It's Anime powered by REMOW",
+        "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+        "channel_url": "https://www.youtube.com/channel/UCsj_CYajUSQ2ca8bYCMan9g",
+        "uploader_id": "@ItsAnimeJP",
+        "language": "ja",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=vJMhT9bZlMU",
+        "upload_date": "20250330",
+        "subtitleLanguages": [
+          "zh-Hant",
+          "en",
+          "fr",
+          "de",
+          "id",
+          "ko",
+          "ms",
+          "pt-BR",
+          "es-MX",
+          "th",
+          "vi"
+        ],
+        "audioTracks": [
+          [
+            "es-MX",
+            "Spanish (MX), low"
+          ],
+          [
+            "es-MX",
+            "Español de México - dubbed"
+          ],
+          [
+            "en",
+            "English, medium"
+          ],
+          [
+            "pt-BR",
+            "Portuguese (BR), medium"
+          ],
+          [
+            "pt-BR",
+            "Português (Brasil) - dubbed"
+          ],
+          [
+            "en",
+            "English, low"
+          ],
+          [
+            "ja",
+            "Japanese original (default), low"
+          ],
+          [
+            "ja",
+            "日本語 - original (original)"
+          ],
+          [
+            "en",
+            "English - dubbed"
+          ],
+          [
+            "th",
+            "Thai, medium"
+          ],
+          [
+            "pt-BR",
+            "Portuguese (BR), low"
+          ],
+          [
+            "es-MX",
+            "Spanish (MX), medium"
+          ],
+          [
+            "th",
+            "ไทย - dubbed"
+          ],
+          [
+            "th",
+            "Thai, low"
+          ],
+          [
+            "ja",
+            "Japanese original (default), medium"
+          ]
+        ],
+        "descriptionExcerpt": "Humans, aspire to be like the deer!\nTorako Koshi, a high schooler, one day feels something cold hit her face. Looking up, she spots a girl stuck, her antlers tangled in power lines. Helping Shikanoko, antlered and peculiar, turns Torako's life, a model student by appearance only, upside down. Thus begins a tale of a girl (once a delinquent) and another (a deer?), in this Girl Meets Deer adventure!\n\n*Looking for more anime? Catch the latest titles on It's Anime FAST channel! Check out how to watch in the links below.*\n\nSamsung TV Plus (Ch. 3202): https://bit.ly/3Tk2la8\nVIZIO | WatchFree+ (Ch. 986): https://bit.ly/494OYSR\n\n*Timestamps*\n[00:00:00] EP01 – Girl Meets Deer\n[00:23:35] EP02 – Deer Meets Darkness Girl\n[00:47:10] EP03 – The New Stude"
+      },
+      "extractionError": null,
+      "discoveryStatus": "official_channel_evidence",
+      "publicAuthorization": {
+        "status": "official_publication_supported_CH99_use_not_approved",
+        "sourceUrls": [
+          "https://www.remow.com/news/209/",
+          "https://www.remow.com/en/news/290",
+          "https://www.youtube.com/watch?v=vJMhT9bZlMU"
+        ],
+        "launchInclude": false,
+        "reason": "Proposal only; validate territory, selected audio and editorial/terms gate before any later addition."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Slayers",
+      "sourceUrl": "https://www.youtube.com/watch?v=sD4Y0FCWTCE",
+      "sourceCitation": "[28]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "sD4Y0FCWTCE",
+        "title": "Slayers Ep 02 - Que chato! Não gosto de múmias",
+        "duration": 1345,
+        "channel": "Lina Inverse",
+        "channel_id": "UCbjiw1hS_TIheX3ju3BompQ",
+        "channel_url": "https://www.youtube.com/channel/UCbjiw1hS_TIheX3ju3BompQ",
+        "uploader_id": "@linainverse2774",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "description": "",
+        "webpage_url": "https://www.youtube.com/watch?v=sD4Y0FCWTCE",
+        "upload_date": "20181211",
+        "subtitleLanguages": [],
+        "audioTracks": [
+          [
+            "pt",
+            "medium"
+          ],
+          [
+            "pt",
+            "Default, low"
+          ],
+          [
+            "pt",
+            "low"
+          ],
+          [
+            "pt",
+            "Default, high"
+          ]
+        ]
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=sD4Y0FCWTCE"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Tenchi",
+      "sourceUrl": "https://www.youtube.com/watch?v=a_77ayOSIKQ",
+      "sourceCitation": "[29]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "a_77ayOSIKQ",
+        "title": "Tenchi Muyo Universe 01",
+        "duration": 1403,
+        "channel": "animebazzani",
+        "channel_id": "UCGkTdAWWiay2vh3FdY2AqTA",
+        "channel_url": "https://www.youtube.com/channel/UCGkTdAWWiay2vh3FdY2AqTA",
+        "uploader_id": "@animebazzani1845",
+        "language": "pt",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=a_77ayOSIKQ",
+        "upload_date": "20220609",
+        "subtitleLanguages": [],
+        "audioTracks": [
+          [
+            "pt",
+            "low, DRC"
+          ],
+          [
+            "pt",
+            "Default, low"
+          ],
+          [
+            "pt",
+            "low"
+          ],
+          [
+            "pt",
+            "medium"
+          ],
+          [
+            "pt",
+            "medium, DRC"
+          ],
+          [
+            "pt",
+            "Default, high"
+          ]
+        ],
+        "descriptionExcerpt": "Tenchi Muyo Universe 01"
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=a_77ayOSIKQ"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "xxxHOLiC",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZLP1Gy00MaU",
+      "sourceCitation": "[30]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "ZLP1Gy00MaU",
+        "title": "Xxx Holic Dublado - Episódio 01 (3XHolicDown)",
+        "duration": 1450,
+        "channel": "Xxx Holic",
+        "channel_id": "UCluBFGO888op8TZ9MC3jkxQ",
+        "channel_url": "https://www.youtube.com/channel/UCluBFGO888op8TZ9MC3jkxQ",
+        "uploader_id": "@xxxholic4722",
+        "language": null,
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=ZLP1Gy00MaU",
+        "upload_date": "20131105",
+        "subtitleLanguages": [],
+        "audioTracks": [
+          [
+            null,
+            "Default, high"
+          ],
+          [
+            null,
+            "medium"
+          ],
+          [
+            null,
+            "Default, low"
+          ],
+          [
+            null,
+            "low, DRC"
+          ],
+          [
+            null,
+            "medium, DRC"
+          ],
+          [
+            null,
+            "low"
+          ]
+        ],
+        "descriptionExcerpt": "Blog -- http://xxx-holic-download.blogspot.com.br \n\nEpisódio 01 - Inevitabilidade.\n\nSinopse: Watanuki Kimihiro é um jovem com uma maldição. Ele tem a habilidade de ver espíritos demoníacos, e algo os atrai para ele. Um certo dia, ele acaba chegando à loja de uma misteriosa mulher que se apresenta como Yuuko. Ele pede para que ela resolva o seu problema, atendendo à seu desejo...mas o preço para tal realização é muito alto, o que força o rapaz a passar a trabalhar para ela. Neste lugar, muitas coisas fora do comum costumam acontecer..."
+      },
+      "extractionError": null,
+      "discoveryStatus": "independent_discovery_only",
+      "publicAuthorization": {
+        "status": "not_evidenced",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=ZLP1Gy00MaU"
+        ],
+        "launchInclude": false,
+        "reason": "No evidenced uploader chain of authorization; user-supplied playlist is not permission."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    },
+    {
+      "seed": "Nokotan",
+      "sourceUrl": "https://www.youtube.com/watch?v=oBQKmGl9_7w",
+      "sourceCitation": "[31]",
+      "kind": "episode",
+      "originalVideoTokenValid11Chars": true,
+      "metadata": {
+        "id": "oBQKmGl9_7w",
+        "title": "My Deer Friend Nokotan S1:E2 • Deer Meets Darkness Girl | MULTI-SUB [#ItsAnime]",
+        "duration": 1426,
+        "channel": "It's Anime powered by REMOW",
+        "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+        "channel_url": "https://www.youtube.com/channel/UCsj_CYajUSQ2ca8bYCMan9g",
+        "uploader_id": "@ItsAnimeJP",
+        "language": "ja",
+        "license": null,
+        "playable_in_embed": true,
+        "availability": "public",
+        "age_limit": 0,
+        "webpage_url": "https://www.youtube.com/watch?v=oBQKmGl9_7w",
+        "upload_date": "20240721",
+        "subtitleLanguages": [
+          "zh-Hant",
+          "en",
+          "fr",
+          "de",
+          "id",
+          "ko",
+          "ms",
+          "pt",
+          "es",
+          "th",
+          "vi"
+        ],
+        "audioTracks": [
+          [
+            "en",
+            "English, medium"
+          ],
+          [
+            "en",
+            "English, low"
+          ],
+          [
+            "pt",
+            "Português - dubbed"
+          ],
+          [
+            "pt",
+            "Portuguese, medium"
+          ],
+          [
+            "ja",
+            "Japanese original (default), low"
+          ],
+          [
+            "es",
+            "Español - dubbed"
+          ],
+          [
+            "ja",
+            "日本語 - original (original)"
+          ],
+          [
+            "en",
+            "English - dubbed"
+          ],
+          [
+            "th",
+            "Thai, medium"
+          ],
+          [
+            "pt",
+            "Portuguese, low"
+          ],
+          [
+            "th",
+            "ไทย - dubbed"
+          ],
+          [
+            "es",
+            "Spanish, low"
+          ],
+          [
+            "es",
+            "Spanish, medium"
+          ],
+          [
+            "th",
+            "Thai, low"
+          ],
+          [
+            "ja",
+            "Japanese original (default), medium"
+          ]
+        ],
+        "descriptionExcerpt": "Koshtan decorated the Deer Club room to turn it into a paradise. However, the room was vandalized, and Nokotan's life was threatened. It was discovered that the culprit was Koshtan's sister, Anko, driven by her obsessive jealousy due to her sister complex!\n\nAudio: Japanese, English, Portuguese, Spanish, Thai\nSubtitles: Chinese (Traditional), English, French, German, Indonesian, Korean, Malay, Portuguese, Spanish, Thai, Vietnamese\n\nNext: https://youtu.be/VqiVoEot8b4\n\n⎯⎯⎯\n\n*My Deer Friend Nokotan* (1 season • 12 episodes)\nOriginal title: しかのこのこのここしたんたん (Shikanoko Nokonoko Koshitantan)\nRelease Year: 2024\nFull series available on:\n・Prime Video / Freevee: https://www.amazon.com/My-Deer-Friend-Nokotan/dp/B0D47W8W8W/ \n・Tubi: https://tubitv.com/ser"
+      },
+      "extractionError": null,
+      "discoveryStatus": "official_channel_evidence",
+      "publicAuthorization": {
+        "status": "official_publication_supported_CH99_use_not_approved",
+        "sourceUrls": [
+          "https://www.remow.com/news/209/",
+          "https://www.remow.com/en/news/290",
+          "https://www.youtube.com/watch?v=oBQKmGl9_7w"
+        ],
+        "launchInclude": false,
+        "reason": "Proposal only; validate territory, selected audio and editorial/terms gate before any later addition."
+      },
+      "technicalPlayback": {
+        "status": "NOT_TESTED",
+        "actualPlayback": null,
+        "note": "playable_in_embed is metadata only; no iframe test was spent on unverified-rights uploads."
+      }
+    }
+  ],
+  "rightsSources": [
+    {
+      "url": "https://www.remow.com/news/209/",
+      "path": "C:\\Users\\padoka77\\AppData\\Local\\hermes\\cache\\scratch\\rights-0.txt",
+      "ok": true,
+      "excerpts": [
+        "ロモーションも開始。日本国内のニュース情報を英語のみならず、複数の言語にローカライズし、世界へタイムリーに情報発信しています。また声優へのインタビューや制作会社へのメディア取材など、幅広くパブリシティも展開。さらに複数言語でのSNS発信や、REMOWが運営するグローバル向けYouTubeチャンネル“It’s Anime”では、本作のPVなどが合計800万回以上視聴されるなど、作品の認知度向上のためオウンドメディア運営も強化しています。日本コンテンツの収益最大化およびアニメファン拡大のため、今後もコンテンツ提供とプロモーションを最大化してまいります。 TV アニメ『しかのこのこのここしたんたん』作品概要 ＜イントロダクション＞ 都立日野南高校に通う女子高生、虎視虎子。 ある日の登校中、彼女は顔に冷たいものが当たるのを感じた。 ふと上を見ると、そこには鼻水をたらし、ツノが電線に引っかかって 身動きが取れなくなっている女の子が――！？ うっかり変な『ツノ』の生えた少女・鹿乃子のこを助けたことで、 優等生（の皮を被った）虎視虎子の人生がかき乱されていく…… 一人の少女（元ヤン）が一人のシカ（？）に出会う ガール・ミーツ・シカ物語開幕！！ ＜キャスト＞ 鹿乃子のこ：潘めぐみ 虎視虎子：藤田咲 虎視餡子：田辺留依 馬車芽めめ：和泉風花"
+      ],
+      "length": 2284
+    },
+    {
+      "url": "https://www.remow.com/en/news/290",
+      "path": "C:\\Users\\padoka77\\AppData\\Local\\hermes\\cache\\scratch\\rights-1.txt",
+      "ok": true,
+      "excerpts": [
+        "d more accessible for anime fans to enjoy their favorite titles. REMOW is committed to finding innovative ways to bring licensed content to anime fans around the world. Integration with +SBT reflects this dedication, opening new doors for the community to enjoy anime in an easier and more practical way. ■About +SBT +SBT is a completely free streaming service from SBT. Officially launched on August 19, 2024, the platform combines live FAST channels (linear) with a diverse selection of on-demand content in its catalog, all at no cost to the consumer. On +SBT, everyo",
+        "p, +SBT users can access a diverse and high-quality catalog from Anime Onegai, featuring titles such as “My Deer Friend Nokotan”, “Brave 10” and more. This partnership represents a significant step for REMOW in its mission to expand the reach and accessibility of anime globally. By integrating its catalog into +SBT, REMOW not only reaches a wider audience but also makes it easier and more accessible for anime fans to enjoy their favorite titles. REMOW is committed to finding innovative ways to bring licensed content to anime fans around the world. Integration with"
+      ],
+      "length": 2882
+    },
+    {
+      "url": "https://www.youtube.com/t/terms",
+      "path": "C:\\Users\\padoka77\\AppData\\Local\\hermes\\cache\\scratch\\rights-2.txt",
+      "ok": true,
+      "excerpts": [
+        "rnece mais detalhes sobre nossas práticas de privacidade específicas ao YouTube Kids. Nós processaremos todo o conteúdo audiovisual ou de áudio enviado por você de acordo com os Termos de Processamento de Dados do YouTube , exceto nos casos em que o material for enviado como uma atividade pessoal ou doméstica. Saiba mais . Permissões e restrições O acesso e o uso do Serviço é permitido, desde que cumpra este Contrato e a legislação aplicável. Você pode ver ou ouvir o Conteúdo para uso pessoal e não comercial. Você também pode reproduzir vídeos do YouTube por meio "
+      ],
+      "length": 24771
+    },
+    {
+      "url": "https://developers.google.com/youtube/terms/developer-policies",
+      "path": "C:\\Users\\padoka77\\AppData\\Local\\hermes\\cache\\scratch\\rights-3.txt",
+      "ok": true,
+      "excerpts": [
+        "Tube API Services ; create, include, or promote features that play content, including audio or video components, from a background player, meaning a player that is not displayed in the page, tab, or screen that the user is viewing; adversely affect the functionality or performance of any aspect of YouTube API Services , YouTube Applications , or Google Applications , including actions that interfere with or disrupt YouTube API Services or the servers or networks that provide those Services; confuse, deceive, defraud, mislead, misrepresent, defame, abuse, stalk, th",
+        ", domain names, and other distinctive brand features of YouTube. Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License , and code samples are licensed under the Apache 2.0 License . For details, see the Google Developers Site Policies . Java is a registered trademark of Oracle and/or its affiliates. Last updated 2026-11-06 UTC. [[[\"Easy to understand\",\"easyToUnderstand\",\"thumb-up\"],[\"Solved my problem\",\"solvedMyProblem\",\"thumb-up\"],[\"Other\",\"otherUp\",\"thumb-up\"]],[[\"Missing the information I need\",\"missi",
+        "you and your API Clients have no further permissions or rights to API Data , including to temporarily stored API Data . Audiovisual Content You and your API Clients must not, and must not encourage, enable, or require others to: download, import, backup, cache, or store copies of YouTube audiovisual content without YouTube's prior written approval, make content available for offline playback, or use any aspect of the YouTube API Services to facilitate or promote copyright infringement or the exploitation of copyright-infringing materials. Data Aggregation Do not a"
+      ],
+      "length": 60916
+    }
+  ],
+  "editorialPriorities": [
+    {
+      "rank": 1,
+      "seed": "Nokotan",
+      "status": "OFFICIAL_PROPOSAL_NOT_LAUNCH_ADDITION",
+      "reason": "Official channel chain corroborated by REMOW; episodic 1426s versions, no compilation. Description declares Portuguese/English audio and Portuguese subtitles; episode 2 audio track metadata explicitly shows Portuguese dubbed.",
+      "pending": [
+        "Verify Portuguese audio is Brazilian on episodic upload; do not borrow pt-BR label from excluded compilation.",
+        "Confirm audio selection/default in actual official iframe; playback test did not verify language.",
+        "Territory/current availability and public use/editorial approval before adding."
+      ]
+    },
+    {
+      "rank": 2,
+      "seeds": [
+        "Galaxy",
+        "Hellsing",
+        "Slayers",
+        "Tenchi"
+      ],
+      "status": "HOLD_RIGHTS_FIRST",
+      "reason": "Portuguese episodic discovery useful but no authorization chain evidenced."
+    },
+    {
+      "rank": 3,
+      "seeds": [
+        "Dandadan",
+        "xxxHOLiC"
+      ],
+      "status": "HOLD_RIGHTS_AND_LANGUAGE",
+      "reason": "Original seed links are commentary introductions; discovered episodes are independent uploads with language metadata null, dub asserted only by titles."
+    },
+    {
+      "rank": 4,
+      "seed": "Azumanga",
+      "status": "HOLD_RIGHTS_LOW_LANGUAGE_PRIORITY",
+      "reason": "Japanese default audio with Portuguese subtitles asserted in title; below PT-BR and English dub."
+    }
+  ],
+  "languagePreference": [
+    "PT-BR dub",
+    "English dub",
+    "Japanese with subtitles"
+  ],
+  "publicationRecommendation": "Do not delay today's launch for unresolved research. Add none from this audit automatically. Preserve current release; all new videos remain proposals.",
+  "separatePlaybackOutput": "C:\\Users\\padoka77\\AppData\\Local\\hermes\\cache\\scratch\\launch-seed-playback-results.json",
+  "citationsLedger": "C:\\Users\\padoka77\\AppData\\Local\\hermes\\cache\\scratch\\launch-seeds-ledger.json",
+  "retrievalIssues": [
+    "web_extract backend cannot extract URL content; public primary pages subsequently fetched directly with urllib without bypass.",
+    "Initial git status failed: project directory has no .git repository; file scope verified by write targets, not git diff."
+  ]
+}

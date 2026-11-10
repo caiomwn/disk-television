@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-11-10T22:39:44.929787+00:00",
+  "catalogItems": 48,
+  "usedDistinct": 46,
+  "blocks": 7,
+  "cycleSeconds": 86400,
+  "slots": 185,
+  "videoSlots": 89,
+  "blockOpenings": 7,
+  "programmeLinks": 82,
+  "continuityFillSeconds": 677,
+  "japaneseAnimationSeconds": 77092,
+  "uniqueContentSeconds": 53530,
+  "playbackEvidencePreviouslyConfirmed": 48,
+  "physicalSamsung": false,
+  "noNewSeedUploadsAdded": true,
+  "testCounts": {
+    "unit": 46,
+    "assets": 4,
+    "launcher": 1,
+    "embed-evidence": 1,
+    "browser": 9,
+    "editorial-browser": 2,
+    "production-build": 1,
+    "presentation-browser": 3,
+    "production-browser": 1,
+    "real-audio-browser": 1
+  },
+  "totalTests": 69,
+  "qaAllPassed": true,
+  "diagnostics": [
+    {
+      "name": "live",
+      "exitCode": 0
+    },
+    {
+      "name": "production-live-abc",
+      "exitCode": 0
+    }
+  ],
+  "blocksDetail": [
+    {
+      "label": "AFTER HOURS",
+      "start": 0,
+      "videoSlots": 20,
+      "fillSeconds": 90
+    },
+    {
+      "label": "MORNING FREQUENCY",
+      "start": 10800,
+      "videoSlots": 13,
+      "fillSeconds": 71
+    },
+    {
+      "label": "ANIME ARCHIVE",
+      "start": 23400,
+      "videoSlots": 12,
+      "fillSeconds": 138
+    },
+    {
+      "label": "MOE SIGNAL",
+      "start": 36000,
+      "videoSlots": 11,
+      "fillSeconds": 29
+    },
+    {
+      "label": "CYBERIA",
+      "start": 48600,
+      "videoSlots": 15,
+      "fillSeconds": 161
+    },
+    {
+      "label": "MOE SIGNAL / ENCORE",
+      "start": 64800,
+      "videoSlots": 12,
+      "fillSeconds": 121
+    },
+    {
+      "label": "CINE DISK",
+      "start": 77400,
+      "videoSlots": 6,
+      "fillSeconds": 67
+    }
+  ]
+}

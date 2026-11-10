@@ -1,0 +1,172 @@
+[
+  {
+    "id": "tears-of-steel",
+    "youtubeId": "R6MlUcmOul8",
+    "title": "Tears of Steel",
+    "creator": "Blender",
+    "year": 2012,
+    "durationSeconds": 734,
+    "language": "en",
+    "description": "Ficção científica em live action com efeitos visuais: um grupo tenta evitar uma catástrofe robótica. Diálogos em inglês; a descrição oficial recomenda 12 anos ou mais.",
+    "sourceUrl": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:10.407871+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "sintel",
+    "youtubeId": "eRsGyueVLvQ",
+    "title": "Sintel",
+    "creator": "Blender",
+    "year": 2010,
+    "durationSeconds": 888,
+    "language": "en",
+    "description": "Uma jovem procura o dragão que resgatou. Curta completo de fantasia com diálogos em inglês e violência dramática.",
+    "sourceUrl": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:10.481231+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "big-buck-bunny",
+    "youtubeId": "aqz-KE-bpKQ",
+    "title": "Big Buck Bunny",
+    "creator": "Blender",
+    "year": 2008,
+    "durationSeconds": 635,
+    "language": "und",
+    "description": "Comédia de animação sem diálogo, com um coelho e animais que o provocam. Upload oficial da versão 4K/60 fps, publicado em 2014; a duração inclui todo este upload.",
+    "sourceUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:10.674877+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "elephants-dream",
+    "youtubeId": "TLkA0RELQ1g",
+    "title": "Elephants Dream",
+    "creator": "Blender",
+    "year": 2006,
+    "durationSeconds": 654,
+    "language": "en",
+    "description": "Dois personagens percorrem um mundo mecânico surreal. Primeiro Blender Open Movie; diálogos em inglês.",
+    "sourceUrl": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:10.335087+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "cosmos-laundromat",
+    "youtubeId": "Y-rmzh0PI3c",
+    "title": "Cosmos Laundromat: First Cycle",
+    "creator": "Blender",
+    "year": 2015,
+    "durationSeconds": 731,
+    "language": "en",
+    "description": "Piloto completo First Cycle, não um longa completo: uma ovelha encontra um vendedor misterioso. Inglês; a descrição oficial indica público 13+ e tema de suicídio.",
+    "sourceUrl": "https://www.youtube.com/watch?v=Y-rmzh0PI3c",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:12.959792+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "spring",
+    "youtubeId": "WhWc3b3KhnY",
+    "title": "Spring",
+    "creator": "Blender Studio",
+    "year": 2019,
+    "durationSeconds": 464,
+    "language": "und",
+    "description": "Uma pastora e seu cão enfrentam espíritos antigos para renovar o ciclo da vida. Curta sem diálogos; a descrição oficial informa 7:44 e público 6+.",
+    "sourceUrl": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:12.799005+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "caminandes-gran-dillama",
+    "youtubeId": "Z4C82eyhwgU",
+    "title": "Caminandes 2: Gran Dillama",
+    "creator": "Blender",
+    "year": 2013,
+    "durationSeconds": 146,
+    "language": "und",
+    "description": "Episódio completo de comédia física com Koro, a lhama, sem diálogo narrativo necessário à compreensão. O idioma automático do YouTube é espanhol, não uma prova de fala em espanhol.",
+    "sourceUrl": "https://www.youtube.com/watch?v=Z4C82eyhwgU",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:14.556571+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "caminandes-llamigos",
+    "youtubeId": "SkVqJ1SGeL0",
+    "title": "Caminandes 3: Llamigos",
+    "creator": "Blender",
+    "year": 2016,
+    "durationSeconds": 150,
+    "language": "und",
+    "description": "Koro e o pinguim Oti disputam a última fruta no inverno da Patagônia. Episódio completo de comédia física sem diálogo narrativo necessário à compreensão.",
+    "sourceUrl": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:15.331579+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "charge",
+    "youtubeId": "UXqq0ZvbOnk",
+    "title": "CHARGE",
+    "creator": "Blender Studio",
+    "year": 2022,
+    "durationSeconds": 263,
+    "language": "und",
+    "description": "Em uma distopia com escassez de energia, um homem invade uma fábrica de baterias e enfrenta um robô de segurança. Curta de ação com narrativa visual; violência e tensão.",
+    "sourceUrl": "https://www.youtube.com/watch?v=UXqq0ZvbOnk",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:53.439406+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  },
+  {
+    "id": "coffee-run",
+    "youtubeId": "PVGeM40dABA",
+    "title": "Coffee Run",
+    "creator": "Blender Studio",
+    "year": 2020,
+    "durationSeconds": 185,
+    "language": "und",
+    "description": "Movida a cafeína, uma mulher percorre lembranças agridoces de um relacionamento. Curta completo de narrativa visual, sem dependência de diálogos.",
+    "sourceUrl": "https://www.youtube.com/watch?v=PVGeM40dABA",
+    "verification": {
+      "checkedAt": "2026-11-10T12:11:53.769951+00:00",
+      "method": "yt-dlp 2026.10.26 --skip-download --dump-single-json + YouTube oEmbed HTTP 200; duration from per-video extraction, not search result",
+      "embeddability": "allowed_by_youtube_metadata; playable_in_embed=true and oEmbed iframe returned; actual playback not tested",
+      "regionalAvailability": "not_verified; public metadata retrieved from this connection only; no country-by-country or playback test"
+    }
+  }
+]

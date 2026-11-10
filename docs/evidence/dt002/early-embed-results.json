@@ -1,0 +1,51 @@
+[
+  {
+    "youtubeId": "eutBzS30qhM",
+    "title": "MAGIC KNIGHT RAYEARTH - EP01 The Birth of the Legendary Magic Knights! | English Dub",
+    "checkedAt": "2026-11-10T13:34:03.687974+00:00",
+    "actualPlayback": true,
+    "status": "VERIFIED",
+    "browser": "Google Chrome installed, headless desktop",
+    "origin": "http://127.0.0.1:37573/disk-television/__verify__/",
+    "requestedOffsetSeconds": 5,
+    "expectedDurationSeconds": 1475,
+    "samples": [
+      {
+        "state": 1,
+        "time": 5.302565912261963,
+        "duration": 1475.181,
+        "videoId": "eutBzS30qhM"
+      },
+      {
+        "state": 1,
+        "time": 6.410591927520752,
+        "duration": 1475.181,
+        "videoId": "eutBzS30qhM"
+      }
+    ],
+    "errorEvents": [],
+    "events": [
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": -1
+      },
+      {
+        "event": "state",
+        "code": 3
+      },
+      {
+        "event": "state",
+        "code": 1
+      }
+    ],
+    "screenshot": "docs\\evidence\\dt002\\embed-eutBzS30qhM.png"
+  }
+]

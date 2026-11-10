@@ -1,0 +1,51 @@
+[
+  {
+    "label": "AFTER HOURS",
+    "start": 0,
+    "end": 10800,
+    "programmes": 19,
+    "continuityFillSeconds": 62
+  },
+  {
+    "label": "MORNING FREQUENCY",
+    "start": 10800,
+    "end": 23400,
+    "programmes": 12,
+    "continuityFillSeconds": 37
+  },
+  {
+    "label": "ANIME ARCHIVE",
+    "start": 23400,
+    "end": 36000,
+    "programmes": 14,
+    "continuityFillSeconds": 19
+  },
+  {
+    "label": "MOE SIGNAL",
+    "start": 36000,
+    "end": 48600,
+    "programmes": 10,
+    "continuityFillSeconds": 78
+  },
+  {
+    "label": "CYBERIA",
+    "start": 48600,
+    "end": 64800,
+    "programmes": 14,
+    "continuityFillSeconds": 60
+  },
+  {
+    "label": "MOE SIGNAL / ENCORE",
+    "start": 64800,
+    "end": 77400,
+    "programmes": 9,
+    "continuityFillSeconds": 52
+  },
+  {
+    "label": "CINE DISK",
+    "start": 77400,
+    "end": 86400,
+    "programmes": 5,
+    "continuityFillSeconds": 141
+  }
+]
